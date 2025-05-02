@@ -1,0 +1,6 @@
+"CustID","Sex","Race","BirthDate","College","HouseholdSize","ZipCode","Income","Spending2017","NumOfOrders","DaysSinceLast","Satisfaction","Channel"
+1567250,"Male","White","3/13/1977","Yes",4,90050,77000,275,2,174,"Somewhat Satisfied","SM"
+1543988,"Male","Hispanic","6/19/1963","Yes",3,90060,83000,449,11,263,"Somewhat Satisfied","Web"
+1574015,"Male","White","4/25/1988","No",2,90049,67000,708,12,133,"Neutral","Web"
+1575538,"Male","Hispanic","11/2/1996","Yes",5,90063,129000,813,24,140,"Neutral","Web"
+1573908,"Male","White","9/10/1990","No",4,90039,71000,213,2,42,"Very Satisfied","Referral"
