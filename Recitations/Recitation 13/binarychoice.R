@@ -1,4 +1,4 @@
-Spam <- read.csv("Recitations/Recitation 12/Spam.csv")
+Spam <- read.csv("Recitations/Recitation 13/Spam.csv")
 
 #Linear probability model
 mylpm = lm(Spam ~ Hyperlinks + Recipients + Characters, data = Spam)

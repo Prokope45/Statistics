@@ -21,7 +21,7 @@ re78Lm0 <- lm(
 )
 summary(re78Lm0)
 # R2: 0.03412
-# Significant: program, black participants, age
+# Important: program, black participants, age
 
 re78Lm1 <- lm(
   re78 ~ program + age +
@@ -75,6 +75,7 @@ plot(
   main="Jared Paubel", pch=16
 )
 abline(0, 0)
+# Has strange cutoff at the bottom of residual cluster.
 
 # 2.2
 plot(
@@ -84,13 +85,13 @@ plot(
   main="Plot of residuals against real earnings in 1975", pch=16
 )
 abline(0, 0)
-
+# Does not appear to have any regression assumption violations.
 
 # 3. Predict Response
 # 3.1
 workDemoPred <- read.csv("Projects/Project 2/WorkDemoPred.csv")
 predictions <- predict(re78Lm4, workDemoPred)
-workDemoPred$Predicted.Increase = predictions
+workDemoPred$Predicted_Increase = predictions
 View(workDemoPred)
 
 
