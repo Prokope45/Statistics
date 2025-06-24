@@ -1,0 +1,20 @@
+---
+title: "Paubel_Assignment1"
+output: pdf_document
+date: "2025-06-12"
+---
+
+```{r}
+url <- "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt" 
+df <- read.table(url,header=FALSE) 
+colnames(df) <- c("year","meanCO2","unc")
+
+plot(
+  x = df$year,
+  y = df$meanCO2,
+  xlab = "Year",
+  ylab = expression("Mean annual "*CO[2]*" concentration"), 
+  main="Jared Paubel",
+  col="purple"
+)
+```

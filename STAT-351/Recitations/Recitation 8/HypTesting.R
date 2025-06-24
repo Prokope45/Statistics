@@ -42,5 +42,3 @@ p = 0.20
 z_stat = (p_hat - p) / sqrt((p*(1-p)) / n)
 
 1 - pnorm(z_stat, mean=0, sd=1)
-
-
