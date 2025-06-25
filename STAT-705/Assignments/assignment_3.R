@@ -26,17 +26,10 @@ x.bar <- mean(x)
 y.bar <- mean(y)
 
 # Estimate slope and intercept parameters
-ols_beta0.hat <- y.bar - sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)*x.bar
-ols_beta0.hat  # 83.98873
-ols_beta1.hat <- sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)
+ols_beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
 ols_beta1.hat  # -0.00847421
-
-# Double check parameters using Matrix algebra
-y_matrix <- df.temp$TMAX
-y_matrix
-x_matrix <- matrix(df.temp$DATE, byrow=FALSE)
-x_matrix
-solve(t(x_matrix)%*%x_matrix)%*%t(x_matrix)%*%y_matrix
+ols_beta0.hat <- y.bar - ols_beta1.hat * x.bar
+ols_beta0.hat  # 83.98873
 
 # Double check parameters using lm()
 model <- lm(TMAX ~ year, data=df.temp)
@@ -63,33 +56,54 @@ y <- df.temp$TOBS
 x.bar <- mean(x)
 y.bar <- mean(y)
 
-# a.
-ls_beta0.hat <- y.bar - sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)*x.bar
-ls_beta0.hat  # 46.42983
-ls_beta1.hat <- sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)
-ls_beta1.hat  # 0.0001902842
+beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
+beta1.hat  # 0.0001902842
+beta0.hat <- y.bar - beta1.hat * x.bar
+beta0.hat  # 46.42983
 
-optim(
-  par=c(0,0),
+# a.
+# Squared distance (with optimization)
+sqrd_dist <- optim(
+  par = c(0, 0),
   method = c("Nelder-Mead"),
-  fn=function(beta){
-    sum((y-(ls_beta0.hat+ls_beta_1.hat*x))^2)
+  fn = function(beta) {
+    sum((y - (beta[1] + beta[2] * x))^2)
   }
 )
+sqrd_dist
+"
+$par
+[1] 4.643207e+01 1.902857e-04
 
-# Double check parameters
-model <- lm(TOBS ~ days, data=df.temp)
-summary(model)
+$value
+[1] 16241465
 "
-Coefficients:
-             Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 4.643e+01  3.967e-01  117.03   <2e-16 ***
-days        1.903e-04  1.223e-05   15.56   <2e-16 ***
-"
+sqrd_dist_para_1 <- sqrd_dist[1]$par[1]
+sqrd_dist_para_1
+sqrd_dist_para_2 <- sqrd_dist[1]$par[2]
+sqrd_dist_para_2
 
 # b.
-abs_error <- sum(abs(y - (lad_beta0.hat + lad_beta1.hat * x)))
-abs_error  # 624831.7
+# Absolute Error (with optimization)
+abs_err <- optim(
+  par = c(0, 0),
+  method = c("Nelder-Mead"),
+  fn = function(beta) {
+    sum(abs(y - (beta[1] + beta[2] * x)))
+  }
+)
+abs_err
+"
+$par
+[1] 4.218326e+01 3.373865e-04
+
+$value
+[1] 623903.9
+"
+abs_err_para_1 <- abs_err[1]$par[1]
+abs_err_para_1
+abs_err_para_2 <- abs_err[1]$par[2]
+abs_err_para_2
 
 
 # c.
@@ -100,11 +114,11 @@ plot(x, y,
    main = "OLS vs LAD Best Fit Lines"
 )
 
-# Add OLS line (red)
-abline(a = ols_beta0.hat, b = ols_beta1.hat, col = "red", lwd = 2)
+# Add squared distance line (red)
+abline(a = sqrd_dist_para_1, b = sqrd_dist_para_2, col = "red", lwd = 2)
 
-# Add LAD line (blue)
-abline(a = lad_beta0.hat, b = lad_beta1.hat, col = "blue", lwd = 2)
+# Add absolute error line (blue)
+abline(a = abs_err_para_1, b = abs_err_para_2, col = "blue", lwd = 2)
 
 # d.
 start_date <- min(ymd(df.temp$DATE))
@@ -120,6 +134,4 @@ tobs_pred_ols
 # LAD Prediction
 tobs_pred_lad <- lad_beta0.hat + lad_beta1.hat * x_2050
 tobs_pred_lad
-
-
 
