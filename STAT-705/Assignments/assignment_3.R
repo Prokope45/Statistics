@@ -1,3 +1,4 @@
+install.packages('lubridate')
 library(lubridate)
 url <- "https://www.dropbox.com/s/asw6gtq7pp1h0bx/manhattan_temp_data.csv?dl=1"
 df.temp <- read.csv(url)
@@ -30,7 +31,14 @@ ols_beta0.hat  # 83.98873
 ols_beta1.hat <- sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)
 ols_beta1.hat  # -0.00847421
 
-# Double check parameters
+# Double check parameters using Matrix algebra
+y_matrix <- df.temp$TMAX
+y_matrix
+x_matrix <- matrix(df.temp$DATE, byrow=FALSE)
+x_matrix
+solve(t(x_matrix)%*%x_matrix)%*%t(x_matrix)%*%y_matrix
+
+# Double check parameters using lm()
 model <- lm(TMAX ~ year, data=df.temp)
 summary(model)
 "
@@ -53,15 +61,21 @@ x <- as.numeric(df.temp$days)
 y <- df.temp$TOBS
 
 x.bar <- mean(x)
-x
-x.bar
 y.bar <- mean(y)
 
 # a.
-lad_beta0.hat <- y.bar - sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)*x.bar
-lad_beta0.hat  # 46.42983
-lad_beta1.hat <- sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)
-lad_beta1.hat  # 0.0001902842
+ls_beta0.hat <- y.bar - sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)*x.bar
+ls_beta0.hat  # 46.42983
+ls_beta1.hat <- sum((x-x.bar)*(y-y.bar))/sum((x-x.bar)^2)
+ls_beta1.hat  # 0.0001902842
+
+optim(
+  par=c(0,0),
+  method = c("Nelder-Mead"),
+  fn=function(beta){
+    sum((y-(ls_beta0.hat+ls_beta_1.hat*x))^2)
+  }
+)
 
 # Double check parameters
 model <- lm(TOBS ~ days, data=df.temp)
