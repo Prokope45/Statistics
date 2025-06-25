@@ -12,8 +12,10 @@ plot(
   ylab="Temperature"
 )
 
+# Look at data
 head(df.temp)
 tail(df.temp)
+
 
 # 4.
 # Cleanup: remove rows with NA TMAX values
@@ -26,10 +28,10 @@ x.bar <- mean(x)
 y.bar <- mean(y)
 
 # Estimate slope and intercept parameters
-ols_beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
-ols_beta1.hat  # -0.00847421
-ols_beta0.hat <- y.bar - ols_beta1.hat * x.bar
-ols_beta0.hat  # 83.98873
+beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
+beta1.hat  # -0.00847421
+beta0.hat <- y.bar - ols_beta1.hat * x.bar
+beta0.hat  # 83.98873
 
 # Double check parameters using lm()
 model <- lm(TMAX ~ year, data=df.temp)
@@ -61,6 +63,17 @@ beta1.hat  # 0.0001902842
 beta0.hat <- y.bar - beta1.hat * x.bar
 beta0.hat  # 46.42983
 
+# Double check parameters using lm()
+model <- lm(TOBS ~ days, data=df.temp)
+summary(model)
+"
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 4.643e+01  3.967e-01  117.03   <2e-16 ***
+days        1.903e-04  1.223e-05   15.56   <2e-16 ***
+"
+
+
 # a.
 # Squared distance (with optimization)
 sqrd_dist <- optim(
@@ -82,6 +95,7 @@ sqrd_dist_para_1 <- sqrd_dist[1]$par[1]
 sqrd_dist_para_1
 sqrd_dist_para_2 <- sqrd_dist[1]$par[2]
 sqrd_dist_para_2
+
 
 # b.
 # Absolute Error (with optimization)
@@ -108,10 +122,10 @@ abs_err_para_2
 
 # c.
 plot(x, y,
-   pch = 16, cex = 0.6, col = "gray40",
+   pch = 16, cex = 0.6, col = "gray",
    xlab = "Days Since First Record",
    ylab = "TOBS (Temperature at Observation)",
-   main = "OLS vs LAD Best Fit Lines"
+   main = "Sqrd Distance vs Absolute Error Best Fit Lines"
 )
 
 # Add squared distance line (red)
@@ -120,18 +134,20 @@ abline(a = sqrd_dist_para_1, b = sqrd_dist_para_2, col = "red", lwd = 2)
 # Add absolute error line (blue)
 abline(a = abs_err_para_1, b = abs_err_para_2, col = "blue", lwd = 2)
 
+
 # d.
 start_date <- min(ymd(df.temp$DATE))
 target_date <- as.Date("2050-01-01")
 
 # Calculate days since start
 x_2050 <- as.numeric(target_date - start_date)
+x_2050
 
-# OLS Prediction
-tobs_pred_ols <- ols_beta0.hat + ols_beta1.hat * x_2050
-tobs_pred_ols
+# squared distance Prediction
+tobs_pred_sqrd_dist <- sqrd_dist_para_1 + sqrd_dist_para_2 * x_2050
+tobs_pred_sqrd_dist  # 56.7819
 
-# LAD Prediction
-tobs_pred_lad <- lad_beta0.hat + lad_beta1.hat * x_2050
-tobs_pred_lad
+# absolute error Prediction
+tobs_pred_abs_error <- abs_err_para_1 + abs_err_para_2 * x_2050
+tobs_pred_abs_error  # 60.53404
 
