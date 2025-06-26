@@ -1,3 +1,10 @@
+# 1.
+# Check using matrix algebra
+x <- matrix(data = c(1, 1, 1, 2, 5, 6), nrow = 3, byrow=FALSE)
+y <- c(6.6, 2.2, -1.1)
+beta <- solve(t(x) %*% x) %*% t(x) %*% y
+beta
+
 install.packages('lubridate')
 library(lubridate)
 url <- "https://www.dropbox.com/s/asw6gtq7pp1h0bx/manhattan_temp_data.csv?dl=1"
@@ -5,6 +12,9 @@ df.temp <- read.csv(url)
 df.temp$year = as.numeric(year(df.temp$DATE))
 df.temp$DATE <- ymd(df.temp$DATE)
 df.temp$days <- df.temp$DATE - min(df.temp$DATE)
+
+# df.temp <- na.omit(df.temp)
+
 plot(
   df.temp$DATE,
   df.temp$TOBS,
@@ -30,7 +40,7 @@ y.bar <- mean(y)
 # Estimate slope and intercept parameters
 beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
 beta1.hat  # -0.00847421
-beta0.hat <- y.bar - ols_beta1.hat * x.bar
+beta0.hat <- y.bar - beta1.hat * x.bar
 beta0.hat  # 83.98873
 
 # Double check parameters using lm()
@@ -42,6 +52,21 @@ Coefficients:
 (Intercept) 83.988734   5.346634  15.709   <2e-16 ***
 year        -0.008474   0.002728  -3.106   0.0019 ** 
 "
+
+x
+y
+
+# Double check using Matrix Algebra
+x_dim <- length(x)
+x_dim
+length(y)
+
+x_matrix <- matrix(data = cbind(rep(1, length(x)), x), nrow = length(x), byrow = FALSE)
+x_matrix
+y_matrix <- y
+y_matrix
+beta <- solve(t(x_matrix) %*% x_matrix) %*% t(x_matrix) %*% y_matrix
+beta
 
 
 # 5.
