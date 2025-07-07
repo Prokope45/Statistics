@@ -38,3 +38,11 @@ distance <- beta[1,] / mega_parsecs
 distance
 age <- 1 / distance  # in years
 age
+
+# c.
+coef(ml1)
+
+interval <- confint(ml1, level=0.95)
+
+# d.
+# There is a 95% that the interval covers the estimate.
