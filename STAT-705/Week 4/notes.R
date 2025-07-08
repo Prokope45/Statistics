@@ -5,3 +5,5 @@ year <- 1965:2011
 df <- data.frame(y = y, year = year)
 plot(x = df$year, y = df$y, xlab = "Year", ylab = "Annual count", main = "",
 col = "brown", pch = 20, xlim = c(1965, 2040))
+
+
