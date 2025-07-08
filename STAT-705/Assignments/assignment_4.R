@@ -59,50 +59,79 @@ df.temp <- read.csv(url)
 df.temp$year = as.numeric(year(df.temp$DATE))
 df.temp$DATE <- ymd(df.temp$DATE)
 df.temp$days <- df.temp$DATE - min(df.temp$DATE)
-plot(
-  df.temp$DATE,
-  df.temp$TOBS,
-  xlab="Date",
-  ylab="Temperature"
+
+# Cleanup: remove rows with NA TOBS values
+df.temp = subset(df.temp, !is.na(TOBS))
+
+# Quantify uncertainty for parameters
+model <- lm(TOBS ~ days, data=df.temp)
+summary(model)
+
+confint(model, level=0.95)
+
+beta0.hat <- as.numeric(coef(model)[1])
+beta0.hat
+beta1.hat <- as.numeric(coef(model)[2])
+beta1.hat
+
+temp.hat <- - beta0.hat / beta1.hat
+temp.hat
+
+install.packages('msm')
+library(msm)
+temp.se <- deltamethod(~ -x1/x2, mean=coef(model), cov=vcov(model))
+temp.ci <- c(
+  (temp.hat - 1.96 * temp.se),
+  (temp.hat + 1.96 * temp.se)
 )
+temp.ci
 
-# 4.
-# Cleanup: remove rows with NA TMAX values
-df.temp = subset(df.temp, !is.na(TMAX))
-
-x <- df.temp$year
-y <- df.temp$TMAX
-
+x <- as.numeric(df.temp$days)
 x.bar <- mean(x)
+y <- df.temp$TOBS
 y.bar <- mean(y)
 
-# Estimate slope and intercept parameters
-beta1.hat <- sum((x - x.bar) * (y - y.bar)) / sum((x - x.bar)^2)
-beta1.hat  # -0.00847421
-beta0.hat <- y.bar - ols_beta1.hat * x.bar
-beta0.hat  # 83.98873
+# Squared distance (with optimization)
+sqrd_dist <- optim(
+  par = c(0, 0),
+  method = c("Nelder-Mead"),
+  fn = function(beta) {
+    sum((y - (beta[1] + beta[2] * x))^2)
+  }
+)
+sqrd_dist
 
-# Double check parameters using lm()
-model <- lm(TMAX ~ year, data=df.temp)
-summary(model)
-"
-Coefficients:
-             Estimate Std. Error t value Pr(>|t|)    
-(Intercept) 83.988734   5.346634  15.709   <2e-16 ***
-year        -0.008474   0.002728  -3.106   0.0019 ** 
-"
-# Double check using Matrix Algebra
-x_dim <- length(x)
-x_dim  # 46093
-length(y)  # 46093
+sqrd_dist_para_1 <- sqrd_dist[1]$par[1]
+sqrd_dist_para_1
+sqrd_dist_para_2 <- sqrd_dist[1]$par[2]
+sqrd_dist_para_2
 
-x_matrix <- matrix(data = cbind(rep(1, length(x)), x), nrow = length(x), byrow = FALSE)
-y_matrix <- y
-y_matrix
-beta <- solve(t(x_matrix) %*% x_matrix) %*% t(x_matrix) %*% y_matrix
-beta
-"
-            [,1]
-[1,] 83.98873434
-[2,] -0.00847421
-"
+start_date <- min(ymd(df.temp$DATE))
+target_date <- as.Date("2050-01-01")
+
+# Calculate days since start
+x_2050 <- as.numeric(target_date - start_date)
+x_2050
+
+# squared distance Prediction
+tobs_pred_sqrd_dist <- sqrd_dist_para_1 + sqrd_dist_para_2 * x_2050
+tobs_pred_sqrd_dist  # 56.7819
+
+Ey.hat <- predict(model)
+Ey.hat
+
+plot(
+  x,
+  y,
+  pch = 16,
+  cex = 0.6,
+  col = "gray",
+  xlab = "Days Since First Record",
+  ylab = "TOBS (Temperature at Observation)",
+  main = "Sqrd Distance vs Absolute Error Best Fit Lines"
+)
+
+points(x, Ey.hat, typ="l", col="red")
+# points(x, Ey.hat[,1], typ="l", col="red")
+# points(x, Ey.hat[,2], typ="l", col="red", lty=2)
+# points(x, Ey.hat[,3], typ="l", col="red", lty=2)
