@@ -25,13 +25,16 @@ sigma2 <- (1 / n) * t(y - X %*% beta) %*% (y - X %*% beta)
 sigma2
 
 # Double check with stats software
-ml1 <- lm(y ~ x, data = hubble)
-ml1
-coef(ml1)
+ml1 <- lm(y ~ x-1, data = hubble)
+beta <- coef(ml1)
+beta
 
 summary(ml1)$sigma^2  # FIXME: not the same as sigma2
 
 # b.
+1 / beta  # Age of the universe
+
+# QUESTION: Do we use mega parsecs?
 mega_parsecs <- 3.09 * (10^19)  # in km
 mega_parsecs
 

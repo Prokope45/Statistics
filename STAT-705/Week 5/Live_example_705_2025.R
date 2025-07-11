@@ -140,3 +140,32 @@ mean((y - E.y.hat)^2)  # Mean Squared Error
 mean(abs(y - E.y.hat))  # Absolute distance (error)
 # Off by 13 kilos; is more realistic error for prediction, though 5 kilos (10lb) would be best.
 
+install.packages('gbm')
+library(gbm)
+ml <- gbm(
+     Body.mass.in.kg ~ Amount.of.cropland.in.hectares + Post.harvest.abundance.estimates,  # FIXME: check model.
+     data = df.desoto.mod,
+     distribution = "laplace",
+     n.trees = 100,
+     interaction.depth = 5,
+     n.minobsinnode = 10,
+     shrinkage = 0.1,
+     bag.fraction = 1,
+     train.fraction = 1
+)
+
+# At Desoto
+E.y.hat <- predict.gbm(ml, newdata=df.desoto.test)
+y <- df.desoto.test$Body.mass.in.kg
+mean((y - E.y.hat)^2)  # Mean squared error
+# should be 28.94101
+mean(abs(y - E.y.hat))  # Mean absolute error
+# should be 4.201721
+
+# At Boyer
+E.y.hat <- predict.gbm(ml, newdata = df.boyer)
+y <- df.boyer$Body.mass.in.kg
+mean((y - E.y.hat)^2)  # Mean squared error
+# should be 92.03875
+mean(abs(y - E.y.hat))  # Mean absolute error
+# should be 7.760008
