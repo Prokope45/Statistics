@@ -37,3 +37,7 @@ par(mar=c(5,4,7,2))
 hist(ed.extinct.hat,col="grey",xlab="Year",main=TeX('Empirical distribuiton of $$-$$\\hat{\\frac{$\\beta_0}{$\\beta_1}}'),freq=FALSE,breaks=20)
 
 
+# T-test
+install.packages('faraway')
+library(faraway)
+boxplot(weight ~ group, data=PlantGrowth,col="grey",ylim=c(0,7))
