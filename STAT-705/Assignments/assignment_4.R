@@ -32,14 +32,14 @@ beta
 summary(ml1)$sigma^2  # FIXME: not the same as sigma2
 
 # b.
-1 / beta  # Age of the universe
 
 # QUESTION: Do we use mega parsecs?
 mega_parsecs <- 3.09 * (10^19)  # in km
 mega_parsecs
 
-distance <- beta[1,] / mega_parsecs
-distance
+(1 / beta) * mega_parsecs   # Age of the universe
+
+distance <- beta / mega_parsecs
 age <- 1 / distance  # in years
 age
 
@@ -47,6 +47,7 @@ age
 coef(ml1)
 
 interval <- confint(ml1, level=0.95)
+interval
 
 # d.
 # There is a 95% that the interval covers the estimate.
