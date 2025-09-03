@@ -1,0 +1,8 @@
+Activity
+
+(1). Extract the values of v and U_beta_til**2 sum from file example_text_file_dat.txt and add a column by computing the square roof of U_beta_til**2 sum. The column names are v, u, usqrt, respectively. The v is integer type and u and usqrt are float type.  
+Write the data into out.csv file. 
+
+(2). There are several hundred .out files from a study. The file slurm-11680020.out is an example. Each file is for one set of i and j values, which are in the first row. The tre_eff and power are at the end of the file. 
+Extract the i and j value and the trt_eff and power table from each file. Combine the result from all files into a single data frame.
+The data frame has 4 columns: i, j, trt_eff, power.  Write the data frame out into out2.csv. 

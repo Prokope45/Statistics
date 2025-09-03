@@ -1,0 +1,4 @@
+See gradescope 
+Activity 2: Practice list, dictionary and tuple
+
+https://www.gradescope.com/courses/560794/assignments/4815960/

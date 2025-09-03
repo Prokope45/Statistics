@@ -1,0 +1,5 @@
+There are hundreds of output files from a simulation study. These files have .out extension as the four example files in this activity. In each file, there are 10 rows of the trt_eff and power. The first row of each file contains the value of i and j.
+
+(1) Create a database named output.sqlite. The variables of the database are i, j, trt_eff_size, power. Extract the values of i, j and the trt_eff, power table from all .out files and enter them in a table named power_table in the output.sqlite file.
+
+(2) Retrieve the data for all rows with j =3 from output.sqlite.  Calculate the average trt_eff and average power. 

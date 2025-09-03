@@ -1,0 +1,48 @@
+Activity 3: Practice numpy array
+
+Here are only a few questions to practice numpy array. See the website
+https://www.kaggle.com/code/themlphdstudent/learn-nump-numpy-50-exercises-and-solution 
+for more practice questions and solution. 
+
+Define a function get_odd() to extract all elements from a 1-d numpy array at odd numbered index. 
+E.g.
+input: arr = np.array([0, 2, 4, 6, 8])
+output: array([2, 6]) 
+explantion: 
+The indices for arr are 0, 1, 2, 3, 4. 
+The odd numbered indices are 1 and 3. The element at these indices are 2 and 6.  
+
+
+Define a function replace_odd() to create a new np.array a2 by replacing all odd numbers in np.arrary a 
+with -1 without changing a. Return both a and a2. 
+    
+E.g. 
+input: a = np.array([1, 3, 2, 4, 5])
+output: 
+a 
+array([1, 3, 2, 4, 5])
+a2
+array([-1, -1, 2, 4, -1])
+
+
+
+Fill in the code in function stack_v_h() to first stack 2-d numpy arrays a and b vertically and then stack 
+two copies of the resulting array horizontally.
+E.g.
+input: a = np.arange(10).reshape(2,-1)
+       b = np.repeat(1, 10).reshape(2,-1)
+output   
+         array([[0, 1, 2, 3, 4, 0, 1, 2, 3, 4, ],
+                [5, 6, 7, 8, 9, 5, 6, 7, 8, 9],
+                [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]])   
+                
+
+Define function get_dif_elem() to get the elements in array a such that those elements of two numpy arrays a 
+and b differ at the same position.  
+E.g. 
+input: a = np.array([[1,2], [3,4]])
+       b= np.array([[1,3], [2, 4]])              
+output:   
+       array([2,3])     
+                
