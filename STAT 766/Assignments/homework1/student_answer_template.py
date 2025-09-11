@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import sys
 
 
 class Solution:
@@ -8,23 +9,29 @@ class Solution:
         haystack_len: int = len(haystack)
         needle_len: int = len(needle)
 
+        position: int = -1
+
         # Preconditions
         if not (haystack.isascii() or needle.isascii()):
-            raise ValueError("Haystack and needle must be ASCII.")
+            return position + 1
 
         if (
             (haystack_len <= 0 or needle_len <= 0) or
             (haystack_len >= 10000 or needle_len >= 10000)
         ):
-            raise ValueError(
-                "Length of haystack or needle exceeds 10,000 character."
-            )
+            return position + 1
 
-        position: int = -1
         if (needle in haystack):
-            for i in range(0, haystack_len):
-                if haystack[i] == needle[0]:
-                    position = i
+            curr = 0
+            while curr < haystack_len:
+                if (
+                    haystack[curr] == needle[0] and
+                    haystack[curr + needle_len - 1] == needle[-1]
+                ):
+                    position = curr
+                    curr = haystack_len
+                else:
+                    curr += 1
         return position
 
     def slowMerge(self, lists: list[list[int]]) -> list:
@@ -32,39 +39,59 @@ class Solution:
         merged: list[int] = list()
         for i in range(0, len(lists)):
             merged.extend(lists[i])
-        return merged.sort()  # Inefficient; lists presorted already.
+        merged.sort()
+        return merged  # Inefficient; lists presorted already.
 
     def MergeSort(self, lists: list) -> list:
-        n: int = sum(len(li) for li in lists)
-        merged: list[int | None] = [None] * n
+        X: list[int] = lists[0]
+        Y: list[int] = lists[1]
+
+        n: int = len(X) + len(Y)
+        z: list[int] = []
 
         j: int = 0
         k: int = 0
         l: int = 0
 
-        x: list[int] = lists[0].copy()
-        x.extend([float('inf') * (n - len(x))])
-        y: list[int] = lists[1].copy()
-        y.extend([float('inf') * (n - len(y))])
+        X_inf: list[int] = X.copy()
+        X_inf.extend([float('inf')])
 
-        while l <= n - 1:
-            if x[j] < y[k]:
-                merged[l] = x[j]
+        Y_inf: list[int] = Y.copy()
+        Y_inf.extend([float('inf')])
+
+        while l <= n:
+            if X_inf[j] < Y_inf[k]:
+                z.append(X_inf[j])
                 j += 1
-            else:
-                merged[l] = y[k]
+            elif X_inf[j] > Y_inf[k]:
+                z.append(Y_inf[k])
+                k += 1
+            elif (
+                (X_inf[j] == Y_inf[k]) and
+                (X_inf[j] != float('inf') and Y_inf[k] != float('inf'))
+            ):
+                z.append(Y_inf[k])
                 k += 1
             l += 1
-        return merged
+        return z
 
     def find_customers(
-        self, customers: pd.DataFrame, orders: pd.DataFrame
+        self, customers: pd.DataFrame | None = None, orders: pd.DataFrame | None = None
     ) -> pd.DataFrame:
-        pass
+        customers_with_no_orders = customers.where(~customers['id'].isin(orders['customerId']))
+
+        # Clean up dataframe
+        customers_with_no_orders.rename({"name": "Customers"}, axis=1, inplace=True)
+        customers_with_no_orders.drop(columns=["id"], inplace=True)
+        customers_with_no_orders.dropna(axis=0, inplace=True)
+
+        return customers_with_no_orders
 
     def find_managers(self, employee: pd.DataFrame) -> pd.DataFrame:
-        pass
+        # groupby the managerId column and count the number of employees for each manager
+        counts = employee.groupby("managerId")["id"].count()
 
-
-if __name__ == '__main__':
-    print(Solution().MergeSort([[1,4,5],[1,3,4,6]]))
+        # filter the counts dataframe to only include managers with 5 or more employees
+        filtered_managers = counts[counts >= 5].index
+        manager_names = employee.where(employee["id"].isin(filtered_managers))["name"]
+        return pd.DataFrame(manager_names[manager_names.notna()], columns=["name"])

@@ -1,0 +1,31 @@
+The questions are on lec2.pdf. 
+Submit your answer to the homework questions as a class with class name homework. 
+In the class, define the following two constants and two functions:
+
+Constants:
+hw_a     A dictionary to give your answer to part a).
+hw_b     A Pandas data frame to give your answer to part b).
+
+Functions:
+hw_ab_fun  A function to get answer for part a) and b).
+           It has one argument file_name: a file name (such as 'hw1_1.txt').
+           Return your answer to part a) and the extracted Pandas data frame for part b). 
+           This function will be tested on input files similar to hw1_1.txt but different content. 
+
+findmin  A function with three input arguments (it, v, df), where df is a data frame 
+           having column names same as the data frame in part b). 
+           Return the smallest log10Ubeta2sum
+
+You can start with the template hw2_answer_template.py. After filling in your answer, submit hw2_answer_template.py and hw1_1.txt to gradescope homework 2. 
+
+Your submitted code will be tested on a practice data set (the given data set) and two test data sets. 
+Your code will be called in the following way:
+
+from hw_answer_template import  homework as ans
+myanswer = ans()
+myanswer.hw_a
+myanswer.hw_b
+myanswer.hw_ab_fun(filename) # where filename is a string of file name such as 'hw1_1_dat.txt'
+myanswer.findmin(it, v, df  )
+    
+
