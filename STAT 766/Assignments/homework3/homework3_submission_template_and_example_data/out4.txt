@@ -1,0 +1,1342 @@
+Computation Time for each row = 2.4936745166778564 sec
+it= 164  v= 242  epoch= 0  U_beta**2 sum is  3.053610324859619  change of beta norm is... 4.290503420634195e-05
+it= 164  v= 242  epoch= 1  U_beta**2 sum is  0.00834659580141306  change of beta norm is... 1.24481925922737e-06
+it= 164  v= 242  epoch= 2  U_beta**2 sum is  0.001424509333446622  change of beta norm is... 9.783845911215394e-08
+it= 164  v= 242  epoch= 3  U_beta**2 sum is  4.608165909303352e-05  change of beta norm is... 1.5710480028019447e-08
+it= 164  v= 242  epoch= 4  U_beta**2 sum is  1.2648928532144055e-05  change of beta norm is... 2.3734831877675333e-09
+it= 164  v= 242  epoch= 5  U_beta**2 sum is  1.0161043064726982e-06  change of beta norm is... 4.3306797037345746e-10
+it= 164  v= 242  epoch= 6  U_beta**2 sum is  2.5182535523526894e-07  change of beta norm is... 7.354764020028881e-11
+it= 164  v= 242  epoch= 7  U_beta**2 sum is  2.8509152372180324e-08  change of beta norm is... 1.3226812874134186e-11
+it= 164  v= 242  epoch= 8  U_beta**2 sum is  4.092919780873672e-09  change of beta norm is... 2.3691912147405514e-12
+it= 164  v= 242  epoch= 9  U_beta**2 sum is  3.058893804919194e-09  change of beta norm is... 5.8937506567866e-13
+it= 164  v= 242  epoch= 0  U_beta_til**2 sum is  0.5735511779785156  change of beta_til norm is... 0.0001273512316402048
+it= 164  v= 242  epoch= 1  U_beta_til**2 sum is  0.016409222036600113  change of beta_til norm is... 3.3321596220048377e-06
+it= 164  v= 242  epoch= 2  U_beta_til**2 sum is  0.0010941941291093826  change of beta_til norm is... 1.867133079258565e-07
+it= 164  v= 242  epoch= 3  U_beta_til**2 sum is  6.327906157821417e-05  change of beta_til norm is... 1.6204872110847646e-08
+it= 164  v= 242  epoch= 4  U_beta_til**2 sum is  6.819133886892814e-06  change of beta_til norm is... 1.868917909320089e-09
+it= 164  v= 242  epoch= 5  U_beta_til**2 sum is  6.770560503355227e-07  change of beta_til norm is... 1.9981312437966636e-10
+it= 164  v= 242  epoch= 6  U_beta_til**2 sum is  6.553582920787449e-08  change of beta_til norm is... 2.6147611853488684e-11
+it= 164  v= 242  epoch= 7  U_beta_til**2 sum is  1.2351911493624357e-08  change of beta_til norm is... 2.7951629726075122e-12
+it= 164  v= 242  epoch= 8  U_beta_til**2 sum is  5.401093794432654e-09  change of beta_til norm is... 3.985492491587195e-13
+it= 164  v= 242  epoch= 9  U_beta_til**2 sum is  2.494776829564671e-09  change of beta_til norm is... 1.6153688087681972e-13
+Computation Time for each row = 2.6625304222106934 sec
+it= 164  v= 243  epoch= 0  U_beta**2 sum is  0.4624503552913666  change of beta norm is... 2.9546219593612477e-05
+it= 164  v= 243  epoch= 1  U_beta**2 sum is  0.0026493296027183533  change of beta norm is... 3.7543730968536693e-07
+it= 164  v= 243  epoch= 2  U_beta**2 sum is  0.00017324218060821295  change of beta norm is... 3.9529410855720926e-08
+it= 164  v= 243  epoch= 3  U_beta**2 sum is  8.809108112473041e-05  change of beta norm is... 5.417549520103648e-09
+it= 164  v= 243  epoch= 4  U_beta**2 sum is  1.2079528460162692e-05  change of beta norm is... 1.3098060414051815e-09
+it= 164  v= 243  epoch= 5  U_beta**2 sum is  3.832295988104306e-06  change of beta norm is... 2.58135873787424e-10
+it= 164  v= 243  epoch= 6  U_beta**2 sum is  6.938569185876986e-07  change of beta norm is... 6.193105750451622e-11
+it= 164  v= 243  epoch= 7  U_beta**2 sum is  2.4704434054001467e-07  change of beta norm is... 1.2564053963881605e-11
+it= 164  v= 243  epoch= 8  U_beta**2 sum is  9.933899036695948e-08  change of beta norm is... 3.052930304392465e-12
+it= 164  v= 243  epoch= 9  U_beta**2 sum is  2.6908697492444844e-08  change of beta norm is... 8.689421794952357e-13
+it= 164  v= 243  epoch= 0  U_beta_til**2 sum is  0.3461800515651703  change of beta_til norm is... 4.822289338335395e-05
+it= 164  v= 243  epoch= 1  U_beta_til**2 sum is  0.003428444266319275  change of beta_til norm is... 8.565414191252785e-07
+it= 164  v= 243  epoch= 2  U_beta_til**2 sum is  0.0007303656311705709  change of beta_til norm is... 3.516333535458216e-08
+it= 164  v= 243  epoch= 3  U_beta_til**2 sum is  3.758383900276385e-05  change of beta_til norm is... 5.53942314240885e-09
+it= 164  v= 243  epoch= 4  U_beta_til**2 sum is  9.368213795823976e-06  change of beta_til norm is... 5.42147604587484e-10
+it= 164  v= 243  epoch= 5  U_beta_til**2 sum is  7.557370622635062e-07  change of beta_til norm is... 8.864796396945707e-11
+it= 164  v= 243  epoch= 6  U_beta_til**2 sum is  1.297388365628649e-07  change of beta_til norm is... 1.1338130087579223e-11
+it= 164  v= 243  epoch= 7  U_beta_til**2 sum is  2.1036655084571976e-08  change of beta_til norm is... 1.7243280371267988e-12
+it= 164  v= 243  epoch= 8  U_beta_til**2 sum is  1.4435738826534816e-08  change of beta_til norm is... 3.144363296212621e-13
+it= 164  v= 243  epoch= 9  U_beta_til**2 sum is  7.676228541697583e-09  change of beta_til norm is... 1.503130573569239e-13
+Computation Time for each row = 2.3170406818389893 sec
+it= 164  v= 244  epoch= 0  U_beta**2 sum is  0.4966374933719635  change of beta norm is... 0.001665416988544166
+it= 164  v= 244  epoch= 1  U_beta**2 sum is  0.005191251635551453  change of beta norm is... 2.8461511192290345e-06
+it= 164  v= 244  epoch= 2  U_beta**2 sum is  0.0004979034420102835  change of beta norm is... 7.901729190962214e-07
+it= 164  v= 244  epoch= 3  U_beta**2 sum is  2.728636536630802e-05  change of beta norm is... 1.298869545252046e-08
+it= 164  v= 244  epoch= 4  U_beta**2 sum is  1.519967736385297e-05  change of beta norm is... 6.953598585823784e-09
+it= 164  v= 244  epoch= 5  U_beta**2 sum is  9.487168313171424e-07  change of beta norm is... 6.484949244267568e-10
+it= 164  v= 244  epoch= 6  U_beta**2 sum is  5.087651970825391e-07  change of beta norm is... 2.054318243294162e-10
+it= 164  v= 244  epoch= 7  U_beta**2 sum is  3.53453764034839e-08  change of beta norm is... 4.4933244625067204e-11
+it= 164  v= 244  epoch= 8  U_beta**2 sum is  3.142655913279668e-08  change of beta norm is... 1.5555522148158474e-11
+it= 164  v= 244  epoch= 9  U_beta**2 sum is  7.368694099341155e-09  change of beta norm is... 1.6995180219733785e-12
+it= 164  v= 244  epoch= 0  U_beta_til**2 sum is  0.47158968448638916  change of beta_til norm is... 0.0007656646776013076
+it= 164  v= 244  epoch= 1  U_beta_til**2 sum is  0.02066507749259472  change of beta_til norm is... 1.098695065593347e-05
+it= 164  v= 244  epoch= 2  U_beta_til**2 sum is  0.005461287684738636  change of beta_til norm is... 1.3929565056969295e-06
+it= 164  v= 244  epoch= 3  U_beta_til**2 sum is  0.0003010615473613143  change of beta_til norm is... 1.4933547731743602e-07
+it= 164  v= 244  epoch= 4  U_beta_til**2 sum is  0.00013681837299373  change of beta_til norm is... 1.9810997287095233e-08
+it= 164  v= 244  epoch= 5  U_beta_til**2 sum is  7.280604677362135e-06  change of beta_til norm is... 2.8962214848604617e-09
+it= 164  v= 244  epoch= 6  U_beta_til**2 sum is  3.5852226574206725e-06  change of beta_til norm is... 4.48940273845011e-10
+it= 164  v= 244  epoch= 7  U_beta_til**2 sum is  2.7268518465461966e-07  change of beta_til norm is... 7.933277645921777e-11
+it= 164  v= 244  epoch= 8  U_beta_til**2 sum is  9.270340228795249e-08  change of beta_til norm is... 1.54120310263961e-11
+it= 164  v= 244  epoch= 9  U_beta_til**2 sum is  8.687806918317165e-09  change of beta_til norm is... 1.8859878936350327e-12
+Computation Time for each row = 2.5699329376220703 sec
+it= 164  v= 245  epoch= 0  U_beta**2 sum is  2.376901388168335  change of beta norm is... 9.512838732916862e-05
+it= 164  v= 245  epoch= 1  U_beta**2 sum is  0.02352903038263321  change of beta norm is... 2.9571720006060787e-06
+it= 164  v= 245  epoch= 2  U_beta**2 sum is  0.004104728810489178  change of beta norm is... 1.2916756020331377e-07
+it= 164  v= 245  epoch= 3  U_beta**2 sum is  0.00010004920477513224  change of beta norm is... 1.0757680968254135e-08
+it= 164  v= 245  epoch= 4  U_beta**2 sum is  2.0824481907766312e-05  change of beta norm is... 6.65849875236546e-10
+it= 164  v= 245  epoch= 5  U_beta**2 sum is  6.604739155591233e-07  change of beta norm is... 6.77146463901046e-11
+it= 164  v= 245  epoch= 6  U_beta**2 sum is  1.3822830169374356e-07  change of beta norm is... 4.4943467350511135e-12
+it= 164  v= 245  epoch= 7  U_beta**2 sum is  6.054166057367638e-09  change of beta norm is... 8.151497055478019e-13
+it= 164  v= 245  epoch= 8  U_beta**2 sum is  1.3811536359042975e-09  change of beta norm is... 1.4297140945099263e-13
+it= 164  v= 245  epoch= 9  U_beta**2 sum is  1.8884798169693795e-09  change of beta norm is... 9.671204673688746e-14
+it= 164  v= 245  epoch= 0  U_beta_til**2 sum is  0.2538655400276184  change of beta_til norm is... 4.4928514398634434e-05
+it= 164  v= 245  epoch= 1  U_beta_til**2 sum is  0.006741401739418507  change of beta_til norm is... 7.318786288124102e-07
+it= 164  v= 245  epoch= 2  U_beta_til**2 sum is  0.0002597778511699289  change of beta_til norm is... 4.612107318280323e-08
+it= 164  v= 245  epoch= 3  U_beta_til**2 sum is  2.030323594226502e-05  change of beta_til norm is... 2.934567699952595e-09
+it= 164  v= 245  epoch= 4  U_beta_til**2 sum is  9.465797461416514e-07  change of beta_til norm is... 3.192765218873461e-10
+it= 164  v= 245  epoch= 5  U_beta_til**2 sum is  1.3665774645232887e-07  change of beta_til norm is... 3.4047421132443745e-11
+it= 164  v= 245  epoch= 6  U_beta_til**2 sum is  8.804807549722682e-09  change of beta_til norm is... 4.5235963412604274e-12
+it= 164  v= 245  epoch= 7  U_beta_til**2 sum is  2.136153032239463e-09  change of beta_til norm is... 5.428355247943939e-13
+it= 164  v= 245  epoch= 8  U_beta_til**2 sum is  4.33952784817393e-09  change of beta_til norm is... 1.7413075647197684e-13
+it= 164  v= 245  epoch= 9  U_beta_til**2 sum is  2.799369180905842e-09  change of beta_til norm is... 1.1674333917112423e-13
+Computation Time for each row = 2.496962070465088 sec
+it= 164  v= 246  epoch= 0  U_beta**2 sum is  3.951254367828369  change of beta norm is... 0.000596425321418792
+it= 164  v= 246  epoch= 1  U_beta**2 sum is  0.020019469782710075  change of beta norm is... 5.444650014396757e-06
+it= 164  v= 246  epoch= 2  U_beta**2 sum is  0.000957171549089253  change of beta norm is... 5.276621664052072e-07
+it= 164  v= 246  epoch= 3  U_beta**2 sum is  4.4585063733393326e-05  change of beta norm is... 3.143841453834284e-08
+it= 164  v= 246  epoch= 4  U_beta**2 sum is  3.3106889532064088e-06  change of beta norm is... 3.2540858896368263e-09
+it= 164  v= 246  epoch= 5  U_beta**2 sum is  2.7011785164177127e-07  change of beta norm is... 2.933122633663743e-10
+it= 164  v= 246  epoch= 6  U_beta**2 sum is  2.6604697112020403e-08  change of beta norm is... 3.0705885750714756e-11
+it= 164  v= 246  epoch= 7  U_beta**2 sum is  8.32748447976428e-09  change of beta norm is... 3.730025403131387e-12
+it= 164  v= 246  epoch= 8  U_beta**2 sum is  5.585513385142349e-09  change of beta norm is... 4.452179998368916e-13
+it= 164  v= 246  epoch= 9  U_beta**2 sum is  6.766327054208432e-09  change of beta norm is... 2.3905028889541213e-13
+it= 164  v= 246  epoch= 0  U_beta_til**2 sum is  2.3184802532196045  change of beta_til norm is... 0.00021729760919697583
+it= 164  v= 246  epoch= 1  U_beta_til**2 sum is  0.008409058675169945  change of beta_til norm is... 8.718297067389358e-06
+it= 164  v= 246  epoch= 2  U_beta_til**2 sum is  0.000615070341154933  change of beta_til norm is... 3.09397933051514e-07
+it= 164  v= 246  epoch= 3  U_beta_til**2 sum is  3.334669236210175e-05  change of beta_til norm is... 2.529495901626433e-08
+it= 164  v= 246  epoch= 4  U_beta_til**2 sum is  3.6203614399710204e-06  change of beta_til norm is... 2.404455745619316e-09
+it= 164  v= 246  epoch= 5  U_beta_til**2 sum is  3.890332322953327e-07  change of beta_til norm is... 2.448996838655404e-10
+it= 164  v= 246  epoch= 6  U_beta_til**2 sum is  4.5607031040617585e-08  change of beta_til norm is... 2.6846167650029784e-11
+it= 164  v= 246  epoch= 7  U_beta_til**2 sum is  4.142447451727094e-08  change of beta_til norm is... 3.099621904631422e-12
+it= 164  v= 246  epoch= 8  U_beta_til**2 sum is  9.748325702219063e-09  change of beta_til norm is... 1.250989546328074e-12
+it= 164  v= 246  epoch= 9  U_beta_til**2 sum is  2.6890190074624343e-09  change of beta_til norm is... 5.350695472632061e-13
+Computation Time for each row = 2.4491119384765625 sec
+it= 164  v= 247  epoch= 0  U_beta**2 sum is  0.27389222383499146  change of beta norm is... 4.115494812140241e-05
+it= 164  v= 247  epoch= 1  U_beta**2 sum is  0.003376314416527748  change of beta norm is... 9.161398111245944e-07
+it= 164  v= 247  epoch= 2  U_beta**2 sum is  0.00042183109326288104  change of beta norm is... 7.161352755247208e-08
+it= 164  v= 247  epoch= 3  U_beta**2 sum is  2.8900270990561694e-05  change of beta norm is... 6.57345955445976e-09
+it= 164  v= 247  epoch= 4  U_beta**2 sum is  3.241240392526379e-06  change of beta norm is... 6.02743077671164e-10
+it= 164  v= 247  epoch= 5  U_beta**2 sum is  2.7157125259691384e-07  change of beta norm is... 5.861977570020827e-11
+it= 164  v= 247  epoch= 6  U_beta**2 sum is  1.961310047704501e-08  change of beta norm is... 5.4975060961859334e-12
+it= 164  v= 247  epoch= 7  U_beta**2 sum is  2.4337787341011108e-09  change of beta norm is... 4.640759347987466e-13
+it= 164  v= 247  epoch= 8  U_beta**2 sum is  1.001383198584449e-09  change of beta norm is... 8.123428145434541e-14
+it= 164  v= 247  epoch= 9  U_beta**2 sum is  5.980009820660825e-10  change of beta norm is... 5.868911042913871e-14
+it= 164  v= 247  epoch= 0  U_beta_til**2 sum is  0.2528850734233856  change of beta_til norm is... 1.756842902977951e-05
+it= 164  v= 247  epoch= 1  U_beta_til**2 sum is  0.0005729382392019033  change of beta_til norm is... 1.1007311684352317e-07
+it= 164  v= 247  epoch= 2  U_beta_til**2 sum is  1.2522060387709644e-05  change of beta_til norm is... 2.1640724767735264e-09
+it= 164  v= 247  epoch= 3  U_beta_til**2 sum is  3.788119329328765e-07  change of beta_til norm is... 7.662206286118689e-11
+it= 164  v= 247  epoch= 4  U_beta_til**2 sum is  1.2388294834408953e-08  change of beta_til norm is... 3.2757867599042534e-12
+it= 164  v= 247  epoch= 5  U_beta_til**2 sum is  9.57361301345827e-10  change of beta_til norm is... 2.2641315363357284e-13
+it= 164  v= 247  epoch= 6  U_beta_til**2 sum is  7.233005305806728e-10  change of beta_til norm is... 4.913108900836752e-14
+it= 164  v= 247  epoch= 7  U_beta_til**2 sum is  3.8180480999017163e-10  change of beta_til norm is... 3.260563206149841e-14
+it= 164  v= 247  epoch= 8  U_beta_til**2 sum is  4.805775777327881e-10  change of beta_til norm is... 3.6149306204685816e-14
+it= 164  v= 247  epoch= 9  U_beta_til**2 sum is  2.8514808292356975e-09  change of beta_til norm is... 6.07502871792509e-14
+Computation Time for each row = 2.516850233078003 sec
+it= 164  v= 248  epoch= 0  U_beta**2 sum is  1.8754600286483765  change of beta norm is... 0.00887555256485939
+it= 164  v= 248  epoch= 1  U_beta**2 sum is  0.02996678091585636  change of beta norm is... 1.1846062989206985e-05
+it= 164  v= 248  epoch= 2  U_beta**2 sum is  0.0002866204013116658  change of beta norm is... 5.732334784624982e-07
+it= 164  v= 248  epoch= 3  U_beta**2 sum is  5.797817721031606e-06  change of beta norm is... 2.4508195473060823e-09
+it= 164  v= 248  epoch= 4  U_beta**2 sum is  1.1392645404839641e-07  change of beta norm is... 1.0898856817043168e-10
+it= 164  v= 248  epoch= 5  U_beta**2 sum is  1.2994810560940095e-07  change of beta norm is... 1.5461792002985364e-12
+it= 164  v= 248  epoch= 6  U_beta**2 sum is  1.2632600032702612e-07  change of beta norm is... 1.369322407199225e-12
+it= 164  v= 248  epoch= 7  U_beta**2 sum is  4.485402271825478e-08  change of beta norm is... 6.646753460126664e-13
+it= 164  v= 248  epoch= 8  U_beta**2 sum is  7.156326375934441e-08  change of beta norm is... 3.535765972541294e-13
+it= 164  v= 248  epoch= 9  U_beta**2 sum is  4.326936675624893e-08  change of beta norm is... 5.118316252598898e-13
+it= 164  v= 248  epoch= 0  U_beta_til**2 sum is  2.796525239944458  change of beta_til norm is... 0.04575720801949501
+it= 164  v= 248  epoch= 1  U_beta_til**2 sum is  0.04405127465724945  change of beta_til norm is... 0.00016547931591048837
+it= 164  v= 248  epoch= 2  U_beta_til**2 sum is  0.0012698282953351736  change of beta_til norm is... 4.964404979546089e-06
+it= 164  v= 248  epoch= 3  U_beta_til**2 sum is  4.6789340558461845e-05  change of beta_til norm is... 6.032363586427891e-08
+it= 164  v= 248  epoch= 4  U_beta_til**2 sum is  3.4042566312564304e-06  change of beta_til norm is... 1.4995971131526176e-09
+it= 164  v= 248  epoch= 5  U_beta_til**2 sum is  4.4012520561409474e-07  change of beta_til norm is... 3.9164643750311257e-11
+it= 164  v= 248  epoch= 6  U_beta_til**2 sum is  2.780764134513447e-07  change of beta_til norm is... 5.451669931461067e-12
+it= 164  v= 248  epoch= 7  U_beta_til**2 sum is  1.7044405353772163e-07  change of beta_til norm is... 1.5235980879713118e-12
+it= 164  v= 248  epoch= 8  U_beta_til**2 sum is  2.843474362634879e-07  change of beta_til norm is... 2.244984146498874e-12
+it= 164  v= 248  epoch= 9  U_beta_til**2 sum is  6.996287282845515e-08  change of beta_til norm is... 3.124356676154072e-12
+Computation Time for each row = 2.4621434211730957 sec
+it= 164  v= 249  epoch= 0  U_beta**2 sum is  1.2541640996932983  change of beta norm is... 3.8383161154342815e-05
+it= 164  v= 249  epoch= 1  U_beta**2 sum is  0.0013631463516503572  change of beta norm is... 4.5621240474247315e-07
+it= 164  v= 249  epoch= 2  U_beta**2 sum is  0.0001703102607280016  change of beta norm is... 7.381847577647704e-09
+it= 164  v= 249  epoch= 3  U_beta**2 sum is  7.167256512730091e-07  change of beta norm is... 3.362579659160758e-10
+it= 164  v= 249  epoch= 4  U_beta**2 sum is  1.190620579905044e-07  change of beta norm is... 7.0168896734723596e-12
+it= 164  v= 249  epoch= 5  U_beta**2 sum is  1.4529186742606726e-09  change of beta norm is... 4.091252889856095e-13
+it= 164  v= 249  epoch= 6  U_beta**2 sum is  1.5591563595762636e-09  change of beta norm is... 7.717565871307244e-14
+it= 164  v= 249  epoch= 7  U_beta**2 sum is  9.282867807769435e-10  change of beta norm is... 8.90515349720282e-14
+it= 164  v= 249  epoch= 8  U_beta**2 sum is  1.3120962094603783e-09  change of beta norm is... 1.3551320981151915e-13
+it= 164  v= 249  epoch= 9  U_beta**2 sum is  3.511617663320976e-10  change of beta norm is... 6.165872662704935e-14
+it= 164  v= 249  epoch= 0  U_beta_til**2 sum is  2.499403476715088  change of beta_til norm is... 6.0838694480480626e-05
+it= 164  v= 249  epoch= 1  U_beta_til**2 sum is  0.0021225581876933575  change of beta_til norm is... 5.691548494723975e-07
+it= 164  v= 249  epoch= 2  U_beta_til**2 sum is  5.894566493225284e-05  change of beta_til norm is... 1.0026846908317566e-08
+it= 164  v= 249  epoch= 3  U_beta_til**2 sum is  1.3251632253741263e-06  change of beta_til norm is... 3.298986084310229e-10
+it= 164  v= 249  epoch= 4  U_beta_til**2 sum is  4.118785312812179e-08  change of beta_til norm is... 1.2178491722025786e-11
+it= 164  v= 249  epoch= 5  U_beta_til**2 sum is  7.344148400534323e-09  change of beta_til norm is... 5.521913763913144e-13
+it= 164  v= 249  epoch= 6  U_beta_til**2 sum is  2.8537670004880056e-09  change of beta_til norm is... 1.309000650928649e-13
+it= 164  v= 249  epoch= 7  U_beta_til**2 sum is  1.1437650826451318e-09  change of beta_til norm is... 6.074918942455126e-14
+it= 164  v= 249  epoch= 8  U_beta_til**2 sum is  8.765113079789444e-10  change of beta_til norm is... 8.946738749154859e-14
+it= 164  v= 249  epoch= 9  U_beta_til**2 sum is  2.8878703872692313e-09  change of beta_til norm is... 9.492417702566813e-14
+Computation Time for each row = 2.3791065216064453 sec
+it= 164  v= 250  epoch= 0  U_beta**2 sum is  0.5595420598983765  change of beta norm is... 4.91164464619942e-05
+it= 164  v= 250  epoch= 1  U_beta**2 sum is  0.003523536492139101  change of beta norm is... 9.691680133983027e-07
+it= 164  v= 250  epoch= 2  U_beta**2 sum is  0.000165600300533697  change of beta norm is... 5.197293972969419e-08
+it= 164  v= 250  epoch= 3  U_beta**2 sum is  9.660039722803049e-06  change of beta norm is... 4.217628912783766e-09
+it= 164  v= 250  epoch= 4  U_beta**2 sum is  7.488145001843804e-07  change of beta norm is... 3.1872354755435595e-10
+it= 164  v= 250  epoch= 5  U_beta**2 sum is  5.409825831748094e-08  change of beta norm is... 2.991223241322061e-11
+it= 164  v= 250  epoch= 6  U_beta**2 sum is  6.165131516411293e-09  change of beta norm is... 2.567118826540815e-12
+it= 164  v= 250  epoch= 7  U_beta**2 sum is  4.521231389276181e-09  change of beta norm is... 2.7702270815818664e-13
+it= 164  v= 250  epoch= 8  U_beta**2 sum is  2.96141688949092e-09  change of beta norm is... 8.256273404750117e-14
+it= 164  v= 250  epoch= 9  U_beta**2 sum is  2.2458905846178823e-09  change of beta norm is... 3.616153736044417e-14
+it= 164  v= 250  epoch= 0  U_beta_til**2 sum is  0.23912875354290009  change of beta_til norm is... 6.635930185439065e-05
+it= 164  v= 250  epoch= 1  U_beta_til**2 sum is  0.005874697118997574  change of beta_til norm is... 1.1478585975055466e-06
+it= 164  v= 250  epoch= 2  U_beta_til**2 sum is  0.0002938043908216059  change of beta_til norm is... 6.310656175401164e-08
+it= 164  v= 250  epoch= 3  U_beta_til**2 sum is  1.776042699930258e-05  change of beta_til norm is... 4.013271492908643e-09
+it= 164  v= 250  epoch= 4  U_beta_til**2 sum is  1.8332434592593927e-06  change of beta_til norm is... 3.5138700282821844e-10
+it= 164  v= 250  epoch= 5  U_beta_til**2 sum is  1.6072317521320656e-07  change of beta_til norm is... 3.8180930639342137e-11
+it= 164  v= 250  epoch= 6  U_beta_til**2 sum is  2.678322097438013e-08  change of beta_til norm is... 4.344846531167956e-12
+it= 164  v= 250  epoch= 7  U_beta_til**2 sum is  9.619529173221508e-09  change of beta_til norm is... 5.644567387282085e-13
+it= 164  v= 250  epoch= 8  U_beta_til**2 sum is  3.0982729715134383e-09  change of beta_til norm is... 8.047010865812332e-14
+it= 164  v= 250  epoch= 9  U_beta_til**2 sum is  2.561433065650931e-09  change of beta_til norm is... 4.1296020693738084e-14
+Computation Time for each row = 2.40561580657959 sec
+it= 164  v= 251  epoch= 0  U_beta**2 sum is  1.3009878396987915  change of beta norm is... 0.014598645269870758
+it= 164  v= 251  epoch= 1  U_beta**2 sum is  0.03268636763095856  change of beta norm is... 0.00010653639037627727
+it= 164  v= 251  epoch= 2  U_beta**2 sum is  0.0015796092338860035  change of beta norm is... 5.876885097677587e-06
+it= 164  v= 251  epoch= 3  U_beta**2 sum is  8.55014513945207e-05  change of beta norm is... 2.2955252632073098e-07
+it= 164  v= 251  epoch= 4  U_beta**2 sum is  6.186827704368625e-06  change of beta norm is... 1.3940425702685388e-08
+it= 164  v= 251  epoch= 5  U_beta**2 sum is  4.7521643864456564e-07  change of beta norm is... 8.229644188340046e-10
+it= 164  v= 251  epoch= 6  U_beta**2 sum is  5.0694719533339594e-08  change of beta norm is... 5.340945741227898e-11
+it= 164  v= 251  epoch= 7  U_beta**2 sum is  3.5032734047035774e-08  change of beta norm is... 3.052192179553437e-12
+it= 164  v= 251  epoch= 8  U_beta**2 sum is  3.120155156466353e-08  change of beta norm is... 4.4967463997194757e-13
+it= 164  v= 251  epoch= 9  U_beta**2 sum is  1.4428509942376877e-08  change of beta norm is... 3.6433643645431e-13
+it= 164  v= 251  epoch= 0  U_beta_til**2 sum is  0.48522770404815674  change of beta_til norm is... 0.006897612940520048
+it= 164  v= 251  epoch= 1  U_beta_til**2 sum is  0.03670085594058037  change of beta_til norm is... 0.00012505881022661924
+it= 164  v= 251  epoch= 2  U_beta_til**2 sum is  0.0021866909228265285  change of beta_til norm is... 7.111912054824643e-06
+it= 164  v= 251  epoch= 3  U_beta_til**2 sum is  0.00019735738169401884  change of beta_til norm is... 4.3826432261084847e-07
+it= 164  v= 251  epoch= 4  U_beta_til**2 sum is  2.002822839131113e-05  change of beta_til norm is... 3.816429483549655e-08
+it= 164  v= 251  epoch= 5  U_beta_til**2 sum is  2.2677181732433382e-06  change of beta_til norm is... 3.5207872173259602e-09
+it= 164  v= 251  epoch= 6  U_beta_til**2 sum is  2.3651028868698631e-07  change of beta_til norm is... 3.520658764522011e-10
+it= 164  v= 251  epoch= 7  U_beta_til**2 sum is  5.532071867264676e-08  change of beta_til norm is... 3.6298943018042706e-11
+it= 164  v= 251  epoch= 8  U_beta_til**2 sum is  2.8892625181242693e-08  change of beta_til norm is... 3.644922905166048e-12
+it= 164  v= 251  epoch= 9  U_beta_til**2 sum is  1.7137377739118165e-08  change of beta_til norm is... 4.1138601314556766e-13
+Computation Time for each row = 2.3380441665649414 sec
+it= 164  v= 252  epoch= 0  U_beta**2 sum is  0.7154207229614258  change of beta norm is... 5.2350358600961044e-05
+it= 164  v= 252  epoch= 1  U_beta**2 sum is  0.0039045866578817368  change of beta norm is... 1.4176098375173751e-06
+it= 164  v= 252  epoch= 2  U_beta**2 sum is  0.0004033028963021934  change of beta norm is... 7.617757091793464e-08
+it= 164  v= 252  epoch= 3  U_beta**2 sum is  2.3000568035058677e-05  change of beta norm is... 8.59304094547042e-09
+it= 164  v= 252  epoch= 4  U_beta**2 sum is  3.4159097594965715e-06  change of beta norm is... 1.510825575756769e-09
+it= 164  v= 252  epoch= 5  U_beta**2 sum is  5.315131375027704e-07  change of beta norm is... 3.3667676979654004e-10
+it= 164  v= 252  epoch= 6  U_beta**2 sum is  1.221311407562098e-07  change of beta norm is... 8.631206166453964e-11
+it= 164  v= 252  epoch= 7  U_beta**2 sum is  2.986706704177777e-08  change of beta norm is... 2.313679456356077e-11
+it= 164  v= 252  epoch= 8  U_beta**2 sum is  1.160673424038805e-08  change of beta norm is... 6.112309876987743e-12
+it= 164  v= 252  epoch= 9  U_beta**2 sum is  3.6132876690686544e-09  change of beta norm is... 1.7668124992556433e-12
+it= 164  v= 252  epoch= 0  U_beta_til**2 sum is  2.8046436309814453  change of beta_til norm is... 7.666002784390002e-05
+it= 164  v= 252  epoch= 1  U_beta_til**2 sum is  0.036619774997234344  change of beta_til norm is... 8.753015208640136e-06
+it= 164  v= 252  epoch= 2  U_beta_til**2 sum is  0.017445970326662064  change of beta_til norm is... 2.4954945274657803e-06
+it= 164  v= 252  epoch= 3  U_beta_til**2 sum is  0.00501628965139389  change of beta_til norm is... 1.0823578122653998e-06
+it= 164  v= 252  epoch= 4  U_beta_til**2 sum is  0.002191701205447316  change of beta_til norm is... 4.321783251270972e-07
+it= 164  v= 252  epoch= 5  U_beta_til**2 sum is  0.0008373901364393532  change of beta_til norm is... 1.8238952748106385e-07
+it= 164  v= 252  epoch= 6  U_beta_til**2 sum is  0.00034674693597480655  change of beta_til norm is... 7.554560710332225e-08
+it= 164  v= 252  epoch= 7  U_beta_til**2 sum is  0.0001402193447574973  change of beta_til norm is... 3.1677153344844555e-08
+it= 164  v= 252  epoch= 8  U_beta_til**2 sum is  5.811888331663795e-05  change of beta_til norm is... 1.3249471741971774e-08
+it= 164  v= 252  epoch= 9  U_beta_til**2 sum is  2.4201322958106175e-05  change of beta_til norm is... 5.543257408646696e-09
+Computation Time for each row = 2.4393534660339355 sec
+it= 164  v= 253  epoch= 0  U_beta**2 sum is  0.41200220584869385  change of beta norm is... 2.58271556958789e-05
+it= 164  v= 253  epoch= 1  U_beta**2 sum is  0.0009215333266183734  change of beta norm is... 5.067499841970857e-07
+it= 164  v= 253  epoch= 2  U_beta**2 sum is  4.9812231736723334e-05  change of beta norm is... 1.9322502708973843e-08
+it= 164  v= 253  epoch= 3  U_beta**2 sum is  7.835787982912734e-06  change of beta norm is... 1.6093120169813346e-09
+it= 164  v= 253  epoch= 4  U_beta**2 sum is  1.0270897519149003e-06  change of beta norm is... 1.5867723801576972e-10
+it= 164  v= 253  epoch= 5  U_beta**2 sum is  1.598045855644159e-07  change of beta norm is... 2.0730224828402477e-11
+it= 164  v= 253  epoch= 6  U_beta**2 sum is  2.0959642910156617e-08  change of beta norm is... 2.4764491672601974e-12
+it= 164  v= 253  epoch= 7  U_beta**2 sum is  3.463866971031848e-09  change of beta norm is... 4.613002688169665e-13
+it= 164  v= 253  epoch= 8  U_beta**2 sum is  2.7493338716766402e-09  change of beta norm is... 1.4806367666219539e-13
+it= 164  v= 253  epoch= 9  U_beta**2 sum is  1.2963405904287129e-09  change of beta norm is... 5.914622361758576e-14
+it= 164  v= 253  epoch= 0  U_beta_til**2 sum is  0.2980915307998657  change of beta_til norm is... 2.797734850901179e-05
+it= 164  v= 253  epoch= 1  U_beta_til**2 sum is  0.0013941063079982996  change of beta_til norm is... 5.48735556549218e-07
+it= 164  v= 253  epoch= 2  U_beta_til**2 sum is  5.450235039461404e-05  change of beta_til norm is... 2.07714982991547e-08
+it= 164  v= 253  epoch= 3  U_beta_til**2 sum is  1.8511511825636262e-06  change of beta_til norm is... 1.03321273758894e-09
+it= 164  v= 253  epoch= 4  U_beta_til**2 sum is  1.9557293740035675e-07  change of beta_til norm is... 8.481623736678046e-11
+it= 164  v= 253  epoch= 5  U_beta_til**2 sum is  1.2559757678332062e-08  change of beta_til norm is... 5.390187428344628e-12
+it= 164  v= 253  epoch= 6  U_beta_til**2 sum is  2.4791309005678386e-09  change of beta_til norm is... 5.15561551783783e-13
+it= 164  v= 253  epoch= 7  U_beta_til**2 sum is  2.162856782561562e-09  change of beta_til norm is... 8.078574701558816e-14
+it= 164  v= 253  epoch= 8  U_beta_til**2 sum is  8.103545612314633e-10  change of beta_til norm is... 3.384376383742255e-14
+it= 164  v= 253  epoch= 9  U_beta_til**2 sum is  1.3407727150749338e-09  change of beta_til norm is... 4.673571032671846e-14
+Computation Time for each row = 2.729451894760132 sec
+it= 164  v= 254  epoch= 0  U_beta**2 sum is  5.471526145935059  change of beta norm is... 4.650319169741124e-05
+it= 164  v= 254  epoch= 1  U_beta**2 sum is  0.01891530677676201  change of beta norm is... 4.7136683178905514e-07
+it= 164  v= 254  epoch= 2  U_beta**2 sum is  0.0009631582070142031  change of beta norm is... 2.2277610867149633e-08
+it= 164  v= 254  epoch= 3  U_beta**2 sum is  6.237383786356077e-05  change of beta norm is... 1.4505875389758671e-09
+it= 164  v= 254  epoch= 4  U_beta**2 sum is  4.30398222306394e-06  change of beta norm is... 9.951966334353912e-11
+it= 164  v= 254  epoch= 5  U_beta**2 sum is  4.135598032917187e-07  change of beta norm is... 7.000537736306933e-12
+it= 164  v= 254  epoch= 6  U_beta**2 sum is  3.085265376512325e-08  change of beta norm is... 6.917543794726644e-13
+it= 164  v= 254  epoch= 7  U_beta**2 sum is  6.627523863045326e-09  change of beta norm is... 1.7223822736979477e-13
+it= 164  v= 254  epoch= 8  U_beta**2 sum is  8.616763302882191e-09  change of beta norm is... 1.3475418697561636e-13
+it= 164  v= 254  epoch= 9  U_beta**2 sum is  1.762023060791762e-08  change of beta norm is... 1.6564184648470287e-13
+it= 164  v= 254  epoch= 0  U_beta_til**2 sum is  0.6528325080871582  change of beta_til norm is... 4.314386751502752e-05
+it= 164  v= 254  epoch= 1  U_beta_til**2 sum is  0.00521182082593441  change of beta_til norm is... 6.293519163591554e-07
+it= 164  v= 254  epoch= 2  U_beta_til**2 sum is  0.000545590533874929  change of beta_til norm is... 2.5050795215975086e-08
+it= 164  v= 254  epoch= 3  U_beta_til**2 sum is  4.5192740799393505e-05  change of beta_til norm is... 2.2522073095387896e-09
+it= 164  v= 254  epoch= 4  U_beta_til**2 sum is  4.710587745648809e-06  change of beta_til norm is... 2.0500147412949588e-10
+it= 164  v= 254  epoch= 5  U_beta_til**2 sum is  6.708434057145496e-07  change of beta_til norm is... 2.0653629848044197e-11
+it= 164  v= 254  epoch= 6  U_beta_til**2 sum is  2.362623341412018e-08  change of beta_til norm is... 2.3413998604532305e-12
+it= 164  v= 254  epoch= 7  U_beta_til**2 sum is  2.2064789106934768e-08  change of beta_til norm is... 3.312369638557716e-13
+it= 164  v= 254  epoch= 8  U_beta_til**2 sum is  4.297643130257711e-09  change of beta_til norm is... 1.2429762622813423e-13
+it= 164  v= 254  epoch= 9  U_beta_til**2 sum is  5.700585781198697e-09  change of beta_til norm is... 1.400144377609186e-13
+Computation Time for each row = 2.757652997970581 sec
+it= 164  v= 255  epoch= 0  U_beta**2 sum is  2.346681594848633  change of beta norm is... 5.306779348757118e-05
+it= 164  v= 255  epoch= 1  U_beta**2 sum is  0.01864057034254074  change of beta norm is... 5.554174094868358e-06
+it= 164  v= 255  epoch= 2  U_beta**2 sum is  0.002845399547368288  change of beta norm is... 5.697379492630716e-07
+it= 164  v= 255  epoch= 3  U_beta**2 sum is  0.0002975733659695834  change of beta norm is... 6.442655120508789e-08
+it= 164  v= 255  epoch= 4  U_beta**2 sum is  3.806596214417368e-05  change of beta norm is... 7.686905334480798e-09
+it= 164  v= 255  epoch= 5  U_beta**2 sum is  4.751695087179542e-06  change of beta norm is... 9.579075310739427e-10
+it= 164  v= 255  epoch= 6  U_beta**2 sum is  6.315898986031243e-07  change of beta norm is... 1.2884235345289596e-10
+it= 164  v= 255  epoch= 7  U_beta**2 sum is  7.844738547646557e-08  change of beta norm is... 2.490453676617932e-11
+it= 164  v= 255  epoch= 8  U_beta**2 sum is  1.3803221676766952e-08  change of beta norm is... 4.480383512112107e-12
+it= 164  v= 255  epoch= 9  U_beta**2 sum is  8.37377633899905e-09  change of beta norm is... 2.469591642729335e-13
+it= 164  v= 255  epoch= 0  U_beta_til**2 sum is  0.47715044021606445  change of beta_til norm is... 0.00010819736053235829
+it= 164  v= 255  epoch= 1  U_beta_til**2 sum is  0.002141720149666071  change of beta_til norm is... 4.3285038486828853e-07
+it= 164  v= 255  epoch= 2  U_beta_til**2 sum is  0.00012887950288131833  change of beta_til norm is... 4.558347654892714e-08
+it= 164  v= 255  epoch= 3  U_beta_til**2 sum is  2.3030068405205384e-05  change of beta_til norm is... 1.766723212170973e-09
+it= 164  v= 255  epoch= 4  U_beta_til**2 sum is  4.087480647285702e-06  change of beta_til norm is... 2.3294435824716686e-10
+it= 164  v= 255  epoch= 5  U_beta_til**2 sum is  7.466663305422117e-07  change of beta_til norm is... 4.006887183161112e-11
+it= 164  v= 255  epoch= 6  U_beta_til**2 sum is  1.5064907188389043e-07  change of beta_til norm is... 8.052347851006392e-12
+it= 164  v= 255  epoch= 7  U_beta_til**2 sum is  3.2799686522366756e-08  change of beta_til norm is... 2.040469139139023e-12
+it= 164  v= 255  epoch= 8  U_beta_til**2 sum is  1.9143861607062718e-08  change of beta_til norm is... 3.356420501775259e-13
+it= 164  v= 255  epoch= 9  U_beta_til**2 sum is  3.2555780293819225e-09  change of beta_til norm is... 1.734903995638526e-13
+Computation Time for each row = 2.357147455215454 sec
+it= 164  v= 256  epoch= 0  U_beta**2 sum is  1.9545986652374268  change of beta norm is... 4.602623812388629e-05
+it= 164  v= 256  epoch= 1  U_beta**2 sum is  0.0014315185835584998  change of beta norm is... 3.467582132543612e-07
+it= 164  v= 256  epoch= 2  U_beta**2 sum is  2.9557490051956847e-05  change of beta norm is... 1.4788129831799779e-08
+it= 164  v= 256  epoch= 3  U_beta**2 sum is  1.6415522168244934e-06  change of beta norm is... 7.19116211023163e-10
+it= 164  v= 256  epoch= 4  U_beta**2 sum is  9.204478601532173e-08  change of beta norm is... 4.360951183501882e-11
+it= 164  v= 256  epoch= 5  U_beta**2 sum is  1.3896811701386014e-08  change of beta norm is... 2.5654383131734626e-12
+it= 164  v= 256  epoch= 6  U_beta**2 sum is  1.019423656600793e-08  change of beta norm is... 2.897086596228421e-13
+it= 164  v= 256  epoch= 7  U_beta**2 sum is  4.11164435831779e-09  change of beta norm is... 7.792253170837982e-14
+it= 164  v= 256  epoch= 8  U_beta**2 sum is  6.827447052160096e-09  change of beta norm is... 4.1303257743239424e-14
+it= 164  v= 256  epoch= 9  U_beta**2 sum is  1.6660255397482615e-09  change of beta norm is... 3.7775043645405307e-14
+it= 164  v= 256  epoch= 0  U_beta_til**2 sum is  2.211150884628296  change of beta_til norm is... 0.00017714756540954113
+it= 164  v= 256  epoch= 1  U_beta_til**2 sum is  0.010916533879935741  change of beta_til norm is... 1.730512167341658e-06
+it= 164  v= 256  epoch= 2  U_beta_til**2 sum is  0.00013191606558393687  change of beta_til norm is... 7.257855827447202e-08
+it= 164  v= 256  epoch= 3  U_beta_til**2 sum is  1.9452349079074338e-05  change of beta_til norm is... 3.107579527039661e-09
+it= 164  v= 256  epoch= 4  U_beta_til**2 sum is  5.227046813160996e-07  change of beta_til norm is... 2.2245423558775457e-10
+it= 164  v= 256  epoch= 5  U_beta_til**2 sum is  6.686633469143999e-08  change of beta_til norm is... 1.430060236895514e-11
+it= 164  v= 256  epoch= 6  U_beta_til**2 sum is  6.283202402812549e-09  change of beta_til norm is... 1.3605334307081884e-12
+it= 164  v= 256  epoch= 7  U_beta_til**2 sum is  6.114129647016853e-09  change of beta_til norm is... 2.205335388047111e-13
+it= 164  v= 256  epoch= 8  U_beta_til**2 sum is  3.4133460502516755e-09  change of beta_til norm is... 9.694033228056786e-14
+it= 164  v= 256  epoch= 9  U_beta_til**2 sum is  7.111660593750457e-09  change of beta_til norm is... 1.1413489782192282e-13
+Computation Time for each row = 2.4302752017974854 sec
+it= 164  v= 257  epoch= 0  U_beta**2 sum is  0.9769179224967957  change of beta norm is... 0.0005067161982879043
+it= 164  v= 257  epoch= 1  U_beta**2 sum is  0.008581154979765415  change of beta norm is... 3.93864593206672e-06
+it= 164  v= 257  epoch= 2  U_beta**2 sum is  0.00018748077854979783  change of beta norm is... 5.924259767198237e-07
+it= 164  v= 257  epoch= 3  U_beta**2 sum is  4.8350753786507994e-05  change of beta norm is... 1.460155996113599e-08
+it= 164  v= 257  epoch= 4  U_beta**2 sum is  3.769473551074043e-06  change of beta norm is... 3.380177915346394e-09
+it= 164  v= 257  epoch= 5  U_beta**2 sum is  8.616108289061231e-07  change of beta norm is... 2.2546736699879943e-10
+it= 164  v= 257  epoch= 6  U_beta**2 sum is  6.999346169322962e-08  change of beta norm is... 2.968192358565602e-11
+it= 164  v= 257  epoch= 7  U_beta**2 sum is  4.7002588487998764e-09  change of beta norm is... 3.2658220745773736e-12
+it= 164  v= 257  epoch= 8  U_beta**2 sum is  4.0252544408758695e-08  change of beta norm is... 5.852815519562238e-13
+it= 164  v= 257  epoch= 9  U_beta**2 sum is  1.379303959936351e-08  change of beta norm is... 1.0817502492724285e-12
+it= 164  v= 257  epoch= 0  U_beta_til**2 sum is  1.0758165121078491  change of beta_til norm is... 0.0006114284042268991
+it= 164  v= 257  epoch= 1  U_beta_til**2 sum is  0.0028688814491033554  change of beta_til norm is... 2.7375360787118552e-06
+it= 164  v= 257  epoch= 2  U_beta_til**2 sum is  0.00014298946189228445  change of beta_til norm is... 2.7537637947716576e-07
+it= 164  v= 257  epoch= 3  U_beta_til**2 sum is  5.0010667109745555e-06  change of beta_til norm is... 4.020643373792154e-09
+it= 164  v= 257  epoch= 4  U_beta_til**2 sum is  7.335617056014598e-07  change of beta_til norm is... 3.145474436472284e-10
+it= 164  v= 257  epoch= 5  U_beta_til**2 sum is  6.400750862667337e-08  change of beta_til norm is... 1.6199002209060787e-11
+it= 164  v= 257  epoch= 6  U_beta_til**2 sum is  3.066636367066167e-08  change of beta_til norm is... 2.3107527176435827e-12
+it= 164  v= 257  epoch= 7  U_beta_til**2 sum is  1.4562957950658983e-08  change of beta_til norm is... 5.051757623331099e-13
+it= 164  v= 257  epoch= 8  U_beta_til**2 sum is  4.666179442835983e-09  change of beta_til norm is... 3.9992209305457493e-13
+it= 164  v= 257  epoch= 9  U_beta_til**2 sum is  8.132168716201704e-09  change of beta_til norm is... 6.185193958570256e-13
+Computation Time for each row = 2.4035913944244385 sec
+it= 164  v= 258  epoch= 0  U_beta**2 sum is  0.20371119678020477  change of beta norm is... 3.077520523220301e-05
+it= 164  v= 258  epoch= 1  U_beta**2 sum is  0.003179236315190792  change of beta norm is... 1.7210489886565483e-06
+it= 164  v= 258  epoch= 2  U_beta**2 sum is  0.0005180682055652142  change of beta norm is... 1.491017513899351e-07
+it= 164  v= 258  epoch= 3  U_beta**2 sum is  6.934377597644925e-05  change of beta norm is... 2.6731253655043474e-08
+it= 164  v= 258  epoch= 4  U_beta**2 sum is  2.0069806851097383e-05  change of beta norm is... 4.797488628582869e-09
+it= 164  v= 258  epoch= 5  U_beta**2 sum is  2.6245379558531567e-06  change of beta norm is... 1.3252217101467068e-09
+it= 164  v= 258  epoch= 6  U_beta**2 sum is  1.2543841876322404e-06  change of beta norm is... 3.333791576132228e-10
+it= 164  v= 258  epoch= 7  U_beta**2 sum is  1.68214143059231e-07  change of beta norm is... 1.0521242210792536e-10
+it= 164  v= 258  epoch= 8  U_beta**2 sum is  8.271502593970581e-08  change of beta norm is... 2.954899519513887e-11
+it= 164  v= 258  epoch= 9  U_beta**2 sum is  1.899922708048507e-08  change of beta norm is... 9.795913212540253e-12
+it= 164  v= 258  epoch= 0  U_beta_til**2 sum is  4.211480140686035  change of beta_til norm is... 2.4019205739023164e-05
+it= 164  v= 258  epoch= 1  U_beta_til**2 sum is  0.01530165784060955  change of beta_til norm is... 1.0309012168363552e-06
+it= 164  v= 258  epoch= 2  U_beta_til**2 sum is  0.0001927435223478824  change of beta_til norm is... 4.100821016095324e-08
+it= 164  v= 258  epoch= 3  U_beta_til**2 sum is  8.62370779941557e-06  change of beta_til norm is... 3.6159299998672623e-09
+it= 164  v= 258  epoch= 4  U_beta_til**2 sum is  7.770782417537703e-07  change of beta_til norm is... 3.0078786683596093e-10
+it= 164  v= 258  epoch= 5  U_beta_til**2 sum is  6.376478722813772e-08  change of beta_til norm is... 3.766174525021704e-11
+it= 164  v= 258  epoch= 6  U_beta_til**2 sum is  1.0316814957889164e-08  change of beta_til norm is... 5.341507618161767e-12
+it= 164  v= 258  epoch= 7  U_beta_til**2 sum is  3.3689513401213844e-09  change of beta_til norm is... 9.081669335823939e-13
+it= 164  v= 258  epoch= 8  U_beta_til**2 sum is  7.93566279355673e-09  change of beta_til norm is... 1.85066399054426e-13
+it= 164  v= 258  epoch= 9  U_beta_til**2 sum is  3.121455538490636e-09  change of beta_til norm is... 9.281631859576686e-14
+Computation Time for each row = 2.3355231285095215 sec
+it= 164  v= 259  epoch= 0  U_beta**2 sum is  0.7002612352371216  change of beta norm is... 2.5394896510988474e-05
+it= 164  v= 259  epoch= 1  U_beta**2 sum is  0.0013123693643137813  change of beta norm is... 5.019844024900522e-07
+it= 164  v= 259  epoch= 2  U_beta**2 sum is  0.0001357563305646181  change of beta norm is... 1.5166666145205454e-08
+it= 164  v= 259  epoch= 3  U_beta**2 sum is  4.798563168151304e-06  change of beta norm is... 1.0127572114271288e-09
+it= 164  v= 259  epoch= 4  U_beta**2 sum is  3.4365970691396797e-07  change of beta norm is... 6.374963057442784e-11
+it= 164  v= 259  epoch= 5  U_beta**2 sum is  3.684811389348397e-08  change of beta norm is... 5.132287390213763e-12
+it= 164  v= 259  epoch= 6  U_beta**2 sum is  2.0721344640151074e-09  change of beta norm is... 4.4934141043423415e-13
+it= 164  v= 259  epoch= 7  U_beta**2 sum is  5.4898635637457e-10  change of beta norm is... 6.749649125205315e-14
+it= 164  v= 259  epoch= 8  U_beta**2 sum is  1.8273684787573075e-09  change of beta norm is... 4.4094709031024595e-14
+it= 164  v= 259  epoch= 9  U_beta**2 sum is  3.889073951768296e-09  change of beta norm is... 5.5201757200680143e-14
+it= 164  v= 259  epoch= 0  U_beta_til**2 sum is  1.069328784942627  change of beta_til norm is... 2.0500348909990862e-05
+it= 164  v= 259  epoch= 1  U_beta_til**2 sum is  0.002670038491487503  change of beta_til norm is... 2.7665845436786185e-07
+it= 164  v= 259  epoch= 2  U_beta_til**2 sum is  4.570047531160526e-05  change of beta_til norm is... 1.1749696327001402e-08
+it= 164  v= 259  epoch= 3  U_beta_til**2 sum is  1.6929219555095187e-06  change of beta_til norm is... 4.58162258132333e-10
+it= 164  v= 259  epoch= 4  U_beta_til**2 sum is  6.666083152140345e-08  change of beta_til norm is... 2.1985262568802177e-11
+it= 164  v= 259  epoch= 5  U_beta_til**2 sum is  3.6748630805050198e-09  change of beta_til norm is... 1.5639427686925389e-12
+it= 164  v= 259  epoch= 6  U_beta_til**2 sum is  6.96621316187418e-10  change of beta_til norm is... 1.417212430309539e-13
+it= 164  v= 259  epoch= 7  U_beta_til**2 sum is  2.5522245428177825e-10  change of beta_til norm is... 3.741466500766649e-14
+it= 164  v= 259  epoch= 8  U_beta_til**2 sum is  7.019370640293232e-10  change of beta_til norm is... 6.580594223834155e-14
+it= 164  v= 259  epoch= 9  U_beta_til**2 sum is  2.248224939549459e-10  change of beta_til norm is... 6.557853760892629e-14
+Computation Time for each row = 2.394209384918213 sec
+it= 164  v= 260  epoch= 0  U_beta**2 sum is  0.5987594127655029  change of beta norm is... 0.005124904680997133
+it= 164  v= 260  epoch= 1  U_beta**2 sum is  0.005857863929122686  change of beta norm is... 2.49714116762334e-06
+it= 164  v= 260  epoch= 2  U_beta**2 sum is  5.507242167368531e-05  change of beta norm is... 7.398257650947926e-08
+it= 164  v= 260  epoch= 3  U_beta**2 sum is  8.812158739601728e-06  change of beta norm is... 7.69246710774496e-09
+it= 164  v= 260  epoch= 4  U_beta**2 sum is  1.3715844033868052e-06  change of beta norm is... 1.0432807950877532e-09
+it= 164  v= 260  epoch= 5  U_beta**2 sum is  2.56022872235917e-07  change of beta norm is... 1.4629419897715934e-10
+it= 164  v= 260  epoch= 6  U_beta**2 sum is  4.4518916553215604e-08  change of beta norm is... 2.0707562400912316e-11
+it= 164  v= 260  epoch= 7  U_beta**2 sum is  9.395559885660987e-09  change of beta norm is... 3.92943230037579e-12
+it= 164  v= 260  epoch= 8  U_beta**2 sum is  6.9939893876380665e-09  change of beta norm is... 1.1274063280164448e-12
+it= 164  v= 260  epoch= 9  U_beta**2 sum is  2.764057782655982e-08  change of beta norm is... 4.643600499780465e-13
+it= 164  v= 260  epoch= 0  U_beta_til**2 sum is  1.4939792156219482  change of beta_til norm is... 0.004076790995895863
+it= 164  v= 260  epoch= 1  U_beta_til**2 sum is  0.008270548656582832  change of beta_til norm is... 2.6644597710401285e-06
+it= 164  v= 260  epoch= 2  U_beta_til**2 sum is  1.346006138192024e-05  change of beta_til norm is... 2.6529084706794492e-08
+it= 164  v= 260  epoch= 3  U_beta_til**2 sum is  3.52200999031993e-07  change of beta_til norm is... 1.074758892993799e-10
+it= 164  v= 260  epoch= 4  U_beta_til**2 sum is  2.7921572609557188e-08  change of beta_til norm is... 2.0843543904747186e-12
+it= 164  v= 260  epoch= 5  U_beta_til**2 sum is  1.3357457362417335e-08  change of beta_til norm is... 4.185902113210821e-13
+it= 164  v= 260  epoch= 6  U_beta_til**2 sum is  2.7020060855420525e-08  change of beta_til norm is... 4.1705262290511746e-13
+it= 164  v= 260  epoch= 7  U_beta_til**2 sum is  3.2144470196726616e-08  change of beta_til norm is... 3.115200155126563e-13
+it= 164  v= 260  epoch= 8  U_beta_til**2 sum is  1.7008447983357655e-08  change of beta_til norm is... 3.776944035305263e-13
+it= 164  v= 260  epoch= 9  U_beta_til**2 sum is  1.7444071076511136e-08  change of beta_til norm is... 3.8240263277970754e-13
+Computation Time for each row = 2.378511428833008 sec
+it= 164  v= 261  epoch= 0  U_beta**2 sum is  0.22800904512405396  change of beta norm is... 4.4114087359048426e-05
+it= 164  v= 261  epoch= 1  U_beta**2 sum is  0.0031122020445764065  change of beta norm is... 4.010373686469393e-07
+it= 164  v= 261  epoch= 2  U_beta**2 sum is  0.0005398697103373706  change of beta norm is... 5.8303811556470464e-08
+it= 164  v= 261  epoch= 3  U_beta**2 sum is  8.965461165644228e-05  change of beta norm is... 1.085904965947293e-08
+it= 164  v= 261  epoch= 4  U_beta**2 sum is  1.6090947610791773e-05  change of beta norm is... 2.0832051639274596e-09
+it= 164  v= 261  epoch= 5  U_beta**2 sum is  2.9780248951283284e-06  change of beta norm is... 3.897681066789005e-10
+it= 164  v= 261  epoch= 6  U_beta**2 sum is  5.7016865184778e-07  change of beta norm is... 7.21151680038723e-11
+it= 164  v= 261  epoch= 7  U_beta**2 sum is  1.1150606837873056e-07  change of beta norm is... 1.4312051543896587e-11
+it= 164  v= 261  epoch= 8  U_beta**2 sum is  2.309348623441565e-08  change of beta norm is... 3.2516652131303614e-12
+it= 164  v= 261  epoch= 9  U_beta**2 sum is  8.819487362643486e-09  change of beta norm is... 9.758279254090674e-13
+it= 164  v= 261  epoch= 0  U_beta_til**2 sum is  0.17712166905403137  change of beta_til norm is... 6.332794873742387e-05
+it= 164  v= 261  epoch= 1  U_beta_til**2 sum is  0.0015619829064235091  change of beta_til norm is... 4.077183177741972e-07
+it= 164  v= 261  epoch= 2  U_beta_til**2 sum is  1.8924967662314884e-05  change of beta_til norm is... 8.699984732629673e-09
+it= 164  v= 261  epoch= 3  U_beta_til**2 sum is  5.312892881192965e-07  change of beta_til norm is... 2.1703959462993083e-10
+it= 164  v= 261  epoch= 4  U_beta_til**2 sum is  1.3294339851199766e-08  change of beta_til norm is... 6.51729755232755e-12
+it= 164  v= 261  epoch= 5  U_beta_til**2 sum is  2.32752483952936e-09  change of beta_til norm is... 3.613303775108767e-13
+it= 164  v= 261  epoch= 6  U_beta_til**2 sum is  4.4904808760293236e-09  change of beta_til norm is... 9.774777151973571e-14
+it= 164  v= 261  epoch= 7  U_beta_til**2 sum is  2.3618760280896822e-09  change of beta_til norm is... 1.04735386758769e-13
+it= 164  v= 261  epoch= 8  U_beta_til**2 sum is  1.624531620336711e-09  change of beta_til norm is... 7.556677045173973e-14
+it= 164  v= 261  epoch= 9  U_beta_til**2 sum is  1.9356178881935193e-09  change of beta_til norm is... 7.793181518948172e-14
+Computation Time for each row = 2.4247238636016846 sec
+it= 164  v= 262  epoch= 0  U_beta**2 sum is  0.3914235234260559  change of beta norm is... 6.398579716915265e-05
+it= 164  v= 262  epoch= 1  U_beta**2 sum is  0.004100607708096504  change of beta norm is... 2.5878673568513477e-06
+it= 164  v= 262  epoch= 2  U_beta**2 sum is  0.001891736639663577  change of beta norm is... 2.91471621949313e-07
+it= 164  v= 262  epoch= 3  U_beta**2 sum is  0.00018462887965142727  change of beta norm is... 6.017471321229095e-08
+it= 164  v= 262  epoch= 4  U_beta**2 sum is  5.803604653920047e-05  change of beta norm is... 1.0852550857975984e-08
+it= 164  v= 262  epoch= 5  U_beta**2 sum is  9.374303772347048e-06  change of beta norm is... 2.198797810493147e-09
+it= 164  v= 262  epoch= 6  U_beta**2 sum is  2.084597554130596e-06  change of beta norm is... 4.2403552891201457e-10
+it= 164  v= 262  epoch= 7  U_beta**2 sum is  3.8261350709944963e-07  change of beta norm is... 8.320699684816191e-11
+it= 164  v= 262  epoch= 8  U_beta**2 sum is  7.029947823866678e-08  change of beta norm is... 1.532492882594383e-11
+it= 164  v= 262  epoch= 9  U_beta**2 sum is  8.319290145664127e-09  change of beta norm is... 2.775285643658032e-12
+it= 164  v= 262  epoch= 0  U_beta_til**2 sum is  1.0494192838668823  change of beta_til norm is... 5.791581133962609e-05
+it= 164  v= 262  epoch= 1  U_beta_til**2 sum is  0.015677519142627716  change of beta_til norm is... 4.55657846032409e-06
+it= 164  v= 262  epoch= 2  U_beta_til**2 sum is  0.0049131158739328384  change of beta_til norm is... 1.2490016843003104e-06
+it= 164  v= 262  epoch= 3  U_beta_til**2 sum is  0.0013674814254045486  change of beta_til norm is... 4.7539040792798914e-07
+it= 164  v= 262  epoch= 4  U_beta_til**2 sum is  0.0005621485761366785  change of beta_til norm is... 1.76560334352871e-07
+it= 164  v= 262  epoch= 5  U_beta_til**2 sum is  0.0001978831714950502  change of beta_til norm is... 6.712581779311222e-08
+it= 164  v= 262  epoch= 6  U_beta_til**2 sum is  7.609747990500182e-05  change of beta_til norm is... 2.5255966207282654e-08
+it= 164  v= 262  epoch= 7  U_beta_til**2 sum is  2.8532052965601906e-05  change of beta_til norm is... 9.539237844080617e-09
+it= 164  v= 262  epoch= 8  U_beta_til**2 sum is  1.078409422916593e-05  change of beta_til norm is... 3.617583566040139e-09
+it= 164  v= 262  epoch= 9  U_beta_til**2 sum is  4.083080057171173e-06  change of beta_til norm is... 1.3774773544028562e-09
+Computation Time for each row = 2.4142704010009766 sec
+it= 164  v= 263  epoch= 0  U_beta**2 sum is  1.062407374382019  change of beta norm is... 9.645441605243832e-05
+it= 164  v= 263  epoch= 1  U_beta**2 sum is  0.0052261799573898315  change of beta norm is... 3.0334017537825275e-06
+it= 164  v= 263  epoch= 2  U_beta**2 sum is  0.0005161496228538454  change of beta norm is... 3.5183040836272994e-07
+it= 164  v= 263  epoch= 3  U_beta**2 sum is  5.252612754702568e-05  change of beta norm is... 3.5869600623072984e-08
+it= 164  v= 263  epoch= 4  U_beta**2 sum is  7.464942882506875e-06  change of beta norm is... 6.15465634012935e-09
+it= 164  v= 263  epoch= 5  U_beta**2 sum is  1.2148746009188471e-06  change of beta norm is... 8.22860335425446e-10
+it= 164  v= 263  epoch= 6  U_beta**2 sum is  2.2412086764234118e-07  change of beta norm is... 1.6401784097563876e-10
+it= 164  v= 263  epoch= 7  U_beta**2 sum is  4.9812118874115185e-08  change of beta norm is... 2.809624408128819e-11
+it= 164  v= 263  epoch= 8  U_beta**2 sum is  8.973433551773269e-09  change of beta norm is... 5.577806012208031e-12
+it= 164  v= 263  epoch= 9  U_beta**2 sum is  7.311921734753923e-09  change of beta norm is... 1.2035465939835843e-12
+it= 164  v= 263  epoch= 0  U_beta_til**2 sum is  0.4258953630924225  change of beta_til norm is... 3.0197694286471233e-05
+it= 164  v= 263  epoch= 1  U_beta_til**2 sum is  0.017448488622903824  change of beta_til norm is... 2.4646876681799768e-06
+it= 164  v= 263  epoch= 2  U_beta_til**2 sum is  0.006208841688930988  change of beta_til norm is... 4.2673781308621983e-07
+it= 164  v= 263  epoch= 3  U_beta_til**2 sum is  0.0016566672129556537  change of beta_til norm is... 1.3873992088520026e-07
+it= 164  v= 263  epoch= 4  U_beta_til**2 sum is  0.0005441360990516841  change of beta_til norm is... 3.953091720632074e-08
+it= 164  v= 263  epoch= 5  U_beta_til**2 sum is  0.00016243015124928206  change of beta_til norm is... 1.2698005313893646e-08
+it= 164  v= 263  epoch= 6  U_beta_til**2 sum is  5.101131318951957e-05  change of beta_til norm is... 3.841876594634641e-09
+it= 164  v= 263  epoch= 7  U_beta_til**2 sum is  1.55572979565477e-05  change of beta_til norm is... 1.2048235742412317e-09
+it= 164  v= 263  epoch= 8  U_beta_til**2 sum is  4.837503638555063e-06  change of beta_til norm is... 3.729362096915878e-10
+it= 164  v= 263  epoch= 9  U_beta_til**2 sum is  1.4946058399800677e-06  change of beta_til norm is... 1.177085373615938e-10
+Computation Time for each row = 2.327728748321533 sec
+it= 164  v= 264  epoch= 0  U_beta**2 sum is  0.19319738447666168  change of beta norm is... 0.00011158708366565406
+it= 164  v= 264  epoch= 1  U_beta**2 sum is  0.003120637033134699  change of beta norm is... 1.1429735877754865e-06
+it= 164  v= 264  epoch= 2  U_beta**2 sum is  0.001153321354649961  change of beta norm is... 1.3823043332195084e-07
+it= 164  v= 264  epoch= 3  U_beta**2 sum is  0.00032926007406786084  change of beta norm is... 2.991395930962426e-08
+it= 164  v= 264  epoch= 4  U_beta**2 sum is  0.00011860166705446318  change of beta norm is... 8.019885200383214e-09
+it= 164  v= 264  epoch= 5  U_beta**2 sum is  3.5897697671316564e-05  change of beta norm is... 2.5034143646962548e-09
+it= 164  v= 264  epoch= 6  U_beta**2 sum is  1.1070997061324306e-05  change of beta norm is... 7.345321573204444e-10
+it= 164  v= 264  epoch= 7  U_beta**2 sum is  3.1788035812496673e-06  change of beta norm is... 2.2039063629630817e-10
+it= 164  v= 264  epoch= 8  U_beta**2 sum is  1.0145299711439293e-06  change of beta norm is... 6.739342417461103e-11
+it= 164  v= 264  epoch= 9  U_beta**2 sum is  2.9419169322864036e-07  change of beta norm is... 2.2029799859324406e-11
+it= 164  v= 264  epoch= 0  U_beta_til**2 sum is  0.34704500436782837  change of beta_til norm is... 0.00019772457017097622
+it= 164  v= 264  epoch= 1  U_beta_til**2 sum is  0.00849213171750307  change of beta_til norm is... 2.840572051354684e-06
+it= 164  v= 264  epoch= 2  U_beta_til**2 sum is  0.0005527190514840186  change of beta_til norm is... 1.5935782471387938e-07
+it= 164  v= 264  epoch= 3  U_beta_til**2 sum is  7.011478010099381e-05  change of beta_til norm is... 2.168990320683406e-08
+it= 164  v= 264  epoch= 4  U_beta_til**2 sum is  1.150514253822621e-05  change of beta_til norm is... 2.5255286750791583e-09
+it= 164  v= 264  epoch= 5  U_beta_til**2 sum is  2.218157987954328e-06  change of beta_til norm is... 4.595498981352364e-10
+it= 164  v= 264  epoch= 6  U_beta_til**2 sum is  3.7125943208593526e-07  change of beta_til norm is... 7.026278170396694e-11
+it= 164  v= 264  epoch= 7  U_beta_til**2 sum is  6.621480963531212e-08  change of beta_til norm is... 1.25048634641578e-11
+it= 164  v= 264  epoch= 8  U_beta_til**2 sum is  9.581696325255962e-09  change of beta_til norm is... 2.037639154628401e-12
+it= 164  v= 264  epoch= 9  U_beta_til**2 sum is  3.4059350895176976e-09  change of beta_til norm is... 4.1679149281187433e-13
+Computation Time for each row = 2.4524660110473633 sec
+it= 164  v= 265  epoch= 0  U_beta**2 sum is  0.12155380845069885  change of beta norm is... 2.2720629203831777e-05
+it= 164  v= 265  epoch= 1  U_beta**2 sum is  0.000631531176622957  change of beta norm is... 1.6538915303954127e-07
+it= 164  v= 265  epoch= 2  U_beta**2 sum is  1.2354447790130507e-05  change of beta norm is... 3.1307720860240806e-09
+it= 164  v= 265  epoch= 3  U_beta**2 sum is  3.364211806911044e-07  change of beta norm is... 7.391262601963433e-11
+it= 164  v= 265  epoch= 4  U_beta**2 sum is  1.4455529218082575e-08  change of beta norm is... 2.0669156490515928e-12
+it= 164  v= 265  epoch= 5  U_beta**2 sum is  2.4647903718033604e-09  change of beta norm is... 1.2252633803389035e-13
+it= 164  v= 265  epoch= 6  U_beta**2 sum is  2.9420172964478297e-09  change of beta norm is... 5.4993424365105265e-14
+it= 164  v= 265  epoch= 7  U_beta**2 sum is  2.2941906152595948e-09  change of beta norm is... 6.399355600549689e-14
+it= 164  v= 265  epoch= 8  U_beta**2 sum is  9.434315551004602e-10  change of beta norm is... 2.7143170794764054e-14
+it= 164  v= 265  epoch= 9  U_beta**2 sum is  2.8191795564680433e-09  change of beta norm is... 4.0860537338632125e-14
+it= 164  v= 265  epoch= 0  U_beta_til**2 sum is  0.13895346224308014  change of beta_til norm is... 1.4787096006330103e-05
+it= 164  v= 265  epoch= 1  U_beta_til**2 sum is  0.0003835993120446801  change of beta_til norm is... 8.766465242615595e-08
+it= 164  v= 265  epoch= 2  U_beta_til**2 sum is  6.976489203225356e-06  change of beta_til norm is... 1.5687171561751256e-09
+it= 164  v= 265  epoch= 3  U_beta_til**2 sum is  9.095268893588582e-08  change of beta_til norm is... 3.368611639631425e-11
+it= 164  v= 265  epoch= 4  U_beta_til**2 sum is  7.496191223310689e-09  change of beta_til norm is... 9.57553155690738e-13
+it= 164  v= 265  epoch= 5  U_beta_til**2 sum is  1.6864092344803794e-09  change of beta_til norm is... 8.209427061756092e-14
+it= 164  v= 265  epoch= 6  U_beta_til**2 sum is  1.0335066136235582e-08  change of beta_til norm is... 5.832502178709092e-14
+it= 164  v= 265  epoch= 7  U_beta_til**2 sum is  6.231098303999261e-09  change of beta_til norm is... 3.917818082758637e-14
+it= 164  v= 265  epoch= 8  U_beta_til**2 sum is  5.09556485894791e-09  change of beta_til norm is... 3.491265504235348e-14
+it= 164  v= 265  epoch= 9  U_beta_til**2 sum is  3.980007434734034e-09  change of beta_til norm is... 5.46100165955965e-14
+Computation Time for each row = 2.4114506244659424 sec
+it= 164  v= 266  epoch= 0  U_beta**2 sum is  2.3184359073638916  change of beta norm is... 0.39805474877357483
+it= 164  v= 266  epoch= 1  U_beta**2 sum is  0.008599208667874336  change of beta norm is... 1.788588815543335e-05
+it= 164  v= 266  epoch= 2  U_beta**2 sum is  3.837801159534138e-06  change of beta norm is... 1.0381702608697196e-08
+it= 164  v= 266  epoch= 3  U_beta**2 sum is  1.905142994473863e-06  change of beta norm is... 5.5334057648404045e-12
+it= 164  v= 266  epoch= 4  U_beta**2 sum is  3.008337898791069e-07  change of beta norm is... 3.079546600365246e-12
+it= 164  v= 266  epoch= 5  U_beta**2 sum is  3.5483213878251263e-07  change of beta norm is... 4.092563093971435e-12
+it= 164  v= 266  epoch= 6  U_beta**2 sum is  1.5701070310569776e-07  change of beta norm is... 6.361505940077894e-12
+it= 164  v= 266  epoch= 7  U_beta**2 sum is  8.347435596078867e-07  change of beta norm is... 5.606055984014313e-12
+it= 164  v= 266  epoch= 8  U_beta**2 sum is  8.482470548187848e-07  change of beta norm is... 4.171140863262757e-12
+it= 164  v= 266  epoch= 9  U_beta**2 sum is  9.848290574154817e-07  change of beta norm is... 5.269057325868465e-12
+it= 164  v= 266  epoch= 0  U_beta_til**2 sum is  1.9383165836334229  change of beta_til norm is... 0.004951559007167816
+it= 164  v= 266  epoch= 1  U_beta_til**2 sum is  0.006254558451473713  change of beta_til norm is... 1.7339402802463155e-06
+it= 164  v= 266  epoch= 2  U_beta_til**2 sum is  3.310266765765846e-05  change of beta_til norm is... 5.730554519800535e-08
+it= 164  v= 266  epoch= 3  U_beta_til**2 sum is  4.5319393393583596e-07  change of beta_til norm is... 1.2008685712494582e-10
+it= 164  v= 266  epoch= 4  U_beta_til**2 sum is  6.852152978353843e-08  change of beta_til norm is... 2.9910848103886778e-12
+it= 164  v= 266  epoch= 5  U_beta_til**2 sum is  2.855593628225961e-08  change of beta_til norm is... 2.7686934776088856e-13
+it= 164  v= 266  epoch= 6  U_beta_til**2 sum is  2.2887864048470874e-08  change of beta_til norm is... 3.0081061881855053e-13
+it= 164  v= 266  epoch= 7  U_beta_til**2 sum is  4.59417961451436e-08  change of beta_til norm is... 2.017870733787147e-13
+it= 164  v= 266  epoch= 8  U_beta_til**2 sum is  4.2367094721385e-08  change of beta_til norm is... 1.8161448907261235e-13
+it= 164  v= 266  epoch= 9  U_beta_til**2 sum is  3.708240114974615e-08  change of beta_til norm is... 3.1188685531771676e-13
+Computation Time for each row = 2.472679376602173 sec
+it= 164  v= 267  epoch= 0  U_beta**2 sum is  4.436897277832031  change of beta norm is... 4.7167774027911946e-05
+it= 164  v= 267  epoch= 1  U_beta**2 sum is  0.48993536829948425  change of beta norm is... 1.1048428859794512e-05
+it= 164  v= 267  epoch= 2  U_beta**2 sum is  0.13955965638160706  change of beta norm is... 2.3344593955698656e-06
+it= 164  v= 267  epoch= 3  U_beta**2 sum is  0.03296974301338196  change of beta norm is... 6.589573331439169e-07
+it= 164  v= 267  epoch= 4  U_beta**2 sum is  0.008605480194091797  change of beta norm is... 1.7163719689961e-07
+it= 164  v= 267  epoch= 5  U_beta**2 sum is  0.002196617890149355  change of beta norm is... 4.576182988103028e-08
+it= 164  v= 267  epoch= 6  U_beta**2 sum is  0.0005626921192742884  change of beta norm is... 1.2154688810994685e-08
+it= 164  v= 267  epoch= 7  U_beta**2 sum is  0.00014566797472070903  change of beta norm is... 3.177544449783909e-09
+it= 164  v= 267  epoch= 8  U_beta**2 sum is  3.7167461414355785e-05  change of beta norm is... 8.308295162962054e-10
+it= 164  v= 267  epoch= 9  U_beta**2 sum is  9.532802323519718e-06  change of beta norm is... 2.1471426026042906e-10
+it= 164  v= 267  epoch= 0  U_beta_til**2 sum is  0.5259755849838257  change of beta_til norm is... 9.096186113310978e-05
+it= 164  v= 267  epoch= 1  U_beta_til**2 sum is  0.038969267159700394  change of beta_til norm is... 5.7911238400265574e-06
+it= 164  v= 267  epoch= 2  U_beta_til**2 sum is  0.00959923304617405  change of beta_til norm is... 1.2370060176181141e-06
+it= 164  v= 267  epoch= 3  U_beta_til**2 sum is  0.0032573190983384848  change of beta_til norm is... 4.86563578760979e-07
+it= 164  v= 267  epoch= 4  U_beta_til**2 sum is  0.0011533554643392563  change of beta_til norm is... 1.7073779190468485e-07
+it= 164  v= 267  epoch= 5  U_beta_til**2 sum is  0.0004120191733818501  change of beta_til norm is... 6.425186427350127e-08
+it= 164  v= 267  epoch= 6  U_beta_til**2 sum is  0.00014972477219998837  change of beta_til norm is... 2.3266036208724472e-08
+it= 164  v= 267  epoch= 7  U_beta_til**2 sum is  5.4525160521734506e-05  change of beta_til norm is... 8.568749265691622e-09
+it= 164  v= 267  epoch= 8  U_beta_til**2 sum is  1.9896853700629435e-05  change of beta_til norm is... 3.0754367941199234e-09
+it= 164  v= 267  epoch= 9  U_beta_til**2 sum is  7.136319254641421e-06  change of beta_til norm is... 1.0844287690048304e-09
+Computation Time for each row = 2.564707040786743 sec
+it= 164  v= 268  epoch= 0  U_beta**2 sum is  0.7570830583572388  change of beta norm is... 0.00020960456458851695
+it= 164  v= 268  epoch= 1  U_beta**2 sum is  0.007689437363296747  change of beta norm is... 5.989305009279633e-06
+it= 164  v= 268  epoch= 2  U_beta**2 sum is  0.002413870533928275  change of beta norm is... 5.174451871425845e-07
+it= 164  v= 268  epoch= 3  U_beta**2 sum is  0.00010401020699646324  change of beta norm is... 5.135906278042057e-08
+it= 164  v= 268  epoch= 4  U_beta**2 sum is  3.54654184775427e-05  change of beta norm is... 6.871943902808653e-09
+it= 164  v= 268  epoch= 5  U_beta**2 sum is  2.788442088785814e-06  change of beta norm is... 1.0356213664408642e-09
+it= 164  v= 268  epoch= 6  U_beta**2 sum is  7.284679668373428e-07  change of beta norm is... 1.762809204164384e-10
+it= 164  v= 268  epoch= 7  U_beta**2 sum is  1.0348757228939576e-07  change of beta norm is... 3.130843848064835e-11
+it= 164  v= 268  epoch= 8  U_beta**2 sum is  3.463505393597188e-08  change of beta norm is... 6.149801154431422e-12
+it= 164  v= 268  epoch= 9  U_beta**2 sum is  7.615485131395872e-09  change of beta norm is... 1.713862558816448e-12
+it= 164  v= 268  epoch= 0  U_beta_til**2 sum is  2.750744581222534  change of beta_til norm is... 0.00014765895321033895
+it= 164  v= 268  epoch= 1  U_beta_til**2 sum is  0.028981739655137062  change of beta_til norm is... 4.628362148650922e-06
+it= 164  v= 268  epoch= 2  U_beta_til**2 sum is  0.0016491757705807686  change of beta_til norm is... 4.5935502157590236e-07
+it= 164  v= 268  epoch= 3  U_beta_til**2 sum is  0.0002002084511332214  change of beta_til norm is... 7.128276990897575e-08
+it= 164  v= 268  epoch= 4  U_beta_til**2 sum is  3.188713890267536e-05  change of beta_til norm is... 1.073364508386021e-08
+it= 164  v= 268  epoch= 5  U_beta_til**2 sum is  5.243950909061823e-06  change of beta_til norm is... 1.918247338750234e-09
+it= 164  v= 268  epoch= 6  U_beta_til**2 sum is  1.0341101415178855e-06  change of beta_til norm is... 3.3320432524241994e-10
+it= 164  v= 268  epoch= 7  U_beta_til**2 sum is  1.922495869166596e-07  change of beta_til norm is... 6.377794126155578e-11
+it= 164  v= 268  epoch= 8  U_beta_til**2 sum is  4.086455618335094e-08  change of beta_til norm is... 1.245153112561237e-11
+it= 164  v= 268  epoch= 9  U_beta_til**2 sum is  1.3437367663016175e-08  change of beta_til norm is... 2.7104336570299425e-12
+Computation Time for each row = 2.3329386711120605 sec
+it= 164  v= 269  epoch= 0  U_beta**2 sum is  0.19997058808803558  change of beta norm is... 0.0001249733177246526
+it= 164  v= 269  epoch= 1  U_beta**2 sum is  0.04254147782921791  change of beta norm is... 4.790572347701527e-06
+it= 164  v= 269  epoch= 2  U_beta**2 sum is  0.009711689315736294  change of beta norm is... 8.692138067090127e-07
+it= 164  v= 269  epoch= 3  U_beta**2 sum is  0.003447550581768155  change of beta norm is... 1.7292870779783698e-07
+it= 164  v= 269  epoch= 4  U_beta**2 sum is  0.0012204558588564396  change of beta norm is... 5.093262700484047e-08
+it= 164  v= 269  epoch= 5  U_beta**2 sum is  0.00042491094791330397  change of beta norm is... 1.648294656320104e-08
+it= 164  v= 269  epoch= 6  U_beta**2 sum is  0.0001752979151206091  change of beta norm is... 5.542833747540499e-09
+it= 164  v= 269  epoch= 7  U_beta**2 sum is  6.01073115831241e-05  change of beta norm is... 2.122856335162737e-09
+it= 164  v= 269  epoch= 8  U_beta**2 sum is  2.5919367544702254e-05  change of beta norm is... 7.531515411329792e-10
+it= 164  v= 269  epoch= 9  U_beta**2 sum is  9.07129651750438e-06  change of beta norm is... 3.010387772395262e-10
+it= 164  v= 269  epoch= 0  U_beta_til**2 sum is  0.6225734949111938  change of beta_til norm is... 0.0027494155801832676
+it= 164  v= 269  epoch= 1  U_beta_til**2 sum is  0.09063056111335754  change of beta_til norm is... 1.9503575458656996e-05
+it= 164  v= 269  epoch= 2  U_beta_til**2 sum is  0.02331201545894146  change of beta_til norm is... 6.049444436939666e-06
+it= 164  v= 269  epoch= 3  U_beta_til**2 sum is  0.0023146318271756172  change of beta_til norm is... 5.602054784503707e-07
+it= 164  v= 269  epoch= 4  U_beta_til**2 sum is  0.003197584766894579  change of beta_til norm is... 1.9437743503658567e-07
+it= 164  v= 269  epoch= 5  U_beta_til**2 sum is  0.00025307750911451876  change of beta_til norm is... 7.24349575875749e-08
+it= 164  v= 269  epoch= 6  U_beta_til**2 sum is  0.0005310322158038616  change of beta_til norm is... 2.3307190843979697e-08
+it= 164  v= 269  epoch= 7  U_beta_til**2 sum is  4.4802145566791296e-05  change of beta_til norm is... 1.2877086064122523e-08
+it= 164  v= 269  epoch= 8  U_beta_til**2 sum is  9.64122882578522e-05  change of beta_til norm is... 3.976082574297379e-09
+it= 164  v= 269  epoch= 9  U_beta_til**2 sum is  8.663369953865185e-06  change of beta_til norm is... 2.3753994327080363e-09
+Computation Time for each row = 2.6205806732177734 sec
+it= 164  v= 270  epoch= 0  U_beta**2 sum is  0.25097987055778503  change of beta norm is... 7.697769615333527e-05
+it= 164  v= 270  epoch= 1  U_beta**2 sum is  0.008506039157509804  change of beta norm is... 3.8961352402111515e-06
+it= 164  v= 270  epoch= 2  U_beta**2 sum is  0.0006645979592576623  change of beta norm is... 2.9633679332619067e-07
+it= 164  v= 270  epoch= 3  U_beta**2 sum is  6.826427852502093e-05  change of beta norm is... 2.989267144926089e-08
+it= 164  v= 270  epoch= 4  U_beta**2 sum is  6.732394922437379e-06  change of beta norm is... 3.353403332795324e-09
+it= 164  v= 270  epoch= 5  U_beta**2 sum is  1.2165149883003323e-06  change of beta norm is... 4.223111305101668e-10
+it= 164  v= 270  epoch= 6  U_beta**2 sum is  1.4083535404552094e-07  change of beta norm is... 5.693957111363446e-11
+it= 164  v= 270  epoch= 7  U_beta**2 sum is  3.581686058851119e-08  change of beta norm is... 7.902818156824143e-12
+it= 164  v= 270  epoch= 8  U_beta**2 sum is  9.278977586291148e-09  change of beta norm is... 1.1223504764457104e-12
+it= 164  v= 270  epoch= 9  U_beta**2 sum is  3.1782707576866187e-09  change of beta norm is... 2.3804379691363953e-13
+it= 164  v= 270  epoch= 0  U_beta_til**2 sum is  0.435123085975647  change of beta_til norm is... 6.14842283539474e-05
+it= 164  v= 270  epoch= 1  U_beta_til**2 sum is  0.022407691925764084  change of beta_til norm is... 3.822121925622923e-06
+it= 164  v= 270  epoch= 2  U_beta_til**2 sum is  0.003341857809573412  change of beta_til norm is... 4.1458045529907395e-07
+it= 164  v= 270  epoch= 3  U_beta_til**2 sum is  0.0005628240760415792  change of beta_til norm is... 7.408503677197587e-08
+it= 164  v= 270  epoch= 4  U_beta_til**2 sum is  0.00010643964924383909  change of beta_til norm is... 1.1521454013063703e-08
+it= 164  v= 270  epoch= 5  U_beta_til**2 sum is  2.0237279386492446e-05  change of beta_til norm is... 2.2038049163342066e-09
+it= 164  v= 270  epoch= 6  U_beta_til**2 sum is  4.076263394381385e-06  change of beta_til norm is... 3.846341023461264e-10
+it= 164  v= 270  epoch= 7  U_beta_til**2 sum is  7.217985853458231e-07  change of beta_til norm is... 7.31226537653562e-11
+it= 164  v= 270  epoch= 8  U_beta_til**2 sum is  1.523030874750475e-07  change of beta_til norm is... 1.3353484984435227e-11
+it= 164  v= 270  epoch= 9  U_beta_til**2 sum is  4.504995843035431e-08  change of beta_til norm is... 2.5742270728240646e-12
+Computation Time for each row = 2.351719379425049 sec
+it= 164  v= 271  epoch= 0  U_beta**2 sum is  3.034740924835205  change of beta norm is... 0.0006198796909302473
+it= 164  v= 271  epoch= 1  U_beta**2 sum is  0.01793203316628933  change of beta norm is... 1.1732945495168678e-05
+it= 164  v= 271  epoch= 2  U_beta**2 sum is  0.0012450589565560222  change of beta norm is... 7.010809781604621e-07
+it= 164  v= 271  epoch= 3  U_beta**2 sum is  9.434833918930963e-05  change of beta norm is... 8.81967423538299e-08
+it= 164  v= 271  epoch= 4  U_beta**2 sum is  1.3517411389329936e-05  change of beta norm is... 7.141728097792566e-09
+it= 164  v= 271  epoch= 5  U_beta**2 sum is  1.5554122683170135e-06  change of beta norm is... 8.966612452532274e-10
+it= 164  v= 271  epoch= 6  U_beta**2 sum is  2.0163952285656705e-07  change of beta norm is... 7.871592266894822e-11
+it= 164  v= 271  epoch= 7  U_beta**2 sum is  2.75039155894774e-07  change of beta norm is... 6.764178193258141e-12
+it= 164  v= 271  epoch= 8  U_beta**2 sum is  1.3013523414429073e-07  change of beta norm is... 1.9762082595353725e-12
+it= 164  v= 271  epoch= 9  U_beta**2 sum is  2.7027141413782374e-08  change of beta norm is... 1.285813035906136e-12
+Computation Time for each row = 2.2643275260925293 sec
+it= 164  v= 272  epoch= 0  U_beta**2 sum is  0.5228645205497742  change of beta norm is... 8.211418753489852e-05
+it= 164  v= 272  epoch= 1  U_beta**2 sum is  0.00277808029204607  change of beta norm is... 2.643930201884359e-06
+it= 164  v= 272  epoch= 2  U_beta**2 sum is  0.001435773796401918  change of beta norm is... 1.5284712162610958e-07
+it= 164  v= 272  epoch= 3  U_beta**2 sum is  4.178155359113589e-05  change of beta norm is... 2.1234004776715665e-08
+it= 164  v= 272  epoch= 4  U_beta**2 sum is  1.2558062735479325e-05  change of beta norm is... 2.4804518439225376e-09
+it= 164  v= 272  epoch= 5  U_beta**2 sum is  9.750284561960143e-07  change of beta norm is... 3.6870517750031695e-10
+it= 164  v= 272  epoch= 6  U_beta**2 sum is  1.8255602185490716e-07  change of beta norm is... 5.7542380582642494e-11
+it= 164  v= 272  epoch= 7  U_beta**2 sum is  2.8873849089450232e-08  change of beta norm is... 9.549850493728584e-12
+it= 164  v= 272  epoch= 8  U_beta**2 sum is  1.9396745543076577e-08  change of beta norm is... 2.47781049150797e-12
+it= 164  v= 272  epoch= 9  U_beta**2 sum is  5.899425836730643e-09  change of beta norm is... 7.905626023610446e-13
+it= 164  v= 272  epoch= 0  U_beta_til**2 sum is  0.23109804093837738  change of beta_til norm is... 4.8773345042718574e-05
+it= 164  v= 272  epoch= 1  U_beta_til**2 sum is  0.006491917185485363  change of beta_til norm is... 1.959261680894997e-06
+it= 164  v= 272  epoch= 2  U_beta_til**2 sum is  0.0006148627726361156  change of beta_til norm is... 3.3230458029720467e-07
+it= 164  v= 272  epoch= 3  U_beta_til**2 sum is  0.0002611468662507832  change of beta_til norm is... 4.4671235599480497e-08
+it= 164  v= 272  epoch= 4  U_beta_til**2 sum is  7.578416989417747e-05  change of beta_til norm is... 1.8439733295849692e-08
+it= 164  v= 272  epoch= 5  U_beta_til**2 sum is  4.64988625026308e-05  change of beta_til norm is... 6.823694498336863e-09
+it= 164  v= 272  epoch= 6  U_beta_til**2 sum is  2.2554322640644386e-05  change of beta_til norm is... 3.6985876583628396e-09
+it= 164  v= 272  epoch= 7  U_beta_til**2 sum is  1.2922932910441887e-05  change of beta_til norm is... 1.8970744974922127e-09
+it= 164  v= 272  epoch= 8  U_beta_til**2 sum is  6.943591870367527e-06  change of beta_til norm is... 1.044143216333282e-09
+it= 164  v= 272  epoch= 9  U_beta_til**2 sum is  3.879955784213962e-06  change of beta_til norm is... 5.753643672612441e-10
+Computation Time for each row = 2.3319039344787598 sec
+it= 164  v= 273  epoch= 0  U_beta**2 sum is  0.4575784504413605  change of beta norm is... 3.309142994112335e-05
+it= 164  v= 273  epoch= 1  U_beta**2 sum is  0.0012038368731737137  change of beta norm is... 2.453762135701254e-07
+it= 164  v= 273  epoch= 2  U_beta**2 sum is  5.424616756499745e-05  change of beta norm is... 7.497412468637776e-09
+it= 164  v= 273  epoch= 3  U_beta**2 sum is  3.000596734636929e-06  change of beta norm is... 2.0765450470250357e-10
+it= 164  v= 273  epoch= 4  U_beta**2 sum is  1.9635479020507773e-07  change of beta norm is... 1.0866821331667609e-11
+it= 164  v= 273  epoch= 5  U_beta**2 sum is  1.459693965699671e-08  change of beta norm is... 5.021556087614343e-13
+it= 164  v= 273  epoch= 6  U_beta**2 sum is  1.9982664412054874e-09  change of beta norm is... 6.911380240901335e-14
+it= 164  v= 273  epoch= 7  U_beta**2 sum is  9.10309783108687e-09  change of beta norm is... 3.59327422417427e-13
+it= 164  v= 273  epoch= 8  U_beta**2 sum is  9.897419772642024e-09  change of beta norm is... 4.939821880538264e-13
+it= 164  v= 273  epoch= 9  U_beta**2 sum is  8.368005843806259e-09  change of beta norm is... 4.309191892204467e-13
+it= 164  v= 273  epoch= 0  U_beta_til**2 sum is  0.3832206130027771  change of beta_til norm is... 3.885405749315396e-05
+it= 164  v= 273  epoch= 1  U_beta_til**2 sum is  0.007509758695960045  change of beta_til norm is... 4.5089149125487893e-07
+it= 164  v= 273  epoch= 2  U_beta_til**2 sum is  0.0003580101765692234  change of beta_til norm is... 2.0253732913033673e-08
+it= 164  v= 273  epoch= 3  U_beta_til**2 sum is  1.9523462469805963e-05  change of beta_til norm is... 1.127301252346058e-09
+it= 164  v= 273  epoch= 4  U_beta_til**2 sum is  1.151494643636397e-06  change of beta_til norm is... 7.135956409110022e-11
+it= 164  v= 273  epoch= 5  U_beta_til**2 sum is  7.271410140674561e-08  change of beta_til norm is... 4.603795643320918e-12
+it= 164  v= 273  epoch= 6  U_beta_til**2 sum is  3.877783427697068e-09  change of beta_til norm is... 4.3415829742085577e-13
+it= 164  v= 273  epoch= 7  U_beta_til**2 sum is  2.8432589616045334e-09  change of beta_til norm is... 9.14774712142824e-14
+it= 164  v= 273  epoch= 8  U_beta_til**2 sum is  2.487766437297978e-09  change of beta_til norm is... 6.028744127181684e-14
+it= 164  v= 273  epoch= 9  U_beta_til**2 sum is  4.687930044156019e-09  change of beta_til norm is... 6.214746463761509e-14
+Computation Time for each row = 2.4096145629882812 sec
+it= 164  v= 274  epoch= 0  U_beta**2 sum is  0.5731666088104248  change of beta norm is... 7.841912156436592e-05
+it= 164  v= 274  epoch= 1  U_beta**2 sum is  0.0016036134911701083  change of beta norm is... 6.542056780745042e-07
+it= 164  v= 274  epoch= 2  U_beta**2 sum is  0.00011474086932139471  change of beta norm is... 1.0598355970614648e-08
+it= 164  v= 274  epoch= 3  U_beta**2 sum is  8.981024279819394e-07  change of beta norm is... 3.38540306898949e-10
+it= 164  v= 274  epoch= 4  U_beta**2 sum is  4.113331186772484e-08  change of beta norm is... 8.78849510527191e-12
+it= 164  v= 274  epoch= 5  U_beta**2 sum is  2.5655424451542785e-09  change of beta norm is... 4.3625625572966953e-13
+it= 164  v= 274  epoch= 6  U_beta**2 sum is  1.7488419601363603e-09  change of beta norm is... 8.43576985066867e-14
+it= 164  v= 274  epoch= 7  U_beta**2 sum is  3.572992568479094e-09  change of beta norm is... 1.2232871508290055e-13
+it= 164  v= 274  epoch= 8  U_beta**2 sum is  3.161553685515628e-09  change of beta norm is... 5.971893986267407e-14
+it= 164  v= 274  epoch= 9  U_beta**2 sum is  1.9764847536407615e-09  change of beta norm is... 7.949003732804147e-14
+it= 164  v= 274  epoch= 0  U_beta_til**2 sum is  0.7283643484115601  change of beta_til norm is... 0.00014708199887536466
+it= 164  v= 274  epoch= 1  U_beta_til**2 sum is  0.006933351047337055  change of beta_til norm is... 1.1698712114593945e-06
+it= 164  v= 274  epoch= 2  U_beta_til**2 sum is  6.776959344279021e-05  change of beta_til norm is... 2.6775676786883196e-08
+it= 164  v= 274  epoch= 3  U_beta_til**2 sum is  2.0892573502351297e-06  change of beta_til norm is... 7.625381437392775e-10
+it= 164  v= 274  epoch= 4  U_beta_til**2 sum is  5.837986094547887e-08  change of beta_til norm is... 2.5674001119524448e-11
+it= 164  v= 274  epoch= 5  U_beta_til**2 sum is  1.3638821627637299e-08  change of beta_til norm is... 1.088146174728355e-12
+it= 164  v= 274  epoch= 6  U_beta_til**2 sum is  3.1058817739904043e-09  change of beta_til norm is... 1.5049181519011245e-13
+it= 164  v= 274  epoch= 7  U_beta_til**2 sum is  4.95289143032096e-09  change of beta_til norm is... 9.760391822023762e-14
+it= 164  v= 274  epoch= 8  U_beta_til**2 sum is  1.2800890125674869e-08  change of beta_til norm is... 1.361447169194105e-13
+it= 164  v= 274  epoch= 9  U_beta_til**2 sum is  5.84401949055291e-09  change of beta_til norm is... 8.18978267364337e-14
+Computation Time for each row = 2.396728515625 sec
+it= 164  v= 275  epoch= 0  U_beta**2 sum is  2.995281457901001  change of beta norm is... 0.013130415230989456
+it= 164  v= 275  epoch= 1  U_beta**2 sum is  0.01673385500907898  change of beta norm is... 2.6226432964904234e-05
+it= 164  v= 275  epoch= 2  U_beta**2 sum is  0.00017197590204887092  change of beta norm is... 6.275558348534105e-07
+it= 164  v= 275  epoch= 3  U_beta**2 sum is  5.957331268291455e-06  change of beta norm is... 1.7385549000437095e-08
+it= 164  v= 275  epoch= 4  U_beta**2 sum is  2.1051715748399147e-07  change of beta norm is... 3.8652578360220957e-10
+it= 164  v= 275  epoch= 5  U_beta**2 sum is  2.9541546098243998e-08  change of beta norm is... 2.6483648607467103e-11
+it= 164  v= 275  epoch= 6  U_beta**2 sum is  3.2622338608234713e-08  change of beta norm is... 9.224839859003908e-13
+it= 164  v= 275  epoch= 7  U_beta**2 sum is  1.633922579458158e-07  change of beta norm is... 6.042998133143351e-13
+it= 164  v= 275  epoch= 8  U_beta**2 sum is  1.9119463345873555e-08  change of beta norm is... 5.424482477783821e-13
+it= 164  v= 275  epoch= 9  U_beta**2 sum is  6.483108272448135e-09  change of beta norm is... 2.660027688568267e-13
+it= 164  v= 275  epoch= 0  U_beta_til**2 sum is  1.120633602142334  change of beta_til norm is... 0.0028913873247802258
+it= 164  v= 275  epoch= 1  U_beta_til**2 sum is  0.008899159729480743  change of beta_til norm is... 2.439070522086695e-05
+it= 164  v= 275  epoch= 2  U_beta_til**2 sum is  0.0002383022801950574  change of beta_til norm is... 8.637106247988413e-07
+it= 164  v= 275  epoch= 3  U_beta_til**2 sum is  2.9023260140093043e-05  change of beta_til norm is... 3.014996963202066e-08
+it= 164  v= 275  epoch= 4  U_beta_til**2 sum is  4.162944151175907e-06  change of beta_til norm is... 1.3702992074371423e-09
+it= 164  v= 275  epoch= 5  U_beta_til**2 sum is  1.3811110193273635e-06  change of beta_til norm is... 1.3756741579218357e-10
+it= 164  v= 275  epoch= 6  U_beta_til**2 sum is  4.568741758248507e-07  change of beta_til norm is... 4.120909863347677e-11
+it= 164  v= 275  epoch= 7  U_beta_til**2 sum is  1.8512504595946666e-07  change of beta_til norm is... 1.5995170465910036e-11
+it= 164  v= 275  epoch= 8  U_beta_til**2 sum is  5.215178333628501e-08  change of beta_til norm is... 5.525880968082486e-12
+it= 164  v= 275  epoch= 9  U_beta_til**2 sum is  1.6558038495873006e-08  change of beta_til norm is... 1.9013816129204164e-12
+Computation Time for each row = 2.366671323776245 sec
+it= 164  v= 276  epoch= 0  U_beta**2 sum is  0.39441198110580444  change of beta norm is... 9.230501018464565e-05
+it= 164  v= 276  epoch= 1  U_beta**2 sum is  0.01513157319277525  change of beta norm is... 3.5985931390314363e-06
+it= 164  v= 276  epoch= 2  U_beta**2 sum is  0.004173293709754944  change of beta norm is... 4.845168177780579e-07
+it= 164  v= 276  epoch= 3  U_beta**2 sum is  0.0005667960504069924  change of beta norm is... 7.667262025279342e-08
+it= 164  v= 276  epoch= 4  U_beta**2 sum is  0.00023218140995595604  change of beta norm is... 1.7714286926207023e-08
+it= 164  v= 276  epoch= 5  U_beta**2 sum is  2.689029133762233e-05  change of beta norm is... 3.161860773204239e-09
+it= 164  v= 276  epoch= 6  U_beta**2 sum is  1.1737295608327258e-05  change of beta norm is... 7.71096408946903e-10
+it= 164  v= 276  epoch= 7  U_beta**2 sum is  1.2676471214945195e-06  change of beta norm is... 1.4569508099970818e-10
+it= 164  v= 276  epoch= 8  U_beta**2 sum is  5.339227300282801e-07  change of beta norm is... 3.56426381464825e-11
+it= 164  v= 276  epoch= 9  U_beta**2 sum is  6.187556778058934e-08  change of beta norm is... 6.145289572351276e-12
+it= 164  v= 276  epoch= 0  U_beta_til**2 sum is  8.773542404174805  change of beta_til norm is... 6.473356916103512e-05
+it= 164  v= 276  epoch= 1  U_beta_til**2 sum is  0.017947107553482056  change of beta_til norm is... 2.097772721754154e-06
+it= 164  v= 276  epoch= 2  U_beta_til**2 sum is  0.00044842332135885954  change of beta_til norm is... 1.1749694550644563e-07
+it= 164  v= 276  epoch= 3  U_beta_til**2 sum is  3.676570486277342e-05  change of beta_til norm is... 1.118562131807721e-08
+it= 164  v= 276  epoch= 4  U_beta_til**2 sum is  3.581810005925945e-06  change of beta_til norm is... 1.2412995076260813e-09
+it= 164  v= 276  epoch= 5  U_beta_til**2 sum is  5.231094633018074e-07  change of beta_til norm is... 1.8205649487956777e-10
+it= 164  v= 276  epoch= 6  U_beta_til**2 sum is  7.372963750640338e-08  change of beta_til norm is... 2.976103391505447e-11
+it= 164  v= 276  epoch= 7  U_beta_til**2 sum is  2.7031578753167196e-08  change of beta_til norm is... 5.2602440632487646e-12
+it= 164  v= 276  epoch= 8  U_beta_til**2 sum is  3.6562495253633642e-09  change of beta_til norm is... 1.0913045640770225e-12
+it= 164  v= 276  epoch= 9  U_beta_til**2 sum is  1.7470906943373166e-09  change of beta_til norm is... 4.601267283854682e-13
+Computation Time for each row = 2.340489625930786 sec
+it= 164  v= 277  epoch= 0  U_beta**2 sum is  2.680084705352783  change of beta norm is... 0.001679317792877555
+it= 164  v= 277  epoch= 1  U_beta**2 sum is  2.1369519233703613  change of beta norm is... 0.00039083926822058856
+it= 164  v= 277  epoch= 2  U_beta**2 sum is  2.005244016647339  change of beta norm is... 0.0003418278065510094
+it= 164  v= 277  epoch= 3  U_beta**2 sum is  1.9449865818023682  change of beta norm is... 0.0003160653868690133
+it= 164  v= 277  epoch= 4  U_beta**2 sum is  1.734425663948059  change of beta norm is... 0.0002926732995547354
+it= 164  v= 277  epoch= 5  U_beta**2 sum is  1.6917893886566162  change of beta norm is... 0.0002737104659900069
+it= 164  v= 277  epoch= 6  U_beta**2 sum is  1.5098545551300049  change of beta norm is... 0.00025436957366764545
+it= 164  v= 277  epoch= 7  U_beta**2 sum is  1.469445824623108  change of beta norm is... 0.00023805232194717973
+it= 164  v= 277  epoch= 8  U_beta**2 sum is  1.3157672882080078  change of beta norm is... 0.00022138467465993017
+it= 164  v= 277  epoch= 9  U_beta**2 sum is  1.2773032188415527  change of beta norm is... 0.00020718193263746798
+it= 164  v= 277  epoch= 0  U_beta_til**2 sum is  0.29499495029449463  change of beta_til norm is... 7.168985030148178e-05
+it= 164  v= 277  epoch= 1  U_beta_til**2 sum is  0.008213532157242298  change of beta_til norm is... 1.6661113022564678e-06
+it= 164  v= 277  epoch= 2  U_beta_til**2 sum is  0.0016103399684652686  change of beta_til norm is... 2.0609579109986953e-07
+it= 164  v= 277  epoch= 3  U_beta_til**2 sum is  0.0002826090494636446  change of beta_til norm is... 3.986414043311015e-08
+it= 164  v= 277  epoch= 4  U_beta_til**2 sum is  5.936096567893401e-05  change of beta_til norm is... 7.777638089123684e-09
+it= 164  v= 277  epoch= 5  U_beta_til**2 sum is  1.0836089131771587e-05  change of beta_til norm is... 1.529892212914774e-09
+it= 164  v= 277  epoch= 6  U_beta_til**2 sum is  2.0720183329103747e-06  change of beta_til norm is... 2.9726304751065413e-10
+it= 164  v= 277  epoch= 7  U_beta_til**2 sum is  4.1914651660590607e-07  change of beta_til norm is... 6.627371568201923e-11
+it= 164  v= 277  epoch= 8  U_beta_til**2 sum is  1.0871276145962838e-07  change of beta_til norm is... 1.3783778805842584e-11
+it= 164  v= 277  epoch= 9  U_beta_til**2 sum is  2.9084166186521543e-08  change of beta_til norm is... 2.4889762560015294e-12
+Computation Time for each row = 2.3160555362701416 sec
+it= 164  v= 278  epoch= 0  U_beta**2 sum is  0.5999226570129395  change of beta norm is... 5.395089465309866e-05
+it= 164  v= 278  epoch= 1  U_beta**2 sum is  0.010983416810631752  change of beta norm is... 2.374919176872936e-06
+it= 164  v= 278  epoch= 2  U_beta**2 sum is  0.0030982301104813814  change of beta norm is... 3.6798704172724683e-07
+it= 164  v= 278  epoch= 3  U_beta**2 sum is  0.0005541829159483314  change of beta norm is... 6.433872812294794e-08
+it= 164  v= 278  epoch= 4  U_beta**2 sum is  0.00013719710113946348  change of beta norm is... 1.4625721078687093e-08
+it= 164  v= 278  epoch= 5  U_beta**2 sum is  3.2602521969238296e-05  change of beta norm is... 3.3434819357580636e-09
+it= 164  v= 278  epoch= 6  U_beta**2 sum is  8.104220796667505e-06  change of beta norm is... 7.890445519187494e-10
+it= 164  v= 278  epoch= 7  U_beta**2 sum is  2.053521484413068e-06  change of beta norm is... 1.8785910327334676e-10
+it= 164  v= 278  epoch= 8  U_beta**2 sum is  3.980490248522983e-07  change of beta norm is... 4.5778297819154545e-11
+it= 164  v= 278  epoch= 9  U_beta**2 sum is  1.593892449136547e-07  change of beta norm is... 1.096067160644143e-11
+it= 164  v= 278  epoch= 0  U_beta_til**2 sum is  1.5676567554473877  change of beta_til norm is... 0.00021617388119921088
+it= 164  v= 278  epoch= 1  U_beta_til**2 sum is  0.008194737136363983  change of beta_til norm is... 1.4652387108071707e-06
+it= 164  v= 278  epoch= 2  U_beta_til**2 sum is  0.0002962061553262174  change of beta_til norm is... 1.0350515822210582e-07
+it= 164  v= 278  epoch= 3  U_beta_til**2 sum is  3.343117350596003e-05  change of beta_til norm is... 5.549188664133453e-09
+it= 164  v= 278  epoch= 4  U_beta_til**2 sum is  3.0860744573146803e-06  change of beta_til norm is... 6.81655065726261e-10
+it= 164  v= 278  epoch= 5  U_beta_til**2 sum is  3.211187049600994e-07  change of beta_til norm is... 7.665459933470231e-11
+it= 164  v= 278  epoch= 6  U_beta_til**2 sum is  6.280091469079707e-08  change of beta_til norm is... 9.982308382672223e-12
+it= 164  v= 278  epoch= 7  U_beta_til**2 sum is  7.0817929298527815e-09  change of beta_til norm is... 1.4226252554455643e-12
+it= 164  v= 278  epoch= 8  U_beta_til**2 sum is  2.7143416403418996e-09  change of beta_til norm is... 3.0335269344226867e-13
+it= 164  v= 278  epoch= 9  U_beta_til**2 sum is  3.235486545349886e-09  change of beta_til norm is... 8.966318762763589e-14
+Computation Time for each row = 2.465163469314575 sec
+it= 164  v= 279  epoch= 0  U_beta**2 sum is  1.3109660148620605  change of beta norm is... 0.0009218899649567902
+it= 164  v= 279  epoch= 1  U_beta**2 sum is  0.001153195509687066  change of beta norm is... 1.1869876743730856e-06
+it= 164  v= 279  epoch= 2  U_beta**2 sum is  5.059859176981263e-05  change of beta norm is... 1.41865763580995e-08
+it= 164  v= 279  epoch= 3  U_beta**2 sum is  3.135847634894162e-07  change of beta norm is... 1.314564013199515e-10
+it= 164  v= 279  epoch= 4  U_beta**2 sum is  5.7141615883438135e-08  change of beta norm is... 2.935787897506703e-12
+it= 164  v= 279  epoch= 5  U_beta**2 sum is  1.2990069819807104e-07  change of beta norm is... 3.756156084951112e-13
+it= 164  v= 279  epoch= 6  U_beta**2 sum is  1.9335697487576908e-08  change of beta norm is... 2.2852173712367696e-13
+it= 164  v= 279  epoch= 7  U_beta**2 sum is  2.428799561471351e-08  change of beta norm is... 2.440892811223644e-13
+it= 164  v= 279  epoch= 8  U_beta**2 sum is  1.2190115583621264e-09  change of beta norm is... 4.099470871272992e-13
+it= 164  v= 279  epoch= 9  U_beta**2 sum is  5.840808725565694e-09  change of beta norm is... 1.6789765107730337e-13
+it= 164  v= 279  epoch= 0  U_beta_til**2 sum is  1.1711516380310059  change of beta_til norm is... 0.0012510656379163265
+it= 164  v= 279  epoch= 1  U_beta_til**2 sum is  0.004094525706022978  change of beta_til norm is... 1.1548207794476184e-06
+it= 164  v= 279  epoch= 2  U_beta_til**2 sum is  8.81936721270904e-05  change of beta_til norm is... 3.8360084886335244e-08
+it= 164  v= 279  epoch= 3  U_beta_til**2 sum is  1.7863354742075899e-06  change of beta_til norm is... 4.462307467978377e-10
+it= 164  v= 279  epoch= 4  U_beta_til**2 sum is  1.735325128038312e-07  change of beta_til norm is... 1.8252958172704226e-11
+it= 164  v= 279  epoch= 5  U_beta_til**2 sum is  7.874747609548649e-08  change of beta_til norm is... 1.3719505132653298e-12
+it= 164  v= 279  epoch= 6  U_beta_til**2 sum is  2.2702270285890336e-08  change of beta_til norm is... 1.4264425144544512e-12
+it= 164  v= 279  epoch= 7  U_beta_til**2 sum is  1.528017534724313e-08  change of beta_til norm is... 2.1590966048454924e-13
+it= 164  v= 279  epoch= 8  U_beta_til**2 sum is  8.204665391531307e-09  change of beta_til norm is... 7.329710297911129e-13
+it= 164  v= 279  epoch= 9  U_beta_til**2 sum is  3.0517831817178376e-08  change of beta_til norm is... 3.656463424140527e-13
+Computation Time for each row = 2.5068459510803223 sec
+it= 164  v= 280  epoch= 0  U_beta**2 sum is  1.1880362033843994  change of beta norm is... 2.2796186385676265e-05
+it= 164  v= 280  epoch= 1  U_beta**2 sum is  0.013153135776519775  change of beta norm is... 1.0235734180241707e-06
+it= 164  v= 280  epoch= 2  U_beta**2 sum is  0.002433696761727333  change of beta norm is... 6.272922092875888e-08
+it= 164  v= 280  epoch= 3  U_beta**2 sum is  3.989927427028306e-05  change of beta norm is... 8.834454945372272e-09
+it= 164  v= 280  epoch= 4  U_beta**2 sum is  2.3258118744706735e-05  change of beta norm is... 8.196932022030978e-10
+it= 164  v= 280  epoch= 5  U_beta**2 sum is  1.3891046819480835e-06  change of beta norm is... 1.3096680684387962e-10
+it= 164  v= 280  epoch= 6  U_beta**2 sum is  3.712051466209232e-07  change of beta norm is... 1.6763337246095134e-11
+it= 164  v= 280  epoch= 7  U_beta**2 sum is  7.903487642124674e-08  change of beta norm is... 2.443408756575005e-12
+it= 164  v= 280  epoch= 8  U_beta**2 sum is  1.240441704908335e-08  change of beta norm is... 6.477679178641671e-13
+it= 164  v= 280  epoch= 9  U_beta**2 sum is  1.1502594432499791e-08  change of beta norm is... 1.5073595041430188e-13
+it= 164  v= 280  epoch= 0  U_beta_til**2 sum is  0.3884515166282654  change of beta_til norm is... 2.4732527890591882e-05
+it= 164  v= 280  epoch= 1  U_beta_til**2 sum is  0.007631594780832529  change of beta_til norm is... 5.414445922724553e-07
+it= 164  v= 280  epoch= 2  U_beta_til**2 sum is  0.0012861371506005526  change of beta_til norm is... 8.143003071836574e-08
+it= 164  v= 280  epoch= 3  U_beta_til**2 sum is  0.00024313284666277468  change of beta_til norm is... 1.1863250826138483e-08
+it= 164  v= 280  epoch= 4  U_beta_til**2 sum is  5.0123868277296424e-05  change of beta_til norm is... 3.284214011856079e-09
+it= 164  v= 280  epoch= 5  U_beta_til**2 sum is  1.1361560609657317e-05  change of beta_til norm is... 5.9811944286281e-10
+it= 164  v= 280  epoch= 6  U_beta_til**2 sum is  2.720390739341383e-06  change of beta_til norm is... 1.57327678662611e-10
+it= 164  v= 280  epoch= 7  U_beta_til**2 sum is  4.982377959095174e-07  change of beta_til norm is... 3.1184665960637403e-11
+it= 164  v= 280  epoch= 8  U_beta_til**2 sum is  1.3153035638424626e-07  change of beta_til norm is... 8.092458127217927e-12
+it= 164  v= 280  epoch= 9  U_beta_til**2 sum is  7.137366253573418e-08  change of beta_til norm is... 1.6926790915097745e-12
+Computation Time for each row = 2.342811107635498 sec
+it= 164  v= 281  epoch= 0  U_beta**2 sum is  1.4869284629821777  change of beta norm is... 0.0001322622410953045
+it= 164  v= 281  epoch= 1  U_beta**2 sum is  0.0014375066384673119  change of beta norm is... 4.6660292696287797e-07
+it= 164  v= 281  epoch= 2  U_beta**2 sum is  2.486927405698225e-05  change of beta norm is... 3.1100341857381864e-08
+it= 164  v= 281  epoch= 3  U_beta**2 sum is  1.996550963667687e-06  change of beta norm is... 1.5179528745079551e-09
+it= 164  v= 281  epoch= 4  U_beta**2 sum is  1.7653408690421202e-07  change of beta norm is... 1.3689080424761357e-10
+it= 164  v= 281  epoch= 5  U_beta**2 sum is  3.0595526112620064e-08  change of beta norm is... 1.1322484616549389e-11
+it= 164  v= 281  epoch= 6  U_beta**2 sum is  7.996149520295148e-09  change of beta norm is... 1.2931981874242382e-12
+it= 164  v= 281  epoch= 7  U_beta**2 sum is  5.297512650770386e-09  change of beta norm is... 3.133331268057038e-13
+it= 164  v= 281  epoch= 8  U_beta**2 sum is  1.2263022597380768e-08  change of beta norm is... 1.4810437490124506e-13
+it= 164  v= 281  epoch= 9  U_beta**2 sum is  1.1195169236088987e-08  change of beta norm is... 1.3319881764402297e-13
+it= 164  v= 281  epoch= 0  U_beta_til**2 sum is  2.191840887069702  change of beta_til norm is... 0.00014428951544687152
+it= 164  v= 281  epoch= 1  U_beta_til**2 sum is  0.02513795904815197  change of beta_til norm is... 3.0289973437902518e-05
+it= 164  v= 281  epoch= 2  U_beta_til**2 sum is  0.003289510728791356  change of beta_til norm is... 2.1121354620845523e-06
+it= 164  v= 281  epoch= 3  U_beta_til**2 sum is  0.0002591446682345122  change of beta_til norm is... 2.65868948190473e-07
+it= 164  v= 281  epoch= 4  U_beta_til**2 sum is  3.0635470466222614e-05  change of beta_til norm is... 2.483121974705682e-08
+it= 164  v= 281  epoch= 5  U_beta_til**2 sum is  3.069135800615186e-06  change of beta_til norm is... 2.7560682624994115e-09
+it= 164  v= 281  epoch= 6  U_beta_til**2 sum is  3.389218932170479e-07  change of beta_til norm is... 2.6686924892160846e-10
+it= 164  v= 281  epoch= 7  U_beta_til**2 sum is  4.5341892018768704e-08  change of beta_til norm is... 2.913770613677258e-11
+it= 164  v= 281  epoch= 8  U_beta_til**2 sum is  7.105808386143053e-09  change of beta_til norm is... 5.667639101092359e-12
+it= 164  v= 281  epoch= 9  U_beta_til**2 sum is  1.172766417312232e-08  change of beta_til norm is... 7.930619594191668e-13
+Computation Time for each row = 2.4946603775024414 sec
+it= 164  v= 282  epoch= 0  U_beta**2 sum is  0.5907348394393921  change of beta norm is... 3.617151378421113e-05
+it= 164  v= 282  epoch= 1  U_beta**2 sum is  0.005198716651648283  change of beta norm is... 1.112891595766996e-06
+it= 164  v= 282  epoch= 2  U_beta**2 sum is  0.00024133916303981096  change of beta norm is... 6.572810207217117e-08
+it= 164  v= 282  epoch= 3  U_beta**2 sum is  1.848044848884456e-05  change of beta norm is... 6.074690972468488e-09
+it= 164  v= 282  epoch= 4  U_beta**2 sum is  1.7710301563056419e-06  change of beta norm is... 6.30996033201825e-10
+it= 164  v= 282  epoch= 5  U_beta**2 sum is  2.0153565571945364e-07  change of beta norm is... 7.238986493574018e-11
+it= 164  v= 282  epoch= 6  U_beta**2 sum is  2.082744998688213e-08  change of beta norm is... 8.646900903630517e-12
+it= 164  v= 282  epoch= 7  U_beta**2 sum is  3.126014558318957e-09  change of beta norm is... 1.0115642047961448e-12
+it= 164  v= 282  epoch= 8  U_beta**2 sum is  3.0860660693576847e-09  change of beta norm is... 1.9002117587763045e-13
+it= 164  v= 282  epoch= 9  U_beta**2 sum is  2.7311297667864665e-09  change of beta norm is... 1.1855693835514935e-13
+it= 164  v= 282  epoch= 0  U_beta_til**2 sum is  0.22783292829990387  change of beta_til norm is... 9.28061199374497e-05
+it= 164  v= 282  epoch= 1  U_beta_til**2 sum is  0.007815079763531685  change of beta_til norm is... 1.0838371053978335e-06
+it= 164  v= 282  epoch= 2  U_beta_til**2 sum is  0.00032482005190104246  change of beta_til norm is... 1.109383021002941e-07
+it= 164  v= 282  epoch= 3  U_beta_til**2 sum is  6.034507532604039e-05  change of beta_til norm is... 6.040000499751841e-09
+it= 164  v= 282  epoch= 4  U_beta_til**2 sum is  3.1328838758781785e-06  change of beta_til norm is... 9.219768837276376e-10
+it= 164  v= 282  epoch= 5  U_beta_til**2 sum is  6.886847359055537e-07  change of beta_til norm is... 7.300049453817792e-11
+it= 164  v= 282  epoch= 6  U_beta_til**2 sum is  5.2322484123124013e-08  change of beta_til norm is... 1.1892498270882346e-11
+it= 164  v= 282  epoch= 7  U_beta_til**2 sum is  1.4000881343179117e-08  change of beta_til norm is... 1.4986324898061398e-12
+it= 164  v= 282  epoch= 8  U_beta_til**2 sum is  4.59279370090826e-09  change of beta_til norm is... 2.752050974261233e-13
+it= 164  v= 282  epoch= 9  U_beta_til**2 sum is  1.919461478649964e-09  change of beta_til norm is... 1.2774655465397355e-13
+Computation Time for each row = 2.4158008098602295 sec
+it= 164  v= 283  epoch= 0  U_beta**2 sum is  2.628105640411377  change of beta norm is... 0.00033836017246358097
+it= 164  v= 283  epoch= 1  U_beta**2 sum is  0.0842137560248375  change of beta norm is... 6.555204890901223e-06
+it= 164  v= 283  epoch= 2  U_beta**2 sum is  0.030821485444903374  change of beta norm is... 7.497213232454669e-07
+it= 164  v= 283  epoch= 3  U_beta**2 sum is  0.004538756795227528  change of beta norm is... 1.73797729985381e-07
+it= 164  v= 283  epoch= 4  U_beta**2 sum is  0.0011508315801620483  change of beta norm is... 3.070436349617012e-08
+it= 164  v= 283  epoch= 5  U_beta**2 sum is  0.00021712988382205367  change of beta norm is... 7.3225630004003506e-09
+it= 164  v= 283  epoch= 6  U_beta**2 sum is  4.8942692956188694e-05  change of beta norm is... 1.4746062149129102e-09
+it= 164  v= 283  epoch= 7  U_beta**2 sum is  9.889412467600778e-06  change of beta norm is... 3.280306581920911e-10
+it= 164  v= 283  epoch= 8  U_beta**2 sum is  2.2470690055342857e-06  change of beta norm is... 7.239160659811006e-11
+it= 164  v= 283  epoch= 9  U_beta**2 sum is  3.80521214538021e-07  change of beta norm is... 1.5326077212884925e-11
+it= 164  v= 283  epoch= 0  U_beta_til**2 sum is  3.5670742988586426  change of beta_til norm is... 0.002437310293316841
+it= 164  v= 283  epoch= 1  U_beta_til**2 sum is  0.017781266942620277  change of beta_til norm is... 7.87470162322279e-06
+it= 164  v= 283  epoch= 2  U_beta_til**2 sum is  0.0022756613325327635  change of beta_til norm is... 4.041344709548866e-06
+it= 164  v= 283  epoch= 3  U_beta_til**2 sum is  0.00018689868738874793  change of beta_til norm is... 1.2678378880082164e-07
+it= 164  v= 283  epoch= 4  U_beta_til**2 sum is  2.1184341676416807e-05  change of beta_til norm is... 3.404486648150851e-08
+it= 164  v= 283  epoch= 5  U_beta_til**2 sum is  2.955914396807202e-06  change of beta_til norm is... 1.959550299801549e-09
+it= 164  v= 283  epoch= 6  U_beta_til**2 sum is  3.323932560306275e-07  change of beta_til norm is... 3.9845404753435787e-10
+it= 164  v= 283  epoch= 7  U_beta_til**2 sum is  1.2091075518583239e-07  change of beta_til norm is... 3.872221293610423e-11
+it= 164  v= 283  epoch= 8  U_beta_til**2 sum is  1.2123893000648422e-08  change of beta_til norm is... 5.990562646635e-12
+it= 164  v= 283  epoch= 9  U_beta_til**2 sum is  1.8735999418595384e-08  change of beta_til norm is... 9.595705306730817e-13
+Computation Time for each row = 2.3533732891082764 sec
+it= 164  v= 284  epoch= 0  U_beta**2 sum is  1.9876731634140015  change of beta norm is... 0.0033907797187566757
+it= 164  v= 284  epoch= 1  U_beta**2 sum is  0.04460742324590683  change of beta norm is... 1.0197723895544186e-05
+it= 164  v= 284  epoch= 2  U_beta**2 sum is  0.000749028695281595  change of beta norm is... 8.21503306269733e-07
+it= 164  v= 284  epoch= 3  U_beta**2 sum is  6.258006033021957e-05  change of beta norm is... 1.5419701071550662e-08
+it= 164  v= 284  epoch= 4  U_beta**2 sum is  2.3275920284504537e-06  change of beta norm is... 8.657841110704112e-10
+it= 164  v= 284  epoch= 5  U_beta**2 sum is  1.536303244620285e-07  change of beta norm is... 3.411253224339106e-11
+it= 164  v= 284  epoch= 6  U_beta**2 sum is  2.1496147084576478e-08  change of beta norm is... 3.90718360443465e-12
+it= 164  v= 284  epoch= 7  U_beta**2 sum is  5.167925198890089e-09  change of beta norm is... 4.996133715073903e-13
+it= 164  v= 284  epoch= 8  U_beta**2 sum is  1.1585878922915072e-08  change of beta norm is... 1.5806681050861693e-13
+it= 164  v= 284  epoch= 9  U_beta**2 sum is  5.639281042135735e-09  change of beta norm is... 2.5050193039680146e-13
+it= 164  v= 284  epoch= 0  U_beta_til**2 sum is  0.151283860206604  change of beta_til norm is... 0.0006299571832641959
+it= 164  v= 284  epoch= 1  U_beta_til**2 sum is  0.0026765773072838783  change of beta_til norm is... 1.1770765695473528e-06
+it= 164  v= 284  epoch= 2  U_beta_til**2 sum is  4.7222078137565404e-05  change of beta_til norm is... 7.879450691916645e-08
+it= 164  v= 284  epoch= 3  U_beta_til**2 sum is  2.420500777589041e-06  change of beta_til norm is... 1.5151881971320336e-09
+it= 164  v= 284  epoch= 4  U_beta_til**2 sum is  6.341203118154226e-08  change of beta_til norm is... 9.790449007063273e-11
+it= 164  v= 284  epoch= 5  U_beta_til**2 sum is  6.959870013645286e-09  change of beta_til norm is... 3.7184964309100454e-12
+it= 164  v= 284  epoch= 6  U_beta_til**2 sum is  1.1969088831165209e-08  change of beta_til norm is... 2.2037826750108402e-13
+it= 164  v= 284  epoch= 7  U_beta_til**2 sum is  9.787818555651029e-09  change of beta_til norm is... 9.530772709671204e-14
+it= 164  v= 284  epoch= 8  U_beta_til**2 sum is  7.267648705067131e-09  change of beta_til norm is... 7.755829398853331e-14
+it= 164  v= 284  epoch= 9  U_beta_til**2 sum is  2.5516877499853763e-09  change of beta_til norm is... 7.434317376119048e-14
+Computation Time for each row = 2.353823661804199 sec
+it= 164  v= 285  epoch= 0  U_beta**2 sum is  0.5024534463882446  change of beta norm is... 5.776470061391592e-05
+it= 164  v= 285  epoch= 1  U_beta**2 sum is  0.002352345734834671  change of beta norm is... 6.372044936142629e-07
+it= 164  v= 285  epoch= 2  U_beta**2 sum is  5.837887874804437e-05  change of beta norm is... 1.4575666895666473e-08
+it= 164  v= 285  epoch= 3  U_beta**2 sum is  1.1695076409523608e-06  change of beta norm is... 4.652992158238334e-10
+it= 164  v= 285  epoch= 4  U_beta**2 sum is  3.2118677495418524e-08  change of beta norm is... 1.60975746621439e-11
+it= 164  v= 285  epoch= 5  U_beta**2 sum is  3.2240315306353295e-08  change of beta norm is... 7.077131849303475e-13
+it= 164  v= 285  epoch= 6  U_beta**2 sum is  9.943841305926071e-10  change of beta norm is... 1.2852457813294915e-13
+it= 164  v= 285  epoch= 7  U_beta**2 sum is  3.3684326439242795e-09  change of beta norm is... 1.2862509722686571e-13
+it= 164  v= 285  epoch= 8  U_beta**2 sum is  3.155413708100241e-09  change of beta norm is... 1.7450751672691556e-13
+it= 164  v= 285  epoch= 9  U_beta**2 sum is  9.695483527139004e-09  change of beta norm is... 1.0536148640832507e-13
+it= 164  v= 285  epoch= 0  U_beta_til**2 sum is  0.931667685508728  change of beta_til norm is... 5.206075729802251e-05
+it= 164  v= 285  epoch= 1  U_beta_til**2 sum is  0.003391050500795245  change of beta_til norm is... 5.153769961907528e-07
+it= 164  v= 285  epoch= 2  U_beta_til**2 sum is  0.00014945666771382093  change of beta_til norm is... 2.3357785039479495e-08
+it= 164  v= 285  epoch= 3  U_beta_til**2 sum is  2.419406700937543e-05  change of beta_til norm is... 3.0047293542168063e-09
+it= 164  v= 285  epoch= 4  U_beta_til**2 sum is  3.991284756921232e-06  change of beta_til norm is... 5.147609005717868e-10
+it= 164  v= 285  epoch= 5  U_beta_til**2 sum is  7.708400175943098e-07  change of beta_til norm is... 9.126268490922129e-11
+it= 164  v= 285  epoch= 6  U_beta_til**2 sum is  1.7941506769147963e-07  change of beta_til norm is... 1.6844234340673836e-11
+it= 164  v= 285  epoch= 7  U_beta_til**2 sum is  3.606558962587769e-08  change of beta_til norm is... 3.092112069863484e-12
+it= 164  v= 285  epoch= 8  U_beta_til**2 sum is  3.195650322140864e-08  change of beta_til norm is... 8.507672647969922e-13
+it= 164  v= 285  epoch= 9  U_beta_til**2 sum is  1.5290702037873416e-08  change of beta_til norm is... 3.509871158904193e-13
+Computation Time for each row = 2.5706980228424072 sec
+it= 164  v= 286  epoch= 0  U_beta**2 sum is  1.0898263454437256  change of beta norm is... 0.0001048460544552654
+it= 164  v= 286  epoch= 1  U_beta**2 sum is  0.013106664642691612  change of beta norm is... 2.731642325670691e-06
+it= 164  v= 286  epoch= 2  U_beta**2 sum is  0.0009638789924792945  change of beta norm is... 2.554164666435099e-07
+it= 164  v= 286  epoch= 3  U_beta**2 sum is  9.432326623937115e-05  change of beta norm is... 2.0740156259080322e-08
+it= 164  v= 286  epoch= 4  U_beta**2 sum is  1.5721565432613716e-05  change of beta norm is... 3.1552038759485868e-09
+it= 164  v= 286  epoch= 5  U_beta**2 sum is  1.852288619375031e-06  change of beta norm is... 3.803144466019148e-10
+it= 164  v= 286  epoch= 6  U_beta**2 sum is  3.596617546008929e-07  change of beta norm is... 6.761297771662456e-11
+it= 164  v= 286  epoch= 7  U_beta**2 sum is  4.1249144544508454e-08  change of beta norm is... 8.964167082237129e-12
+it= 164  v= 286  epoch= 8  U_beta**2 sum is  1.580029973524688e-08  change of beta norm is... 1.755304668976665e-12
+it= 164  v= 286  epoch= 9  U_beta**2 sum is  9.555919611159425e-09  change of beta norm is... 3.5040706772813957e-13
+it= 164  v= 286  epoch= 0  U_beta_til**2 sum is  0.6241105198860168  change of beta_til norm is... 3.7841633456991985e-05
+it= 164  v= 286  epoch= 1  U_beta_til**2 sum is  0.01884889043867588  change of beta_til norm is... 2.1018147435825085e-06
+it= 164  v= 286  epoch= 2  U_beta_til**2 sum is  0.002922236919403076  change of beta_til norm is... 4.4631221385316167e-07
+it= 164  v= 286  epoch= 3  U_beta_til**2 sum is  0.001558587420731783  change of beta_til norm is... 1.620712879457642e-07
+it= 164  v= 286  epoch= 4  U_beta_til**2 sum is  0.000549890217371285  change of beta_til norm is... 7.067990281939274e-08
+it= 164  v= 286  epoch= 5  U_beta_til**2 sum is  0.0002425604616291821  change of beta_til norm is... 2.8743748714532558e-08
+it= 164  v= 286  epoch= 6  U_beta_til**2 sum is  9.76128940237686e-05  change of beta_til norm is... 1.2221439860127248e-08
+it= 164  v= 286  epoch= 7  U_beta_til**2 sum is  4.127567444811575e-05  change of beta_til norm is... 5.053023777179533e-09
+it= 164  v= 286  epoch= 8  U_beta_til**2 sum is  1.7135937014245428e-05  change of beta_til norm is... 2.1293957708223843e-09
+it= 164  v= 286  epoch= 9  U_beta_til**2 sum is  7.039751380943926e-06  change of beta_til norm is... 8.852782396040482e-10
+Computation Time for each row = 2.4102396965026855 sec
+it= 164  v= 287  epoch= 0  U_beta**2 sum is  1.1112865209579468  change of beta norm is... 0.00018917508714366704
+it= 164  v= 287  epoch= 1  U_beta**2 sum is  0.0010368620278313756  change of beta norm is... 4.0056039551927825e-07
+it= 164  v= 287  epoch= 2  U_beta**2 sum is  4.2058083636220545e-05  change of beta norm is... 3.623670252750344e-09
+it= 164  v= 287  epoch= 3  U_beta**2 sum is  2.982298781262216e-07  change of beta norm is... 1.26382793119717e-10
+it= 164  v= 287  epoch= 4  U_beta**2 sum is  4.010298937373591e-08  change of beta norm is... 3.148822348697511e-12
+it= 164  v= 287  epoch= 5  U_beta**2 sum is  3.0515430182731507e-09  change of beta norm is... 4.576941039710625e-13
+it= 164  v= 287  epoch= 6  U_beta**2 sum is  1.5332286551483776e-08  change of beta norm is... 2.8104330928452326e-13
+it= 164  v= 287  epoch= 7  U_beta**2 sum is  2.720408964762555e-08  change of beta norm is... 2.76196573207807e-13
+it= 164  v= 287  epoch= 8  U_beta**2 sum is  1.6338344011046502e-09  change of beta norm is... 1.4067374110200703e-13
+it= 164  v= 287  epoch= 9  U_beta**2 sum is  3.332160547486751e-09  change of beta norm is... 1.704510827187783e-13
+it= 164  v= 287  epoch= 0  U_beta_til**2 sum is  2.4078283309936523  change of beta_til norm is... 0.0017089247703552246
+it= 164  v= 287  epoch= 1  U_beta_til**2 sum is  0.0034878645092248917  change of beta_til norm is... 6.514213055197615e-06
+it= 164  v= 287  epoch= 2  U_beta_til**2 sum is  0.00014882537652738392  change of beta_til norm is... 3.9024541820253944e-07
+it= 164  v= 287  epoch= 3  U_beta_til**2 sum is  4.41048905486241e-06  change of beta_til norm is... 1.2479107525109612e-08
+it= 164  v= 287  epoch= 4  U_beta_til**2 sum is  5.183921416573867e-07  change of beta_til norm is... 6.470307623018812e-10
+it= 164  v= 287  epoch= 5  U_beta_til**2 sum is  2.5582092888498664e-08  change of beta_til norm is... 4.010043685997999e-11
+it= 164  v= 287  epoch= 6  U_beta_til**2 sum is  4.2592244398065304e-08  change of beta_til norm is... 4.949861701075697e-12
+it= 164  v= 287  epoch= 7  U_beta_til**2 sum is  2.7526862567128774e-08  change of beta_til norm is... 3.772270039739678e-13
+it= 164  v= 287  epoch= 8  U_beta_til**2 sum is  4.251860197257429e-09  change of beta_til norm is... 4.4933111051359553e-13
+it= 164  v= 287  epoch= 9  U_beta_til**2 sum is  8.48597370151083e-09  change of beta_til norm is... 2.0317195191868476e-13
+Computation Time for each row = 2.4849109649658203 sec
+it= 164  v= 288  epoch= 0  U_beta**2 sum is  0.5117435455322266  change of beta norm is... 3.40712649631314e-05
+it= 164  v= 288  epoch= 1  U_beta**2 sum is  0.0019480411428958178  change of beta norm is... 5.735264494433068e-07
+it= 164  v= 288  epoch= 2  U_beta**2 sum is  7.688764890190214e-05  change of beta norm is... 1.451297482191194e-08
+it= 164  v= 288  epoch= 3  U_beta**2 sum is  1.2271270861674566e-06  change of beta norm is... 7.028062576353022e-10
+it= 164  v= 288  epoch= 4  U_beta**2 sum is  6.533726093493897e-08  change of beta norm is... 3.600224285360554e-11
+it= 164  v= 288  epoch= 5  U_beta**2 sum is  2.0180983995032875e-08  change of beta norm is... 2.1419803864636267e-12
+it= 164  v= 288  epoch= 6  U_beta**2 sum is  5.7760729532674304e-09  change of beta norm is... 1.8258803486086855e-13
+it= 164  v= 288  epoch= 7  U_beta**2 sum is  6.023817000766485e-09  change of beta norm is... 1.1776651431382595e-13
+it= 164  v= 288  epoch= 8  U_beta**2 sum is  3.400226766814285e-09  change of beta norm is... 2.2315047758843937e-13
+it= 164  v= 288  epoch= 9  U_beta**2 sum is  2.99595690478327e-08  change of beta norm is... 3.141723534973162e-13
+it= 164  v= 288  epoch= 0  U_beta_til**2 sum is  0.517754852771759  change of beta_til norm is... 6.064958870410919e-05
+it= 164  v= 288  epoch= 1  U_beta_til**2 sum is  0.0021991203539073467  change of beta_til norm is... 9.810414667299483e-07
+it= 164  v= 288  epoch= 2  U_beta_til**2 sum is  0.00011907730367965996  change of beta_til norm is... 2.6255957408238828e-08
+it= 164  v= 288  epoch= 3  U_beta_til**2 sum is  4.727049599750899e-06  change of beta_til norm is... 1.552685424677236e-09
+it= 164  v= 288  epoch= 4  U_beta_til**2 sum is  2.8410639174580865e-07  change of beta_til norm is... 9.051707994256475e-11
+it= 164  v= 288  epoch= 5  U_beta_til**2 sum is  2.1115289072781707e-08  change of beta_til norm is... 6.829204736436001e-12
+it= 164  v= 288  epoch= 6  U_beta_til**2 sum is  1.6640324673744544e-09  change of beta_til norm is... 5.639666251361364e-13
+it= 164  v= 288  epoch= 7  U_beta_til**2 sum is  2.5246515988897045e-09  change of beta_til norm is... 9.372300976756218e-14
+it= 164  v= 288  epoch= 8  U_beta_til**2 sum is  3.4436578033592014e-09  change of beta_til norm is... 1.0765137560672308e-13
+it= 164  v= 288  epoch= 9  U_beta_til**2 sum is  5.469946273706228e-09  change of beta_til norm is... 1.849003399391827e-13
+Computation Time for each row = 2.3439362049102783 sec
+Computation Time for each row = 2.2671959400177 sec
+it= 164  v= 290  epoch= 0  U_beta**2 sum is  0.42392241954803467  change of beta norm is... 0.0005006003193557262
+it= 164  v= 290  epoch= 1  U_beta**2 sum is  0.012946084141731262  change of beta norm is... 1.5431423889822327e-06
+it= 164  v= 290  epoch= 2  U_beta**2 sum is  0.0003182336804457009  change of beta norm is... 7.320617356754155e-08
+it= 164  v= 290  epoch= 3  U_beta**2 sum is  3.1141320505412295e-05  change of beta norm is... 1.7444552469214614e-08
+it= 164  v= 290  epoch= 4  U_beta**2 sum is  2.8215281417942606e-06  change of beta norm is... 2.5025714833759594e-09
+it= 164  v= 290  epoch= 5  U_beta**2 sum is  4.694543065397738e-07  change of beta norm is... 4.2108783127048355e-10
+it= 164  v= 290  epoch= 6  U_beta**2 sum is  1.1708881686445238e-07  change of beta norm is... 7.819626196559071e-11
+it= 164  v= 290  epoch= 7  U_beta**2 sum is  5.36522719585264e-08  change of beta norm is... 1.6352698709032332e-11
+it= 164  v= 290  epoch= 8  U_beta**2 sum is  2.2605753713378363e-08  change of beta norm is... 4.688304865857473e-12
+it= 164  v= 290  epoch= 9  U_beta**2 sum is  6.176308353644799e-09  change of beta norm is... 1.9385751684475316e-12
+it= 164  v= 290  epoch= 0  U_beta_til**2 sum is  0.7137434482574463  change of beta_til norm is... 0.00041124765994027257
+it= 164  v= 290  epoch= 1  U_beta_til**2 sum is  0.0028284541331231594  change of beta_til norm is... 8.182738042705751e-07
+it= 164  v= 290  epoch= 2  U_beta_til**2 sum is  0.0001240068522747606  change of beta_til norm is... 4.080968096786819e-08
+it= 164  v= 290  epoch= 3  U_beta_til**2 sum is  3.0981282179709524e-05  change of beta_til norm is... 4.393866603891183e-09
+it= 164  v= 290  epoch= 4  U_beta_til**2 sum is  3.855179329548264e-06  change of beta_til norm is... 1.011653316673744e-09
+it= 164  v= 290  epoch= 5  U_beta_til**2 sum is  9.316104296885896e-07  change of beta_til norm is... 2.107661267736205e-10
+it= 164  v= 290  epoch= 6  U_beta_til**2 sum is  1.6094405452804494e-07  change of beta_til norm is... 5.315489021162634e-11
+it= 164  v= 290  epoch= 7  U_beta_til**2 sum is  5.982988682262658e-08  change of beta_til norm is... 1.794255716225379e-11
+it= 164  v= 290  epoch= 8  U_beta_til**2 sum is  5.4684182515529756e-08  change of beta_til norm is... 8.69702400374539e-12
+it= 164  v= 290  epoch= 9  U_beta_til**2 sum is  2.4060188508201463e-08  change of beta_til norm is... 3.53552929120704e-12
+Computation Time for each row = 2.373159885406494 sec
+it= 164  v= 291  epoch= 0  U_beta**2 sum is  21.157821655273438  change of beta norm is... 0.010093973949551582
+it= 164  v= 291  epoch= 1  U_beta**2 sum is  21.991106033325195  change of beta norm is... 0.009491044096648693
+it= 164  v= 291  epoch= 2  U_beta**2 sum is  18.530513763427734  change of beta norm is... 0.009100442752242088
+it= 164  v= 291  epoch= 3  U_beta**2 sum is  20.546913146972656  change of beta norm is... 0.008943052962422371
+it= 164  v= 291  epoch= 4  U_beta**2 sum is  17.594871520996094  change of beta norm is... 0.008665242232382298
+it= 164  v= 291  epoch= 5  U_beta**2 sum is  19.493663787841797  change of beta norm is... 0.008518397808074951
+it= 164  v= 291  epoch= 6  U_beta**2 sum is  16.80274200439453  change of beta norm is... 0.008277812972664833
+it= 164  v= 291  epoch= 7  U_beta**2 sum is  18.593942642211914  change of beta norm is... 0.008147276937961578
+it= 164  v= 291  epoch= 8  U_beta**2 sum is  16.110389709472656  change of beta norm is... 0.007937191054224968
+it= 164  v= 291  epoch= 9  U_beta**2 sum is  17.80826187133789  change of beta norm is... 0.007821070961654186
+it= 164  v= 291  epoch= 0  U_beta_til**2 sum is  59.25082015991211  change of beta_til norm is... 0.018032154068350792
+it= 164  v= 291  epoch= 1  U_beta_til**2 sum is  75.07079315185547  change of beta_til norm is... 0.018224535509943962
+it= 164  v= 291  epoch= 2  U_beta_til**2 sum is  55.67449951171875  change of beta_til norm is... 0.01798090524971485
+it= 164  v= 291  epoch= 3  U_beta_til**2 sum is  73.55786895751953  change of beta_til norm is... 0.017920957878232002
+it= 164  v= 291  epoch= 4  U_beta_til**2 sum is  54.98892593383789  change of beta_til norm is... 0.01778973639011383
+it= 164  v= 291  epoch= 5  U_beta_til**2 sum is  72.75660705566406  change of beta_til norm is... 0.01774759404361248
+it= 164  v= 291  epoch= 6  U_beta_til**2 sum is  54.625125885009766  change of beta_til norm is... 0.017668025568127632
+it= 164  v= 291  epoch= 7  U_beta_til**2 sum is  72.27569580078125  change of beta_til norm is... 0.01764102466404438
+it= 164  v= 291  epoch= 8  U_beta_til**2 sum is  54.40202331542969  change of beta_til norm is... 0.017590833827853203
+it= 164  v= 291  epoch= 9  U_beta_til**2 sum is  71.97402954101562  change of beta_til norm is... 0.01757361739873886
+Computation Time for each row = 2.4564576148986816 sec
+it= 164  v= 292  epoch= 0  U_beta**2 sum is  0.35988911986351013  change of beta norm is... 0.00044417273602448404
+it= 164  v= 292  epoch= 1  U_beta**2 sum is  0.01082991436123848  change of beta norm is... 4.319698746257927e-06
+it= 164  v= 292  epoch= 2  U_beta**2 sum is  0.0018644779920578003  change of beta norm is... 3.0757493618693843e-07
+it= 164  v= 292  epoch= 3  U_beta**2 sum is  0.00018240358622279018  change of beta norm is... 8.832670062020043e-08
+it= 164  v= 292  epoch= 4  U_beta**2 sum is  2.707247404032387e-05  change of beta norm is... 1.1000754973622406e-08
+it= 164  v= 292  epoch= 5  U_beta**2 sum is  3.6156066016701516e-06  change of beta norm is... 1.839963736927075e-09
+it= 164  v= 292  epoch= 6  U_beta**2 sum is  4.6418131205427926e-07  change of beta norm is... 2.885001404440146e-10
+it= 164  v= 292  epoch= 7  U_beta**2 sum is  9.4693184848893e-08  change of beta norm is... 3.50751511168923e-11
+it= 164  v= 292  epoch= 8  U_beta**2 sum is  1.7931405693616398e-08  change of beta norm is... 1.9581688701086897e-12
+it= 164  v= 292  epoch= 9  U_beta**2 sum is  1.0703005592915815e-08  change of beta norm is... 4.793890978627147e-13
+it= 164  v= 292  epoch= 0  U_beta_til**2 sum is  0.25321340560913086  change of beta_til norm is... 0.0011916733346879482
+it= 164  v= 292  epoch= 1  U_beta_til**2 sum is  0.004776550456881523  change of beta_til norm is... 3.144891707052011e-06
+it= 164  v= 292  epoch= 2  U_beta_til**2 sum is  0.00016019336180761456  change of beta_til norm is... 1.4566302297680522e-07
+it= 164  v= 292  epoch= 3  U_beta_til**2 sum is  9.387087629875168e-06  change of beta_til norm is... 2.608013804916709e-09
+it= 164  v= 292  epoch= 4  U_beta_til**2 sum is  9.229472652805271e-07  change of beta_til norm is... 1.5004583686639705e-10
+it= 164  v= 292  epoch= 5  U_beta_til**2 sum is  1.0404156114418583e-07  change of beta_til norm is... 2.116804821705731e-11
+it= 164  v= 292  epoch= 6  U_beta_til**2 sum is  1.6969655902698833e-08  change of beta_til norm is... 5.023492039013533e-12
+it= 164  v= 292  epoch= 7  U_beta_til**2 sum is  2.8620812386748185e-09  change of beta_til norm is... 7.276633722658188e-13
+it= 164  v= 292  epoch= 8  U_beta_til**2 sum is  7.701300042128878e-09  change of beta_til norm is... 1.5550416314867588e-13
+it= 164  v= 292  epoch= 9  U_beta_til**2 sum is  8.374798632360125e-09  change of beta_til norm is... 2.1098483203585428e-12
+Computation Time for each row = 2.5256834030151367 sec
+it= 164  v= 293  epoch= 0  U_beta**2 sum is  0.8465104699134827  change of beta norm is... 0.000259930471656844
+it= 164  v= 293  epoch= 1  U_beta**2 sum is  0.08459368348121643  change of beta norm is... 1.2083134606655221e-05
+it= 164  v= 293  epoch= 2  U_beta**2 sum is  0.018891867250204086  change of beta norm is... 1.7462862160755321e-06
+it= 164  v= 293  epoch= 3  U_beta**2 sum is  0.005293682683259249  change of beta norm is... 3.9746171864862845e-07
+it= 164  v= 293  epoch= 4  U_beta**2 sum is  0.001412422046996653  change of beta norm is... 9.997184946541893e-08
+it= 164  v= 293  epoch= 5  U_beta**2 sum is  0.00038391584530472755  change of beta norm is... 2.6349095350042262e-08
+it= 164  v= 293  epoch= 6  U_beta**2 sum is  0.00010302497685188428  change of beta norm is... 7.067358254175815e-09
+it= 164  v= 293  epoch= 7  U_beta**2 sum is  2.8183183530927636e-05  change of beta norm is... 1.9139343443441703e-09
+it= 164  v= 293  epoch= 8  U_beta**2 sum is  7.500148512917804e-06  change of beta norm is... 5.168519501275171e-10
+it= 164  v= 293  epoch= 9  U_beta**2 sum is  2.0743482309626415e-06  change of beta norm is... 1.4075333953922353e-10
+it= 164  v= 293  epoch= 0  U_beta_til**2 sum is  0.46799424290657043  change of beta_til norm is... 0.00017464623670093715
+it= 164  v= 293  epoch= 1  U_beta_til**2 sum is  0.02280454710125923  change of beta_til norm is... 4.587548573908862e-06
+it= 164  v= 293  epoch= 2  U_beta_til**2 sum is  0.001091713784262538  change of beta_til norm is... 3.9031178289405943e-07
+it= 164  v= 293  epoch= 3  U_beta_til**2 sum is  0.00014370345161296427  change of beta_til norm is... 2.7267700986044474e-08
+it= 164  v= 293  epoch= 4  U_beta_til**2 sum is  1.48303906826186e-05  change of beta_til norm is... 3.4957137184932208e-09
+it= 164  v= 293  epoch= 5  U_beta_til**2 sum is  2.2332142179948278e-06  change of beta_til norm is... 3.9009143137924696e-10
+it= 164  v= 293  epoch= 6  U_beta_til**2 sum is  3.05691258972729e-07  change of beta_til norm is... 6.285488102220071e-11
+it= 164  v= 293  epoch= 7  U_beta_til**2 sum is  6.187490697584508e-08  change of beta_til norm is... 1.0412084389122e-11
+it= 164  v= 293  epoch= 8  U_beta_til**2 sum is  7.68076802160067e-09  change of beta_til norm is... 1.9774561762359033e-12
+it= 164  v= 293  epoch= 9  U_beta_til**2 sum is  4.659757024683131e-09  change of beta_til norm is... 4.173407496324555e-13
+Computation Time for each row = 2.350907325744629 sec
+it= 164  v= 294  epoch= 0  U_beta**2 sum is  0.7161056995391846  change of beta norm is... 0.00011676837311824784
+it= 164  v= 294  epoch= 1  U_beta**2 sum is  0.043229520320892334  change of beta norm is... 4.230223566992208e-06
+it= 164  v= 294  epoch= 2  U_beta**2 sum is  0.021175164729356766  change of beta norm is... 1.2256766694918042e-06
+it= 164  v= 294  epoch= 3  U_beta**2 sum is  0.0058245304971933365  change of beta norm is... 3.6562414607033134e-07
+it= 164  v= 294  epoch= 4  U_beta**2 sum is  0.0023726094514131546  change of beta norm is... 1.3684612554243358e-07
+it= 164  v= 294  epoch= 5  U_beta**2 sum is  0.0007983342511579394  change of beta norm is... 4.856357804783329e-08
+it= 164  v= 294  epoch= 6  U_beta**2 sum is  0.000300108571536839  change of beta norm is... 1.776772862172038e-08
+it= 164  v= 294  epoch= 7  U_beta**2 sum is  0.00010654657671693712  change of beta norm is... 6.4713212566402945e-09
+it= 164  v= 294  epoch= 8  U_beta**2 sum is  3.9603968616575e-05  change of beta norm is... 2.3670083670879194e-09
+it= 164  v= 294  epoch= 9  U_beta**2 sum is  1.4103809007792734e-05  change of beta norm is... 8.607931034632088e-10
+it= 164  v= 294  epoch= 0  U_beta_til**2 sum is  0.8417618870735168  change of beta_til norm is... 0.00011851167073473334
+it= 164  v= 294  epoch= 1  U_beta_til**2 sum is  0.010137050412595272  change of beta_til norm is... 2.7602836780715734e-06
+it= 164  v= 294  epoch= 2  U_beta_til**2 sum is  0.0014050622703507543  change of beta_til norm is... 1.5567908917546447e-07
+it= 164  v= 294  epoch= 3  U_beta_til**2 sum is  0.00018656467727851123  change of beta_til norm is... 2.422641287580518e-08
+it= 164  v= 294  epoch= 4  U_beta_til**2 sum is  5.948451507720165e-05  change of beta_til norm is... 5.229607857870633e-09
+it= 164  v= 294  epoch= 5  U_beta_til**2 sum is  1.8676946638152003e-05  change of beta_til norm is... 1.7656179851499587e-09
+it= 164  v= 294  epoch= 6  U_beta_til**2 sum is  6.110863523645094e-06  change of beta_til norm is... 5.620555132423988e-10
+it= 164  v= 294  epoch= 7  U_beta_til**2 sum is  1.9547333067748696e-06  change of beta_til norm is... 1.9017187824488246e-10
+it= 164  v= 294  epoch= 8  U_beta_til**2 sum is  7.46583680211188e-07  change of beta_til norm is... 6.532058921537853e-11
+it= 164  v= 294  epoch= 9  U_beta_til**2 sum is  2.2255082399169623e-07  change of beta_til norm is... 2.1828545915258957e-11
+Computation Time for each row = 2.391711473464966 sec
+it= 164  v= 295  epoch= 0  U_beta**2 sum is  5.542563438415527  change of beta norm is... 0.00011616889969445765
+it= 164  v= 295  epoch= 1  U_beta**2 sum is  0.19472360610961914  change of beta norm is... 1.201855866383994e-05
+it= 164  v= 295  epoch= 2  U_beta**2 sum is  0.02677987329661846  change of beta norm is... 7.433903874698444e-07
+it= 164  v= 295  epoch= 3  U_beta**2 sum is  0.0009663368109613657  change of beta norm is... 1.504057252077473e-07
+it= 164  v= 295  epoch= 4  U_beta**2 sum is  0.0003954244893975556  change of beta norm is... 1.5682410037243244e-08
+it= 164  v= 295  epoch= 5  U_beta**2 sum is  9.28900954022538e-06  change of beta norm is... 4.711102619125995e-09
+it= 164  v= 295  epoch= 6  U_beta**2 sum is  1.1473073755041696e-05  change of beta norm is... 8.58223048183504e-10
+it= 164  v= 295  epoch= 7  U_beta**2 sum is  8.807993481241283e-07  change of beta norm is... 2.710068836009327e-10
+it= 164  v= 295  epoch= 8  U_beta**2 sum is  5.441577854981006e-07  change of beta norm is... 6.906776539583603e-11
+it= 164  v= 295  epoch= 9  U_beta**2 sum is  9.369862397079487e-08  change of beta norm is... 1.9723958577522183e-11
+it= 164  v= 295  epoch= 0  U_beta_til**2 sum is  1.2141762971878052  change of beta_til norm is... 5.13387203682214e-05
+it= 164  v= 295  epoch= 1  U_beta_til**2 sum is  0.009066173806786537  change of beta_til norm is... 2.337957084819209e-06
+it= 164  v= 295  epoch= 2  U_beta_til**2 sum is  0.0012601923663169146  change of beta_til norm is... 7.121725786873867e-08
+it= 164  v= 295  epoch= 3  U_beta_til**2 sum is  6.191242573549971e-05  change of beta_til norm is... 7.4143176043151016e-09
+it= 164  v= 295  epoch= 4  U_beta_til**2 sum is  6.16791658103466e-06  change of beta_til norm is... 7.084693942616127e-10
+it= 164  v= 295  epoch= 5  U_beta_til**2 sum is  9.62604417509283e-07  change of beta_til norm is... 6.76684680511741e-11
+it= 164  v= 295  epoch= 6  U_beta_til**2 sum is  4.64073295347589e-08  change of beta_til norm is... 1.3202469499595804e-11
+it= 164  v= 295  epoch= 7  U_beta_til**2 sum is  2.452831182608861e-08  change of beta_til norm is... 1.3559899730841707e-12
+it= 164  v= 295  epoch= 8  U_beta_til**2 sum is  3.3536229349095947e-09  change of beta_til norm is... 5.126849465797445e-13
+it= 164  v= 295  epoch= 9  U_beta_til**2 sum is  6.8453265278378694e-09  change of beta_til norm is... 1.80300964588119e-13
+Computation Time for each row = 2.35054874420166 sec
+it= 164  v= 296  epoch= 0  U_beta**2 sum is  0.5774252414703369  change of beta norm is... 2.8537644539028406e-05
+it= 164  v= 296  epoch= 1  U_beta**2 sum is  0.002511898521333933  change of beta norm is... 7.010191325207416e-07
+it= 164  v= 296  epoch= 2  U_beta**2 sum is  0.00029620190616697073  change of beta norm is... 4.114048834935602e-08
+it= 164  v= 296  epoch= 3  U_beta**2 sum is  8.167555279214866e-06  change of beta norm is... 4.378548634775825e-09
+it= 164  v= 296  epoch= 4  U_beta**2 sum is  1.5048574368847767e-06  change of beta norm is... 4.2680872724965013e-10
+it= 164  v= 296  epoch= 5  U_beta**2 sum is  1.0810803274807768e-07  change of beta norm is... 5.0223332437315804e-11
+it= 164  v= 296  epoch= 6  U_beta**2 sum is  1.4732338016187896e-08  change of beta norm is... 5.723478115060576e-12
+it= 164  v= 296  epoch= 7  U_beta**2 sum is  5.875191888549125e-09  change of beta norm is... 8.756592456346524e-13
+it= 164  v= 296  epoch= 8  U_beta**2 sum is  1.8268488943817829e-09  change of beta norm is... 1.5298775701139133e-13
+it= 164  v= 296  epoch= 9  U_beta**2 sum is  3.2129401361657983e-09  change of beta norm is... 8.929843491175746e-14
+it= 164  v= 296  epoch= 0  U_beta_til**2 sum is  0.6180719137191772  change of beta_til norm is... 5.2936542488168925e-05
+it= 164  v= 296  epoch= 1  U_beta_til**2 sum is  0.0026260502636432648  change of beta_til norm is... 7.439870728376263e-07
+it= 164  v= 296  epoch= 2  U_beta_til**2 sum is  0.0001840584445744753  change of beta_til norm is... 3.8219660325466975e-08
+it= 164  v= 296  epoch= 3  U_beta_til**2 sum is  1.096632877306547e-05  change of beta_til norm is... 3.7068197400458303e-09
+it= 164  v= 296  epoch= 4  U_beta_til**2 sum is  1.932504119395162e-06  change of beta_til norm is... 4.902848682597494e-10
+it= 164  v= 296  epoch= 5  U_beta_til**2 sum is  2.0650251997267333e-07  change of beta_til norm is... 7.575326477216038e-11
+it= 164  v= 296  epoch= 6  U_beta_til**2 sum is  4.102945538875247e-08  change of beta_til norm is... 1.1892426279858093e-11
+it= 164  v= 296  epoch= 7  U_beta_til**2 sum is  8.376417781619239e-09  change of beta_til norm is... 1.9701768428498356e-12
+it= 164  v= 296  epoch= 8  U_beta_til**2 sum is  1.2237706403794846e-09  change of beta_til norm is... 2.8451698462494956e-13
+it= 164  v= 296  epoch= 9  U_beta_til**2 sum is  5.875926412102217e-10  change of beta_til norm is... 1.0864799457246249e-13
+Computation Time for each row = 2.453000783920288 sec
+it= 164  v= 297  epoch= 0  U_beta**2 sum is  1.4379384517669678  change of beta norm is... 6.69290020596236e-05
+it= 164  v= 297  epoch= 1  U_beta**2 sum is  0.0046789213083684444  change of beta norm is... 1.861848431872204e-06
+it= 164  v= 297  epoch= 2  U_beta**2 sum is  0.00030085985781624913  change of beta norm is... 1.0547196183097185e-07
+it= 164  v= 297  epoch= 3  U_beta**2 sum is  1.5119494491955265e-05  change of beta norm is... 9.800364964007713e-09
+it= 164  v= 297  epoch= 4  U_beta**2 sum is  1.6215906271099811e-06  change of beta norm is... 8.660540062876976e-10
+it= 164  v= 297  epoch= 5  U_beta**2 sum is  1.6296790761316515e-07  change of beta norm is... 8.769245052331343e-11
+it= 164  v= 297  epoch= 6  U_beta**2 sum is  3.234379164496204e-08  change of beta norm is... 8.609307711182623e-12
+it= 164  v= 297  epoch= 7  U_beta**2 sum is  1.2430692919451758e-08  change of beta norm is... 8.185215200941232e-13
+it= 164  v= 297  epoch= 8  U_beta**2 sum is  2.0880039031112574e-08  change of beta norm is... 1.0303041785616335e-13
+it= 164  v= 297  epoch= 9  U_beta**2 sum is  4.036197154277943e-09  change of beta norm is... 7.133346241168861e-14
+it= 164  v= 297  epoch= 0  U_beta_til**2 sum is  0.21404266357421875  change of beta_til norm is... 2.3317610612139106e-05
+it= 164  v= 297  epoch= 1  U_beta_til**2 sum is  0.006306720897555351  change of beta_til norm is... 6.094469426898286e-07
+it= 164  v= 297  epoch= 2  U_beta_til**2 sum is  0.00038030813448131084  change of beta_til norm is... 4.4667565646250296e-08
+it= 164  v= 297  epoch= 3  U_beta_til**2 sum is  7.177484076237306e-05  change of beta_til norm is... 5.672082359353681e-09
+it= 164  v= 297  epoch= 4  U_beta_til**2 sum is  1.1032501788577065e-05  change of beta_til norm is... 8.828259234761049e-10
+it= 164  v= 297  epoch= 5  U_beta_til**2 sum is  2.063025704046595e-06  change of beta_til norm is... 1.5209261627902038e-10
+it= 164  v= 297  epoch= 6  U_beta_til**2 sum is  3.4776374491229944e-07  change of beta_til norm is... 2.5709148351871214e-11
+it= 164  v= 297  epoch= 7  U_beta_til**2 sum is  4.994443969508211e-08  change of beta_til norm is... 4.449888808127911e-12
+it= 164  v= 297  epoch= 8  U_beta_til**2 sum is  1.017131268099547e-08  change of beta_til norm is... 8.143771030796887e-13
+it= 164  v= 297  epoch= 9  U_beta_til**2 sum is  3.5544713838930875e-09  change of beta_til norm is... 1.8163216156802386e-13
+Computation Time for each row = 2.385951042175293 sec
+164 / 2041 iteration running...
+Loss for 0th row is... 1718.06103515625
+Loss for 1th row is... 4225.2021484375
+Loss for 2th row is... 1584.156982421875
+Loss for 3th row is... 1728.730712890625
+Loss for 4th row is... 1734.665771484375
+Loss for 5th row is... 2025.277587890625
+Loss for 6th row is... 2527.262451171875
+Loss for 7th row is... 1754.5693359375
+Loss for 8th row is... 2463.28369140625
+Loss for 9th row is... 2529.95947265625
+Loss for 10th row is... 1690.2647705078125
+Loss for 11th row is... 2288.64697265625
+Loss for 12th row is... 6537.15673828125
+Loss for 13th row is... 1686.7569580078125
+Loss for 14th row is... 1706.8935546875
+Loss for 15th row is... 1594.38720703125
+Loss for 16th row is... 1754.40673828125
+Loss for 17th row is... 1869.0389404296875
+Loss for 18th row is... 2065.851318359375
+Loss for 19th row is... 1589.845947265625
+Loss for 20th row is... 1672.19677734375
+Loss for 21th row is... 2322.802978515625
+Loss for 22th row is... 1853.150146484375
+Loss for 23th row is... 1586.011474609375
+Loss for 24th row is... 1812.04736328125
+Loss for 25th row is... 1825.7496337890625
+Loss for 26th row is... 1671.48193359375
+Loss for 27th row is... 1719.90283203125
+Loss for 28th row is... 936.8934936523438
+Loss for 29th row is... 1634.341796875
+Loss for 30th row is... 1478.40234375
+Loss for 31th row is... 1583.238037109375
+Loss for 32th row is... 2004.469482421875
+Loss for 33th row is... 1212.1485595703125
+Loss for 34th row is... 2687.262451171875
+Loss for 35th row is... 1992.1314697265625
+Loss for 36th row is... 3002.201171875
+Loss for 37th row is... 1796.4154052734375
+Loss for 38th row is... 3340.07666015625
+Loss for 39th row is... 1577.769775390625
+Loss for 40th row is... 1479.3734130859375
+Loss for 41th row is... 1738.0712890625
+Loss for 42th row is... 2073.63525390625
+Loss for 43th row is... 1761.701171875
+Loss for 44th row is... 1810.1534423828125
+Loss for 45th row is... 1583.946044921875
+Loss for 46th row is... 1744.4256591796875
+Loss for 47th row is... 1917.2752685546875
+Loss for 48th row is... 1940.9078369140625
+Loss for 49th row is... 2386.581787109375
+Loss for 50th row is... 1673.546875
+Loss for 51th row is... 1758.9852294921875
+Loss for 52th row is... 1672.82958984375
+Loss for 53th row is... 2480.62890625
+Loss for 54th row is... 1780.712158203125
+Loss for 55th row is... 2178.368408203125
+Loss for 56th row is... 2772.61279296875
+Loss for 57th row is... 1601.9332275390625
+Loss for 58th row is... 1821.1298828125
+Loss for 59th row is... 2239.773681640625
+Loss for 60th row is... 1679.0513916015625
+Loss for 61th row is... 2015.2994384765625
+Loss for 62th row is... 1515.8199462890625
+Loss for 63th row is... 1542.8515625
+Loss for 64th row is... 3657.218017578125
+Loss for 65th row is... 1884.2982177734375
+Loss for 66th row is... 3059.899658203125
+Loss for 67th row is... 1911.9071044921875
+Loss for 68th row is... 1906.6663818359375
+Loss for 69th row is... 1725.1885986328125
+Loss for 70th row is... 3377.342529296875
+Loss for 71th row is... 1675.1640625
+Loss for 72th row is... 1592.2254638671875
+Loss for 73th row is... 1433.594970703125
+Loss for 74th row is... 1911.885986328125
+Loss for 75th row is... 3178.74951171875
+Loss for 76th row is... 1865.0506591796875
+Loss for 77th row is... 1653.5445556640625
+Loss for 78th row is... 1876.7852783203125
+Loss for 79th row is... 1669.2181396484375
+Loss for 80th row is... 1673.030029296875
+Loss for 81th row is... 1612.12890625
+Loss for 82th row is... 1588.4962158203125
+Loss for 83th row is... 2023.3466796875
+Loss for 84th row is... 1756.669677734375
+Loss for 85th row is... 3941.4912109375
+Loss for 86th row is... 1927.3154296875
+Loss for 87th row is... 2039.740478515625
+Loss for 88th row is... 1496.0301513671875
+Loss for 89th row is... 1588.029296875
+Loss for 90th row is... 1587.84619140625
+Loss for 91th row is... 1906.81640625
+Loss for 92th row is... 3263.54345703125
+Loss for 93th row is... 2551.969970703125
+Loss for 94th row is... 1665.01953125
+Loss for 95th row is... 1659.7330322265625
+Loss for 96th row is... 2506.4794921875
+Loss for 97th row is... 1642.524169921875
+Loss for 98th row is... 1765.198486328125
+Loss for 99th row is... 1612.7294921875
+Loss for 100th row is... 1665.071533203125
+Loss for 101th row is... 1900.833984375
+Loss for 102th row is... 2962.211669921875
+Loss for 103th row is... 1809.0660400390625
+Loss for 104th row is... 1711.2047119140625
+Loss for 105th row is... 1702.9833984375
+Loss for 106th row is... 1661.951171875
+Loss for 107th row is... 4287.5927734375
+Loss for 108th row is... 1871.79345703125
+Loss for 109th row is... 1611.8536376953125
+Loss for 110th row is... 1819.2657470703125
+Loss for 111th row is... 1691.541015625
+Loss for 112th row is... 1613.1014404296875
+Loss for 113th row is... 2371.769775390625
+Loss for 114th row is... 3303.89501953125
+Loss for 115th row is... 1939.23095703125
+Loss for 116th row is... 2978.319091796875
+Loss for 117th row is... 2195.344482421875
+Loss for 118th row is... 1972.5164794921875
+Loss for 119th row is... 1928.969482421875
+Loss for 120th row is... 1603.7440185546875
+Loss for 121th row is... 1689.489990234375
+Loss for 122th row is... 2725.464599609375
+Loss for 123th row is... 1624.670654296875
+Loss for 124th row is... 1800.7392578125
+Loss for 125th row is... 1531.8739013671875
+Loss for 126th row is... 2485.3544921875
+Loss for 127th row is... 1911.380126953125
+Loss for 128th row is... 1691.186767578125
+Loss for 129th row is... 3990.068359375
+Loss for 130th row is... 1956.015625
+Loss for 131th row is... 1623.4295654296875
+Loss for 132th row is... 2247.654541015625
+Loss for 133th row is... 1741.238525390625
+Loss for 134th row is... 2106.252197265625
+Loss for 135th row is... 2141.6396484375
+Loss for 136th row is... 1653.8277587890625
+Loss for 137th row is... 1710.5771484375
+Loss for 138th row is... 3349.479248046875
+Loss for 139th row is... 2514.0341796875
+Loss for 140th row is... 1635.5816650390625
+Loss for 141th row is... 1739.6968994140625
+Loss for 142th row is... 1678.7830810546875
+Loss for 143th row is... 1920.42578125
+Loss for 144th row is... 1664.3790283203125
+Loss for 145th row is... 1655.25146484375
+Loss for 146th row is... 2589.634521484375
+Loss for 147th row is... 1668.7911376953125
+Loss for 148th row is... 1683.0509033203125
+Loss for 149th row is... 2532.7041015625
+Loss for 150th row is... 1777.597900390625
+Loss for 151th row is... 2193.358642578125
+Loss for 152th row is... 1468.79833984375
+Loss for 153th row is... 1840.62451171875
+Loss for 154th row is... 2960.189453125
+Loss for 155th row is... 1763.127197265625
+Loss for 156th row is... 1765.3345947265625
+Loss for 157th row is... 1507.265869140625
+Loss for 158th row is... 2210.3828125
+Loss for 159th row is... 1800.6156005859375
+Loss for 160th row is... 1612.293701171875
+Loss for 161th row is... 3934.5859375
+Loss for 162th row is... 3983.315185546875
+Loss for 163th row is... 1800.7398681640625
+Loss for 164th row is... 1743.6719970703125
+Loss for 165th row is... 1730.3726806640625
+Loss for 166th row is... 1976.4180908203125
+Loss for 167th row is... 2577.12060546875
+Loss for 168th row is... 1638.3353271484375
+Loss for 169th row is... 1758.0086669921875
+Loss for 170th row is... 1656.8001708984375
+Loss for 171th row is... 1799.1627197265625
+Loss for 172th row is... 1463.4154052734375
+Loss for 173th row is... 1772.0264892578125
+Loss for 174th row is... 1678.7879638671875
+Loss for 175th row is... 4555.5869140625
+Loss for 176th row is... 1679.683349609375
+Loss for 177th row is... 2384.64501953125
+Loss for 178th row is... 1746.650146484375
+Loss for 179th row is... 1703.977294921875
+Loss for 180th row is... 1489.6558837890625
+Loss for 181th row is... 1594.021484375
+Loss for 182th row is... 2553.134521484375
+Loss for 183th row is... 4965.9609375
+Loss for 184th row is... 1842.1209716796875
+Loss for 185th row is... 1617.338134765625
+Loss for 186th row is... 1506.2071533203125
+Loss for 187th row is... 1733.41796875
+Loss for 188th row is... 2811.460693359375
+Loss for 189th row is... 1591.2056884765625
+Loss for 190th row is... 2752.847412109375
+Loss for 191th row is... 1657.6644287109375
+Loss for 192th row is... 2965.2041015625
+Loss for 193th row is... 2010.4200439453125

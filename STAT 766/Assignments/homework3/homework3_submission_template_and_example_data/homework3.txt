@@ -1,0 +1,20 @@
+Write a function to perform the following task:
+
+The name of the function is 'extract'. 
+
+The input arguments are input_files and out_db_filename. The input_files is a list of .txt files. 
+For example, ['out1.txt', 'out2.txt', 'out3.txt', 'out4.txt']. You will be tested with different .txt files. The out_db_filename gives the name of the database to be created by the function. 
+
+Create a table in the database out_db_filename. The table in the database is named 'output' and contains the following variables: it, v, epoch, U_beta_square_sum. These variables correspond to the it, v, epoch and 'U_beta**2 sum' from the .txt files. The it, v and epoch are integers and U_beta_square_sum is float  (i.e. REAL in sqlite3). 
+
+Extract the values of it,  v, epoch, and 'U_beta**2 sum' from all .txt files and enter them into the output tabe in the database. 
+
+Select all rows from the database such that epoch = 0. Order them first based on the values of it in ascending order, and then based on v in ascending order for those with identical it value.  
+
+For those selected rows, write them out into a new table named epoch0 under the same database out_db_filename. 
+
+The function has no return but the database out_db_filename is created when the function is called. 
+
+Note: Remember to 
+(1) use conn.commit() to write your content to the actual database file. 
+(2) close your database with conn.close() in the end of your function. 

@@ -1,0 +1,36 @@
+
+For the iris dataset from sklearn.dataset, write python code for creating interactive web page. Implement with dash, streamlit, and panel separately, one in each file.
+
+The created web page will display the following:
+
+Title: Iris Dataset Explorer
+
+A two-column split:
+ first column: displaying text 'X-axis' and a dropdown box that allows users to select one independent variable to use in X-axis for scatter plot.
+               Hint: Use dcc.Dropdown for dash; st.selectbox for streamlit; and pn.widgets.Select for panel. 
+
+ second column: displaying text 'Y-axis' and let user select another independent variable to use in Y-axis for scatter plot
+               Same hint as above. 
+
+ first column: displaying 'Color by Species' and a checkbook to allow users to choose coloring by species or not. Default: no coloring difference.
+               Hint: Use Checklist or Checkbox for dash; Use button for streamlit; and Checkbox for panel.
+
+ second column: displaying 'Marker Size' and a slider to allow users to choose marker size. The slider has values between 5 and 20 in step of 1,
+                and are marked at 5, 10, 15, and 20 at the bottom of the slider.
+                Hint: Use dcc.Slider for dash; slider for streamlit; IntSlider for panel.  
+
+
+Using full width, give the scatter plot of the user selected X-axis and Y-axis, with the user's choice of 
+   marker size and coloring. The title of the plot is f'Iris Dataset: {x_axis} vs {y_axis}'  where x_axis and y_axis refer to the user selected variables. 
+   Hint: Use plotly.express.scatter to create the scatter plot
+
+Using full width, give the histogram of Y-axis but with X-axis as the horizontal axis, with the user's choice of coloring, and grouped by the target variable. 
+   Hint: Use plotly.express.histogram to create the hisogram. 
+
+
+Write your code for implementation using these three methods in files dash_hw4_iris.py,
+streamlit_hw4_iris.py, and panel_hw4_iris.py. Then compress these three files as a .zip file. Submit the .zip file to gradescope under Homework 4: Model deployment with streamlit, dash, and panel.
+
+  
+
+
