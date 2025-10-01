@@ -8,7 +8,7 @@ iris = load_iris()
 df = pd.DataFrame(data=iris.data, columns=iris["feature_names"])
 df["species"] = iris.target_names[iris.target]
 
-st.header("Iris Dataset Explorer")
+st.title("Iris Dataset Explorer")
 col1, col2 = st.columns(2)
 
 with col1:

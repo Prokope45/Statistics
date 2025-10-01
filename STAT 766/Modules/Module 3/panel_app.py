@@ -10,7 +10,7 @@ iris = load_iris()
 df = pd.DataFrame(data=iris.data, columns=iris["feature_names"])
 # df["species"] = pd.Categorical.from_codes(iris["target"], iris["target_names"])
 df["species"] = iris.target_names[iris.target]
-# df.columns = [c.replace(" (cm)", '') .replace(' ', '_') for c in df.columns]
+df.columns = [c.replace(" (cm)", '') .replace(' ', '_') for c in df.columns]
 
 x_axis = pn.x_axis = pn.widgets.Select(
     name="X Axis",

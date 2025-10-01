@@ -60,18 +60,15 @@ app.layout = html.Div([
 ])
 
 
-# Callback to update plots
 @app.callback(
     Output('scatter-plot', 'figure'),
-    Output('histogram-plot', 'figure'),
     Input('x-axis-dropdown', 'value'),
     Input('y-axis-dropdown', 'value'),
     Input('coloring-checklist', 'value'),
     Input('marker-size-slider', 'value'),
 )
-def update_graphs(x_axis, y_axis, coloring_value, marker_size):
+def update_scatter(x_axis, y_axis, coloring_value, marker_size):
     color = 'species' if 'color' in coloring_value else None
-
     scatter_fig = px.scatter(
         df, x=x_axis, y=y_axis,
         size=[marker_size] * len(df),
@@ -80,17 +77,28 @@ def update_graphs(x_axis, y_axis, coloring_value, marker_size):
         title=f"Scatter plot of {x_axis} vs {y_axis}",
         labels={x_axis: x_axis, y_axis: y_axis, "species": "Species"}
     )
+    return scatter_fig
 
+
+# Callback to update plots
+@app.callback(
+    Output('histogram-plot', 'figure'),
+    Input('x-axis-dropdown', 'value'),
+    Input('y-axis-dropdown', 'value'),
+    Input('coloring-checklist', 'value'),
+    Input('marker-size-slider', 'value'),
+)
+def update_graphs(x_axis, y_axis, coloring_value, marker_size):
+    color = 'species' if 'color' in coloring_value else None
     histogram_fig = px.histogram(
         df, x=x_axis, y=y_axis,
         color=color,
         barmode='group',
         title=f"Histogram of {y_axis} grouped by {x_axis}"
     )
+    return histogram_fig
 
-    return scatter_fig, histogram_fig
-
-
-app.run()
 
 # To serve app: `python3 dash_hw4_iris.py`
+if __name__ == '__main__':
+    app.run_server(debug=False)
